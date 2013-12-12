@@ -1,0 +1,4920 @@
+1007	1	V	Carolina 	1	3	0	4	5.5u25	5.5u30
+1007	2	H	Minnesota 	1	1	1	3	-115	-120
+1007	3	V	Philadelphia 	0	2	1	3	6o15	6o25
+1007	4	H	Pittsburgh 	0	0	2	2	-167	-170
+1007	5	V	Montreal 	1	0	1	2	5.5o15	5.5o20
+1007	6	H	Toronto 	2	0	1	3	-130	-155
+1007	7	V	Chicago 	1	1	1	3	-120	-135
+1007	8	H	Colorado 	1	2	0	4	5.5o15	5.5o20
+1007	9	V	Calgary 	0	0	0	0	-104	5.5
+1007	10	H	Edmonton 	1	0	3	4	5.5u20	-110
+1008	51	V	Minnesota 	1	0	0	1	5.5u23	-125
+1008	52	H	Carolina 	0	1	0	2	-115	5.5u25
+1008	53	V	Columbus 	2	0	0	2	5.5u09	5.5
+1008	54	H	San Jose 	2	0	1	3	-185	-200
+1008	55	V	Anaheim 	0	0	0	0	5.5	5.5o25
+1008	56	H	Detroit 	2	2	0	4	-193	-200
+1008	57	V	Dallas 	1	2	0	4	5.5u15	5.5u20
+1008	58	H	New Jersey 	2	1	0	3	-193	-185
+1008	59	V	Buffalo 	1	0	1	2	5.5u15	5.5
+1008	60	H	Ottawa 	0	1	0	1	-135	-125
+1008	61	V	Washington 	1	0	1	2	-162	-170
+1008	62	H	Atlanta 	1	2	1	4	6.5o09	6.5
+1009	1	V	Phoenix 	1	3	1	5	5o10	5o20
+1009	2	H	Boston 	0	0	2	2	-127	-125
+1009	3	V	San Jose 	1	0	1	2	-162	-160
+1009	4	H	Columbus 	1	0	1	3	5.5	5.5u20
+1009	5	V	NY Rangers 	2	2	2	6	5.5u20	5.5u25
+1009	6	H	Buffalo 	0	1	2	3	-139	-145
+1009	7	V	Ottawa 	0	0	1	1	5.5	5.5
+1009	8	H	Toronto 	2	1	2	5	-135	-150
+1009	9	V	Dallas 	2	1	1	5	5.5u09	5.5
+1009	10	H	NY Islanders 	0	2	2	4	-113	-110
+1009	11	V	Montreal 	1	0	2	3	5.5o15	5.5o20
+1009	12	H	Pittsburgh 	0	1	1	2	-220	-210
+1009	13	V	New Jersey 	2	0	0	2	6u15	6u30
+1009	14	H	Washington 	1	4	2	7	-151	-155
+1009	15	V	Atlanta 	0	2	1	3	6	6u30
+1009	16	H	Tampa Bay 	2	2	1	5	-146	-140
+1009	17	V	Philadelphia 	0	0	1	1	5.5u09	5.5u15
+1009	18	H	St. Louis 	1	0	0	2	-113	-130
+1009	19	V	Anaheim 	0	1	0	1	5.5u15	5.5u20
+1009	20	H	Nashville 	0	3	1	4	-141	-155
+1009	21	V	Detroit 	1	1	1	3	5.5o20	5.5o25
+1009	22	H	Chicago 	1	1	0	2	-151	-140
+1009	23	V	Los Angeles 	0	0	1	2	5.5	5.5
+1009	24	H	Vancouver 	0	1	0	1	-156	-155
+1010	51	V	Boston 	0	2	1	3	-109	-120
+1010	52	H	Phoenix 	0	0	0	0	5o19	5o35
+1010	53	V	Florida 	0	2	0	2	5.5u25	5.5u20
+1010	54	H	Edmonton 	0	3	0	3	-149	-150
+1010	55	V	Los Angeles 	0	0	1	1	5.5u25	5.5u40
+1010	56	H	Calgary 	0	1	2	3	-119	-115
+1011	1	V	Pittsburgh 	1	1	1	3	5.5u20	5.5
+1011	2	H	New Jersey 	0	0	1	1	-145	-125
+1011	3	V	NY Rangers 	1	2	1	4	-155	-145
+1011	4	H	NY Islanders 	2	1	3	6	5.5u20	5.5u20
+1011	5	V	Anaheim 	0	1	0	1	5.5u35	5.5
+1011	6	H	St. Louis 	2	2	1	5	-160	-190
+1011	7	V	Chicago 	1	2	1	4	5.5u15	5.5
+1011	8	H	Buffalo 	2	0	1	3	-125	-125
+1011	9	V	Colorado 	0	1	1	2	5.5o25	5.5o15
+1011	10	H	Philadelphia 	2	0	2	4	-155	-165
+1011	11	V	Ottawa 	0	1	1	2	6o30	6o25
+1011	12	H	Washington 	1	1	0	3	-210	-240
+1011	13	V	Florida 	0	1	0	1	5.5u30	5.5u25
+1011	14	H	Vancouver 	1	0	1	2	-240	-260
+1012	51	V	Colorado 	1	1	2	5	5.5o25	5.5o20
+1012	52	H	Detroit 	1	2	1	4	-209	-240
+1012	53	V	Atlanta 	0	1	0	1	6u18	5.5u20
+1012	54	H	Los Angeles 	0	0	3	3	-193	-180
+1013	1	V	NY Islanders 	1	0	0	1	6o25	6.5u40
+1013	2	H	Washington 	0	1	1	2	-272	-325
+1013	3	V	New Jersey 	0	0	0	1	5.5u25	5.5u35
+1013	4	H	Buffalo 	0	0	0	0	-140	-140
+1013	5	V	Toronto 	1	3	0	4	5.5	5.5o30
+1013	6	H	Pittsburgh 	2	1	0	3	-175	-165
+1013	7	V	Tampa Bay 	0	1	2	4	5.5	5.5
+1013	8	H	Montreal 	2	0	1	3	-125	-120
+1013	9	V	Nashville 	1	0	2	3	5.5	5.5u20
+1013	10	H	Chicago 	2	0	0	2	-193	-175
+1013	11	V	Vancouver 	2	0	1	3	-125	-160
+1013	12	H	Anaheim 	1	1	2	4	5.5o09	6
+1014	51	V	Tampa Bay 	1	1	1	3	5.5o25	5.5o15
+1014	52	H	Philadelphia 	1	0	1	2	-166	-200
+1014	53	V	Carolina 	0	0	2	2	5.5u15	5.5o15
+1014	54	H	Ottawa 	1	1	1	3	-145	-135
+1014	55	V	St. Louis 	1	1	1	3	5.5u25	5.5u45
+1014	56	H	Nashville 	3	1	0	4	-115	-110
+1014	57	V	Detroit 	0	0	1	1	-130	-120
+1014	58	H	Dallas 	1	3	0	4	5.5	5.5o25
+1014	59	V	Edmonton 	0	2	0	2	5.5u15	5.5u20
+1014	60	H	Minnesota 	1	2	1	4	-130	-160
+1014	61	V	Florida 	2	0	1	3	5o25	5o20
+1014	62	H	Calgary 	0	0	0	0	-156	-145
+1015	1	V	Colorado 	1	1	1	3	5.5	5.5u30
+1015	2	H	New Jersey 	0	1	1	2	-156	-145
+1015	3	V	Toronto 	0	3	0	4	5.5o25	5.5
+1015	4	H	NY Rangers 	1	0	2	3	-135	-140
+1015	5	V	Chicago 	2	2	1	5	5.5u25	5.5
+1015	6	H	Columbus 	0	1	1	2	-120	-110
+1015	7	V	NY Islanders 	0	2	0	2	5.5o25	5.5o30
+1015	8	H	Pittsburgh 	0	2	0	3	-220	-235
+1015	9	V	Montreal 	0	2	0	2	5.5u35	5.5u40
+1015	10	H	Buffalo 	0	0	1	1	-148	-150
+1015	11	V	Atlanta 	1	1	2	5	6u20	6u25
+1015	12	H	Anaheim 	1	2	1	4	-140	-130
+1015	13	V	Vancouver 	0	0	1	1	5.5u23	5.5u25
+1015	14	H	Los Angeles 	1	1	2	4	-115	-110
+1016	51	V	Ottawa 	1	2	0	3	-104	5.5u25
+1016	52	H	Montreal 	1	2	1	4	5.5u20	-110
+1016	53	V	Boston 	0	4	0	4	5o30	5o30
+1016	54	H	New Jersey 	0	1	0	1	-120	-125
+1016	55	V	Colorado 	0	0	2	2	-120	-120
+1016	56	H	NY Islanders 	0	3	2	5	5.5o20	5.5o20
+1016	57	V	Pittsburgh 	1	1	3	5	5.5o25	5.5o20
+1016	58	H	Philadelphia 	1	0	0	1	-140	-160
+1016	59	V	Tampa Bay 	0	0	0	0	-104	5.5u30
+1016	60	H	Florida 	4	0	2	6	5.5u15	-120
+1016	61	V	Washington 	0	0	2	3	-130	-120
+1016	62	H	Nashville 	1	1	0	2	6	6u20
+1016	63	V	Columbus 	1	1	1	3	5.5u09	5o50
+1016	64	H	Minnesota 	0	2	0	2	-156	-170
+1016	65	V	St. Louis 	2	0	0	2	5.5u15	5.5u35
+1016	66	H	Dallas 	1	1	0	3	-125	-115
+1016	67	V	Buffalo 	2	1	0	3	5.5u15	5.5
+1016	68	H	Chicago 	1	1	2	4	-154	-180
+1016	69	V	Detroit 	0	1	0	2	-109	-115
+1016	70	H	Phoenix 	1	0	0	1	5o35	5o45
+1016	71	V	Edmonton 	1	2	0	3	5.5u35	5o30
+1016	72	H	Calgary 	1	1	3	5	-135	-140
+1016	73	V	Atlanta 	0	2	2	4	5.5o15	5.5o20
+1016	74	H	San Jose 	2	0	0	2	-205	-255
+1017	1	V	Phoenix 	0	0	2	2	5.5u15	5.5u20
+1017	2	H	Anaheim 	0	2	1	3	-135	-140
+1017	3	V	Carolina 	0	1	0	1	5.5u25	6u20
+1017	4	H	Vancouver 	2	1	2	5	-180	-165
+1018	51	V	NY Islanders 	0	1	0	2	5.5o09	5.5o20
+1018	52	H	Toronto 	0	0	1	1	-182	-180
+1018	53	V	Colorado 	1	0	2	3	5.5o15	5.5u20
+1018	54	H	NY Rangers 	1	0	0	1	-125	-120
+1018	55	V	Ottawa 	0	1	1	2	5.5o09	5.5o15
+1018	56	H	Pittsburgh 	3	2	0	5	-166	-165
+1018	57	V	Dallas 	1	1	2	4	5.5o25	5.5o25
+1018	58	H	Tampa Bay 	2	2	1	5	-125	-125
+1018	59	V	St. Louis 	0	1	1	2	5.5u09	5.5u25
+1018	60	H	Chicago 	0	0	2	3	-156	-140
+1019	1	V	Boston 	2	0	1	3	6u20	6u45
+1019	2	H	Washington 	0	1	0	1	-182	-165
+1019	3	V	Calgary 	0	0	0	1	5o20	5o20
+1019	4	H	Nashville 	0	0	0	0	-156	-145
+1019	5	V	Vancouver 	1	0	1	2	-125	-135
+1019	6	H	Minnesota 	3	3	0	6	5.5u05	5.5u30
+1019	7	V	Carolina 	2	1	2	5	5.5	5.5u25
+1019	8	H	San Jose 	0	2	0	2	-203	-205
+1020	51	V	Anaheim 	0	0	1	1	5.5	5.5
+1020	52	H	Columbus 	0	2	1	3	-135	-145
+1020	53	V	Buffalo 	1	2	1	4	5.5o09	-115
+1020	54	H	Atlanta 	0	0	1	1	-115	5.5u20
+1020	55	V	Vancouver 	0	0	1	1	5.5o09	5.5o25
+1020	56	H	Chicago 	1	0	0	2	-130	-160
+1020	57	V	Carolina 	2	1	0	3	5.5u17	5.5u35
+1020	58	H	Los Angeles 	2	1	1	4	-182	-220
+1021	1	V	NY Rangers 	2	0	0	2	5.5o09	5.5u25
+1021	2	H	Toronto 	0	0	1	1	-140	-155
+1021	3	V	Washington 	0	0	1	1	-110	5.5u20
+1021	4	H	Boston 	1	2	1	4	6u25	-120
+1021	5	V	Anaheim 	2	0	1	3	5.5o14	5.5o20
+1021	6	H	Philadelphia 	1	1	0	2	-193	-215
+1021	7	V	Calgary 	2	0	0	2	5.5u19	5.5u40
+1021	8	H	Detroit 	1	1	2	4	-193	-200
+1021	9	V	New Jersey 	1	1	1	3	5o19	-125
+1021	10	H	Montreal 	0	0	0	0	-110	5o35
+1021	11	V	Dallas 	2	2	0	4	5.5u14	5.5u30
+1021	12	H	Florida 	0	0	1	1	-115	-140
+1021	13	V	NY Islanders 	1	1	0	3	5.5o10	5.5o30
+1021	14	H	Tampa Bay 	1	1	0	2	-148	-170
+1021	15	V	Pittsburgh 	0	2	1	4	-104	-115
+1021	16	H	Nashville 	1	1	1	3	5.5u19	5.5u30
+1021	17	V	San Jose 	1	2	1	4	-125	5.5u15
+1021	18	H	Colorado 	1	0	1	2	5.5o09	-110
+1021	19	V	Minnesota 	3	0	1	4	-104	5.5o20
+1021	20	H	Edmonton 	1	0	1	2	5.5u09	-110
+1021	21	V	Los Angeles 	0	1	1	2	-104	5o15
+1021	22	H	Phoenix 	2	1	1	4	5o15	-135
+1022	51	V	Calgary 	3	2	1	6	5o23	5o40
+1022	52	H	Columbus 	1	0	1	2	-130	-145
+1022	53	V	Tampa Bay 	3	1	1	5	6u09	6u25
+1022	54	H	Atlanta 	0	1	1	2	-115	-130
+1022	55	V	Ottawa 	1	2	1	4	5.5u20	5.5u25
+1022	56	H	Buffalo 	1	1	0	2	-135	-155
+1022	57	V	Chicago 	1	1	0	2	5.5u20	5.5u25
+1022	58	H	St. Louis 	1	1	2	4	-109	-120
+1022	59	V	Minnesota 	0	0	1	1	5.5	5.5o25
+1022	60	H	Vancouver 	1	1	3	5	-182	-230
+1023	1	V	NY Islanders 	1	2	0	3	5.5u30	5.5u20
+1023	2	H	Florida 	2	1	1	4	-120	-145
+1023	3	V	NY Rangers 	2	1	0	3	5o13	5o35
+1023	4	H	Boston 	1	1	0	2	-151	-180
+1023	5	V	Montreal 	1	2	0	3	5.5u20	5.5u20
+1023	6	H	Ottawa 	0	0	0	0	-130	-115
+1023	7	V	Atlanta 	1	1	1	3	6o28	6o25
+1023	8	H	Washington 	0	1	2	4	-260	-265
+1023	9	V	Buffalo 	2	3	1	6	5.5u30	5.5u40
+1023	10	H	New Jersey 	0	0	1	1	-145	-150
+1023	11	V	Toronto 	0	2	0	2	5.5o07	5.5o15
+1023	12	H	Philadelphia 	2	1	2	5	-156	-160
+1023	13	V	Anaheim 	1	2	1	4	5.5o13	5.5o20
+1023	14	H	Detroit 	1	2	2	5	-203	-210
+1023	15	V	Pittsburgh 	0	0	0	0	-115	5.5u20
+1023	16	H	St. Louis 	0	0	0	1	5.5u09	-130
+1023	17	V	Nashville 	1	0	0	1	5.5u20	5.5u25
+1023	18	H	Dallas 	0	0	0	0	-146	-140
+1023	19	V	Columbus 	0	1	2	3	5.5	5.5
+1023	20	H	Chicago 	2	0	0	2	-203	-210
+1023	21	V	Carolina 	0	2	1	4	5o30	5.5u25
+1023	22	H	Phoenix 	0	0	3	3	-145	-135
+1023	23	V	Los Angeles 	2	2	2	6	5.5u15	5.5u30
+1023	24	H	Colorado 	2	1	1	4	-125	-130
+1023	25	V	San Jose 	1	2	3	6	-145	-155
+1023	26	H	Edmonton 	1	0	0	1	5.5	5.5o15
+1024	51	V	Nashville 	2	1	1	4	5.5o09	5.5u30
+1024	52	H	Tampa Bay 	1	0	2	3	-154	-155
+1024	53	V	New Jersey 	0	0	1	1	-104	5o25
+1024	54	H	NY Rangers 	0	2	1	3	5o09	-115
+1024	55	V	San Jose 	0	0	0	0	5.5u19	5.5u40
+1024	56	H	Calgary 	4	0	0	4	-114	-115
+1025	1	V	Philadelphia 	0	0	1	1	-120	-125
+1025	2	H	Columbus 	1	1	0	2	5.5	5.5u20
+1025	3	V	Phoenix 	0	1	1	2	5o15	5o30
+1025	4	H	Montreal 	0	2	0	3	-135	-135
+1025	5	V	Los Angeles 	1	1	0	3	5.5u20	5.5u30
+1025	6	H	Minnesota 	2	0	0	2	-109	-110
+1026	51	V	Florida 	0	1	0	1	5.5u15	5.5u35
+1026	52	H	Toronto 	1	0	2	3	-162	-170
+1026	53	V	Buffalo 	1	0	2	3	5.5u15	5.5u30
+1026	54	H	Philadelphia 	1	3	2	6	-125	-120
+1026	55	V	Phoenix 	0	1	1	2	5.5u25	5.5u50
+1026	56	H	Ottawa 	3	0	2	5	-145	-135
+1026	57	V	Edmonton 	1	1	2	4	5.5u25	5.5u40
+1026	58	H	Calgary 	2	2	0	5	-172	-200
+1026	59	V	Anaheim 	0	3	2	5	5.5o20	5.5o35
+1026	60	H	Dallas 	1	0	1	2	-145	-165
+1026	61	V	Colorado 	1	1	1	3	5.5o20	6
+1026	62	H	Vancouver 	1	1	1	4	-177	-200
+1027	1	V	Atlanta 	1	2	3	6	5.5o15	5.5o15
+1027	2	H	NY Rangers 	1	1	2	4	-149	-135
+1027	3	V	Washington 	1	0	2	3	-135	-130
+1027	4	H	Carolina 	0	0	0	0	6o10	6o15
+1027	5	V	NY Islanders 	1	0	2	3	5.5u30	5.5u15
+1027	6	H	Montreal 	2	1	2	5	-155	-160
+1027	7	V	Pittsburgh 	3	0	0	3	-110	-120
+1027	8	H	Tampa Bay 	2	1	2	5	6o10	6u20
+1027	9	V	Los Angeles 	1	0	0	1	5.5u15	5.5u20
+1027	10	H	Chicago 	1	1	1	3	-150	-145
+1027	11	V	New Jersey 	0	1	1	2	5.5u30	5o35
+1027	12	H	San Jose 	3	1	1	5	-150	-160
+1028	51	V	Toronto 	0	0	0	0	5.5u33	5.5u45
+1028	52	H	Boston 	1	1	0	2	-172	-165
+1028	53	V	Phoenix 	3	0	1	4	5.5u25	5.5u25
+1028	54	H	Detroit 	0	1	1	2	-210	-175
+1028	55	V	Edmonton 	1	0	1	2	5.5	5.5o30
+1028	56	H	Columbus 	2	0	0	3	-172	-155
+1028	57	V	Florida 	1	0	2	3	5.5u25	5.5u40
+1028	58	H	Ottawa 	0	3	2	5	-151	-155
+1028	59	V	St. Louis 	0	1	2	3	5o30	-115
+1028	60	H	Nashville 	0	0	0	0	-118	5o20
+1028	61	V	Washington 	0	0	1	1	-120	-120
+1028	62	H	Minnesota 	1	1	0	2	6u09	6u35
+1028	63	V	Los Angeles 	1	2	2	5	5.5u15	5.5u20
+1028	64	H	Dallas 	1	0	1	2	-125	-120
+1028	65	V	Colorado 	1	2	3	6	5.5	5.5
+1028	66	H	Calgary 	2	2	1	5	-166	-140
+1029	1	V	Montreal 	1	0	2	3	5.5o15	5.5o15
+1029	2	H	NY Islanders 	0	1	0	1	-125	-125
+1029	3	V	Philadelphia 	0	2	1	3	6u09	5.5o15
+1029	4	H	Pittsburgh 	1	0	1	2	-154	-140
+1029	5	V	Carolina 	1	2	1	4	5.5u15	5.5u15
+1029	6	H	NY Rangers 	0	3	0	3	-130	-135
+1029	7	V	Buffalo 	2	0	1	3	-109	5.5o25
+1029	8	H	Atlanta 	0	2	1	4	5.5	-110
+1029	9	V	Edmonton 	4	2	1	7	5.5o30	5.5o30
+1029	10	H	Chicago 	2	1	1	4	-262	-245
+1029	11	V	New Jersey 	0	1	1	2	5.5u20	-115
+1029	12	H	Anaheim 	0	1	0	1	-125	5.5u40
+1030	51	V	NY Rangers 	1	1	0	2	5.5u18	5.5u25
+1030	52	H	Toronto 	0	0	0	0	-145	-155
+1030	53	V	Florida 	1	1	1	3	5.5u30	5.5u35
+1030	54	H	Montreal 	0	1	0	1	-161	-145
+1030	55	V	Boston 	1	2	1	4	-115	-125
+1030	56	H	Ottawa 	0	0	0	0	5o15	5o30
+1030	57	V	NY Islanders 	0	1	0	1	5.5o20	5.5o25
+1030	58	H	Philadelphia 	2	4	0	6	-185	-200
+1030	59	V	Pittsburgh 	1	1	1	3	-120	5.5u20
+1030	60	H	Carolina 	0	0	0	0	5.5	-110
+1030	61	V	Nashville 	0	1	1	2	5.5	5.5u30
+1030	62	H	Detroit 	2	1	2	5	-154	-160
+1030	63	V	Atlanta 	3	0	0	3	5.5o09	5.5u25
+1030	64	H	St. Louis 	1	0	2	4	-169	-220
+1030	65	V	Chicago 	0	1	2	3	5.5o09	-120
+1030	66	H	Minnesota 	0	0	1	1	-118	5.5u20
+1030	67	V	Buffalo 	0	0	0	0	5.5o09	5.5o25
+1030	68	H	Dallas 	1	1	2	4	-138	-120
+1030	69	V	Columbus 	0	0	1	1	5.5o25	5.5o20
+1030	70	H	Colorado 	1	3	1	5	-145	-145
+1030	71	V	Tampa Bay 	0	1	2	3	5.5u08	5.5u30
+1030	72	H	Phoenix 	0	0	0	0	-115	-130
+1030	73	V	Washington 	1	6	0	7	-118	5.5u15
+1030	74	H	Calgary 	2	0	0	2	5.5o25	-110
+1030	75	V	New Jersey 	0	1	0	1	5.5u30	5o25
+1030	76	H	Los Angeles 	1	2	0	3	-159	-130
+1030	77	V	Anaheim 	0	0	2	2	5.5o18	5.5o30
+1030	78	H	San Jose 	2	3	0	5	-199	-220
+1101	1	V	Carolina 	0	1	1	2	5.5o10	5.5
+1101	2	H	Philadelphia 	1	1	1	3	-165	-170
+1101	3	V	Chicago 	1	0	1	2	5.5u15	-140
+1101	4	H	NY Rangers 	1	0	2	3	-115	5.5
+1101	5	V	New Jersey 	0	0	0	0	5.5u30	5.5u45
+1101	6	H	Vancouver 	1	1	1	3	-155	-200
+1102	51	V	Ottawa 	1	2	0	3	5.5u25	5.5u25
+1102	52	H	Toronto 	0	0	2	2	-135	-145
+1102	53	V	Montreal 	0	0	0	0	5o25	-110
+1102	54	H	Columbus 	2	0	1	3	-120	5o45
+1102	55	V	San Jose 	0	0	0	0	-130	-130
+1102	56	H	Minnesota 	0	1	0	1	5.5	5.5u30
+1102	57	V	Vancouver 	3	0	1	4	-151	-150
+1102	58	H	Edmonton 	0	1	2	3	5.5o25	5.5o30
+1103	1	V	Boston 	3	1	1	5	-140	-125
+1103	2	H	Buffalo 	0	1	1	2	5o20	5o30
+1103	3	V	Toronto 	1	0	3	4	6u14	6u20
+1103	4	H	Washington 	0	3	1	5	-220	-260
+1103	5	V	NY Islanders 	0	0	2	2	5.5o10	5.5o20
+1103	6	H	Carolina 	3	2	2	7	-154	-155
+1103	7	V	Atlanta 	1	1	2	4	5.5o10	5.5
+1103	8	H	Florida 	1	1	1	3	-125	-135
+1103	9	V	New Jersey 	1	1	3	5	5.5u35	5.5u30
+1103	10	H	Chicago 	0	1	2	3	-180	-190
+1103	11	V	Pittsburgh 	0	1	1	2	-109	-115
+1103	12	H	Dallas 	2	2	1	5	5.5o20	5.5o25
+1103	13	V	Detroit 	0	2	0	2	-115	-120
+1103	14	H	Calgary 	1	0	0	1	5.5u37	5.5u25
+1103	15	V	Nashville 	2	1	0	3	5o10	5.5u20
+1103	16	H	Phoenix 	1	1	2	4	-130	-135
+1103	17	V	Tampa Bay 	0	1	1	2	5.5o20	-110
+1103	18	H	Anaheim 	1	0	1	3	-120	5.5o30
+1104	51	V	Columbus 	0	1	2	3	5.5o20	-120
+1104	52	H	Atlanta 	0	0	0	0	-125	5.5o20
+1104	53	V	NY Rangers 	0	1	0	1	5.5u20	5.5u40
+1104	54	H	Philadelphia 	0	3	1	4	-150	-145
+1104	55	V	NY Islanders 	0	0	1	1	5.5o06	5.5o15
+1104	56	H	Ottawa 	1	2	1	4	-177	-190
+1104	57	V	San Jose 	0	0	0	0	5.5u25	5.5u40
+1104	58	H	St. Louis 	1	1	0	2	-119	-120
+1104	59	V	Vancouver 	1	1	1	3	-120	6
+1104	60	H	Colorado 	0	0	1	1	6u09	-115
+1104	61	V	Tampa Bay 	0	0	0	0	5.5	5.5u15
+1104	62	H	Los Angeles 	0	0	1	1	-162	-165
+1105	1	V	NY Rangers 	1	1	1	3	5o20	5o30
+1105	2	H	New Jersey 	0	0	0	0	-130	-165
+1105	3	V	Boston 	0	0	3	3	5.5o09	5.5o15
+1105	4	H	Washington 	0	3	2	5	-140	-130
+1105	5	V	Montreal 	1	2	0	3	-104	5.5u25
+1105	6	H	Buffalo 	1	1	0	2	5.5u20	-140
+1105	7	V	Carolina 	3	0	1	4	5.5u15	5.5
+1105	8	H	Florida 	3	1	3	7	-120	-145
+1105	9	V	Calgary 	1	0	0	1	5o25	5o25
+1105	10	H	Minnesota 	1	0	1	2	-125	-125
+1105	11	V	Phoenix 	0	1	2	3	5.5u20	5.5u30
+1105	12	H	Dallas 	1	4	1	6	-140	-115
+1105	13	V	Detroit 	1	1	1	3	-156	-145
+1105	14	H	Edmonton 	0	1	0	1	5.5o20	5.5o30
+1105	15	V	Pittsburgh 	0	1	1	2	-120	-135
+1105	16	H	Anaheim 	0	3	0	3	5.5o35	5.5o20
+1106	51	V	Nashville 	0	0	1	1	5.5u25	5.5u45
+1106	52	H	Los Angeles 	2	2	0	4	-161	-165
+1106	53	V	St. Louis 	1	0	0	2	5o15	5
+1106	54	H	Boston 	0	0	1	1	-129	-120
+1106	55	V	Buffalo 	0	1	1	3	5.5u20	5.5u25
+1106	56	H	Toronto 	1	1	0	2	-148	-145
+1106	57	V	Ottawa 	1	1	1	3	5.5u20	5.5u25
+1106	58	H	Montreal 	0	1	1	2	-116	-120
+1106	59	V	Philadelphia 	1	0	1	2	-145	-150
+1106	60	H	NY Islanders 	0	1	0	1	5.5o18	5.5o15
+1106	61	V	Florida 	0	0	2	2	5.5u15	5.5u20
+1106	62	H	Carolina 	0	1	2	3	-145	-135
+1106	63	V	Chicago 	2	2	0	5	-144	-135
+1106	64	H	Atlanta 	1	3	0	4	5.5o20	5.5o30
+1106	65	V	Minnesota 	1	1	1	3	5.5u30	5.5u35
+1106	66	H	Columbus 	1	1	0	2	-159	-175
+1106	67	V	Dallas 	0	0	0	0	5.5o35	5.5o40
+1106	68	H	Colorado 	1	2	2	5	-139	-145
+1106	69	V	Pittsburgh 	0	3	0	4	-109	-115
+1106	70	H	Phoenix 	2	1	0	3	5.5o09	5.5u20
+1106	71	V	Detroit 	0	3	1	4	5.5u13	5.5u15
+1106	72	H	Vancouver 	1	2	3	6	-150	-145
+1106	73	V	Tampa Bay 	1	0	1	2	5.5	5.5
+1106	74	H	San Jose 	2	2	1	5	-159	-170
+1107	1	V	Philadelphia 	1	1	0	2	6o09	6
+1107	2	H	Washington 	1	1	0	3	-155	-190
+1107	3	V	St. Louis 	0	1	1	2	5o30	5o25
+1107	4	H	NY Rangers 	0	0	0	0	-130	-135
+1107	5	V	Edmonton 	0	0	2	2	5.5o28	5.5o35
+1107	6	H	Chicago 	1	0	0	1	-220	-190
+1107	7	V	Nashville 	2	0	2	4	5.5u15	5.5o15
+1107	8	H	Anaheim 	2	0	3	5	-130	-130
+1108	51	V	Phoenix 	1	1	0	2	5.5u15	5.5u15
+1108	52	H	Detroit 	1	0	1	3	-180	-200
+1109	1	V	Edmonton 	0	0	1	1	5.5o15	5.5o25
+1109	2	H	Carolina 	4	1	2	7	-156	-160
+1109	3	V	Washington 	1	2	2	5	-130	-150
+1109	4	H	NY Rangers 	2	1	0	3	5.5o15	5.5o20
+1109	5	V	Vancouver 	0	0	0	0	-125	-120
+1109	6	H	Montreal 	1	0	1	2	5.5o25	5.5u15
+1109	7	V	Atlanta 	1	0	1	2	5.5o25	5.5o30
+1109	8	H	Ottawa 	2	2	1	5	-161	-150
+1109	9	V	Toronto 	0	0	0	0	5.5	5.5u15
+1109	10	H	Tampa Bay 	3	0	1	4	-145	-150
+1109	11	V	Calgary 	0	1	3	4	5.5u09	5.5u20
+1109	12	H	Colorado 	1	0	1	2	-130	-120
+1109	13	V	Anaheim 	1	1	0	3	5.5o09	5.5o30
+1109	14	H	San Jose 	1	0	1	2	-182	-210
+1110	51	V	Buffalo 	0	3	1	5	5o35	5o50
+1110	52	H	New Jersey 	1	3	0	4	-145	-130
+1110	53	V	Boston 	2	0	5	7	5.5u20	5.5u40
+1110	54	H	Pittsburgh 	2	2	0	4	-120	-125
+1110	55	V	St. Louis 	0	1	0	1	-115	-115
+1110	56	H	Columbus 	3	3	2	8	5	5o15
+1110	57	V	Toronto 	0	0	1	1	5.5u20	5.5u25
+1110	58	H	Florida 	1	1	2	4	-145	-145
+1110	59	V	Phoenix 	0	2	0	2	5.5u20	5.5u20
+1110	60	H	Chicago 	1	0	0	1	-165	-180
+1110	61	V	NY Islanders 	0	0	0	0	5.5o20	5.5o30
+1110	62	H	Anaheim 	0	0	1	1	-165	-140
+1111	1	V	Buffalo 	0	2	0	2	5.5u25	5.5o15
+1111	2	H	NY Rangers 	1	1	0	3	-166	-155
+1111	3	V	Montreal 	1	0	2	3	5.5u25	5o25
+1111	4	H	Boston 	1	0	0	1	-145	-150
+1111	5	V	Tampa Bay 	1	0	2	3	6o15	6
+1111	6	H	Washington 	0	2	4	6	-194	-200
+1111	7	V	Philadelphia 	2	2	4	8	-115	-115
+1111	8	H	Carolina 	0	0	1	1	5.5o09	5.5
+1111	9	V	Minnesota 	0	0	1	1	5.5o09	5.5u15
+1111	10	H	Atlanta 	2	1	2	5	-115	-130
+1111	11	V	Edmonton 	0	0	2	2	5.5o25	5.5o25
+1111	12	H	Detroit 	3	2	1	6	-250	-250
+1111	13	V	Vancouver 	1	1	4	6	-104	-125
+1111	14	H	Ottawa 	1	0	1	2	5.5	5.5o15
+1111	15	V	Nashville 	0	1	1	3	5o20	5o40
+1111	16	H	St. Louis 	1	0	1	2	-166	-155
+1111	17	V	Dallas 	1	0	0	1	5.5u20	5.5u20
+1111	18	H	Los Angeles 	1	0	2	3	-166	-170
+1111	19	V	NY Islanders 	0	1	0	1	5.5o30	5.5o15
+1111	20	H	San Jose 	0	1	0	2	-240	-300
+1112	51	V	Tampa Bay 	0	0	1	1	6u20	6u25
+1112	52	H	Pittsburgh 	0	2	3	5	-165	-200
+1112	53	V	Edmonton 	2	1	0	3	5.5o09	5.5u20
+1112	54	H	New Jersey 	1	1	1	4	-172	-220
+1112	55	V	Colorado 	1	3	1	5	5.5o09	5.5u15
+1112	56	H	Columbus 	1	0	0	1	-140	-140
+1112	57	V	Minnesota 	1	0	0	1	5.5u20	5.5u40
+1112	58	H	Florida 	2	0	0	2	-156	-160
+1112	59	V	Calgary 	1	1	2	4	5.5u30	5.5u50
+1112	60	H	Phoenix 	0	3	2	5	-125	-120
+1112	61	V	Dallas 	1	0	1	2	5.5o25	5.5o20
+1112	62	H	Anaheim 	1	0	2	3	-145	-140
+1113	1	V	Ottawa 	1	0	1	2	5o25	5o45
+1113	2	H	Boston 	0	0	0	0	-166	-165
+1113	3	V	Washington 	1	0	1	2	-130	-120
+1113	4	H	Buffalo 	0	2	0	3	5.5o20	5.5o25
+1113	5	V	Vancouver 	2	1	2	5	-135	-155
+1113	6	H	Toronto 	2	1	0	3	5.5u20	5.5u25
+1113	7	V	Carolina 	0	2	0	2	5.5u30	5.5u30
+1113	8	H	Montreal 	2	3	2	7	-151	-155
+1113	9	V	Florida 	0	1	1	2	5.5	5.5u30
+1113	10	H	Philadelphia 	2	3	0	5	-205	-220
+1113	11	V	Pittsburgh 	0	1	3	4	-120	-115
+1113	12	H	Atlanta 	1	0	1	2	6u15	6u15
+1113	13	V	Colorado 	0	0	1	1	5.5o25	5.5o20
+1113	14	H	Detroit 	1	2	0	3	-230	-255
+1113	15	V	Chicago 	1	2	0	3	-115	-120
+1113	16	H	Nashville 	0	2	1	4	5.5u25	5.5u30
+1113	17	V	St. Louis 	1	1	1	3	-104	-110
+1113	18	H	Phoenix 	1	3	1	5	5o30	5o20
+1113	19	V	Calgary 	0	1	2	3	5.5	5.5u25
+1113	20	H	San Jose 	2	1	1	4	-202	-210
+1113	21	V	NY Islanders 	1	0	0	1	5.5u15	5.5u30
+1113	22	H	Los Angeles 	2	1	2	5	-251	-240
+1114	51	V	Edmonton 	0	2	0	2	5.5o09	5.5o15
+1114	52	H	NY Rangers 	1	4	3	8	-193	-175
+1114	53	V	Atlanta 	1	3	0	4	6o25	6o35
+1114	54	H	Washington 	3	1	2	6	-262	-250
+1114	55	V	Minnesota 	3	0	1	4	5.5u09	5.5u30
+1114	56	H	Tampa Bay 	1	0	0	1	-154	-165
+1114	57	V	Anaheim 	1	0	1	2	5.5o17	5.5
+1114	58	H	Chicago 	1	1	0	3	-154	-170
+1115	1	V	New Jersey 	0	0	0	0	5o25	5
+1115	2	H	Boston 	1	1	1	3	-164	-180
+1115	3	V	Vancouver 	0	1	2	3	-115	5.5o20
+1115	4	H	Buffalo 	2	1	0	4	5.5u15	-115
+1115	5	V	Ottawa 	1	0	0	1	5.5	5.5
+1115	6	H	Philadelphia 	2	1	2	5	-168	-175
+1115	7	V	NY Rangers 	0	1	1	3	5.5o15	5.5
+1115	8	H	Pittsburgh 	0	0	2	2	-175	-165
+1115	9	V	St. Louis 	1	1	1	3	5.5u15	5.5u35
+1115	10	H	Colorado 	3	2	1	6	-125	-115
+1115	11	V	Los Angeles 	1	1	1	3	5.5u20	5.5u35
+1115	12	H	San Jose 	2	1	3	6	-130	-155
+1116	51	V	Philadelphia 	0	0	0	0	5.5u15	5.5u30
+1116	52	H	Montreal 	1	1	1	3	-115	-125
+1116	53	V	Nashville 	3	1	0	4	5.5u30	5.5u35
+1116	54	H	Toronto 	1	4	0	5	-115	-115
+1116	55	V	Anaheim 	0	1	0	1	5.5o20	5.5o25
+1116	56	H	Dallas 	1	0	1	2	-140	-165
+1117	1	V	Tampa Bay 	1	1	2	4	-120	-115
+1117	2	H	NY Islanders 	0	1	1	2	5.5o20	5.5
+1117	3	V	Boston 	0	2	1	3	5o15	5o15
+1117	4	H	NY Rangers 	0	1	1	2	-115	-120
+1117	5	V	Vancouver 	0	1	0	1	5.5o25	5.5o35
+1117	6	H	Pittsburgh 	1	2	0	3	-130	-120
+1117	7	V	Buffalo 	0	2	0	2	5.5o25	5.5o35
+1117	8	H	Washington 	2	1	1	4	-185	-190
+1117	9	V	Ottawa 	0	0	1	1	-104	5.5o15
+1117	10	H	Carolina 	4	0	3	7	5.5	-120
+1117	11	V	Florida 	0	2	0	2	5.5o15	5.5o20
+1117	12	H	Atlanta 	1	0	0	1	-130	-130
+1117	13	V	St. Louis 	1	2	0	3	5.5u20	5.5u25
+1117	14	H	Detroit 	1	2	4	7	-180	-180
+1117	15	V	Anaheim 	0	1	0	1	5.5u30	5.5u35
+1117	16	H	Minnesota 	0	1	0	2	-145	-170
+1117	17	V	San Jose 	1	2	0	3	-120	-125
+1117	18	H	Colorado 	1	0	2	4	5.5o25	5.5o20
+1117	19	V	Phoenix 	0	2	1	3	5.5u35	5.5u45
+1117	20	H	Calgary 	0	0	1	1	-140	-140
+1117	21	V	Chicago 	2	2	1	5	-160	-150
+1117	22	H	Edmonton 	0	0	0	0	5.5o25	5.5o30
+1117	23	V	Columbus 	1	1	3	5	5.5u25	5.5u40
+1117	24	H	Los Angeles 	1	1	1	3	-177	-180
+1118	51	V	Florida 	0	0	0	0	5o30	5o30
+1118	52	H	Boston 	1	0	3	4	-210	-180
+1118	53	V	New Jersey 	0	1	0	1	5.5u30	5o30
+1118	54	H	Toronto 	0	2	1	3	-130	-120
+1118	55	V	Tampa Bay 	4	3	1	8	5.5o25	5.5o15
+1118	56	H	Philadelphia 	5	2	0	7	-210	-230
+1118	57	V	Nashville 	0	1	2	3	5o30	5o30
+1118	58	H	Montreal 	0	0	0	0	-166	-150
+1118	59	V	San Jose 	1	2	1	4	5.5o18	-110
+1118	60	H	Dallas 	2	0	2	5	-115	5.5u15
+1119	1	V	Carolina 	2	1	1	4	5.5o29	5.5o40
+1119	2	H	Pittsburgh 	2	1	1	5	-182	-175
+1119	3	V	Minnesota 	1	1	1	4	5.5u23	5.5u25
+1119	4	H	Detroit 	0	1	2	3	-200	-240
+1119	5	V	Los Angeles 	1	1	0	2	-104	5.5u25
+1119	6	H	Buffalo 	0	2	2	4	5.5u30	-130
+1119	7	V	Washington 	0	0	0	0	-162	-170
+1119	8	H	Atlanta 	3	1	1	5	6.5u09	6.5u20
+1119	9	V	Ottawa 	1	0	1	2	5.5u25	5.5u35
+1119	10	H	St. Louis 	0	3	2	5	-145	-150
+1119	11	V	NY Rangers 	0	0	1	1	5.5	5.5
+1119	12	H	Colorado 	0	4	1	5	-125	-135
+1119	13	V	Phoenix 	0	2	1	4	-123	-150
+1119	14	H	Edmonton 	1	2	0	3	5.5u15	5.5o20
+1119	15	V	Chicago 	1	0	1	2	-115	-140
+1119	16	H	Calgary 	2	2	3	7	5.5u20	5.5u25
+1119	17	V	Columbus 	1	3	0	4	5.5u15	5.5u15
+1119	18	H	Anaheim 	0	2	1	3	-134	-130
+1120	51	V	Los Angeles 	2	1	0	4	5o19	5o20
+1120	52	H	Boston 	0	2	1	3	-145	-145
+1120	53	V	Tampa Bay 	1	1	0	2	5.5o35	5.5o20
+1120	54	H	Buffalo 	1	0	0	1	-125	-140
+1120	55	V	Toronto 	0	0	0	0	5o29	5o45
+1120	56	H	Montreal 	0	1	1	2	-162	-165
+1120	57	V	Florida 	0	4	0	4	-104	5.5u35
+1120	58	H	NY Islanders 	1	0	0	1	5.5u22	-115
+1120	59	V	Philadelphia 	0	2	2	5	6o23	6o30
+1120	60	H	Washington 	1	0	3	4	-156	-145
+1120	61	V	Nashville 	0	1	0	2	5.5	5.5
+1120	62	H	Carolina 	1	0	0	1	-109	-115
+1120	63	V	New Jersey 	1	1	0	2	5.5u26	5o30
+1120	64	H	St. Louis 	1	1	1	3	-160	-175
+1120	65	V	NY Rangers 	0	3	2	5	5o23	5o35
+1120	66	H	Minnesota 	0	0	2	2	-130	-135
+1120	67	V	Colorado 	1	2	0	4	5.5o23	5.5o30
+1120	68	H	Dallas 	0	2	1	3	-140	-165
+1120	69	V	Chicago 	0	4	3	7	5.5o23	5.5o25
+1120	70	H	Vancouver 	0	0	1	1	-151	-160
+1120	71	V	Columbus 	1	1	1	3	5.5u10	5.5u15
+1120	72	H	San Jose 	0	0	0	0	-203	-220
+1121	1	V	NY Islanders 	0	1	0	1	5.5o35	5.5o40
+1121	2	H	Atlanta 	0	0	1	2	-193	-200
+1121	3	V	Calgary 	1	2	1	4	5.5u15	5.5
+1121	4	H	Detroit 	1	0	3	5	-220	-230
+1121	5	V	Edmonton 	0	2	2	4	6u20	6u15
+1121	6	H	Anaheim 	0	2	0	2	-210	-200
+1121	7	V	Phoenix 	0	2	1	3	5.5u10	5.5o20
+1121	8	H	Vancouver 	0	2	0	2	-180	-175
+1122	51	V	Dallas 	0	1	0	1	5.5u16	-110
+1122	52	H	Toronto 	1	2	1	4	-115	5.5u20
+1122	53	V	Washington 	0	0	0	0	-151	-150
+1122	54	H	New Jersey 	3	2	0	5	6u16	6u25
+1122	55	V	Calgary 	0	1	0	1	5.5u11	5.5u25
+1122	56	H	NY Rangers 	0	2	0	2	-172	-155
+1122	57	V	Montreal 	2	0	0	2	5.5u36	5.5u35
+1122	58	H	Philadelphia 	0	1	2	3	-156	-155
+1122	59	V	Nashville 	0	0	0	0	5.5u31	5.5u40
+1122	60	H	Columbus 	1	1	0	2	-135	-125
+1122	61	V	Los Angeles 	1	1	0	2	-104	-110
+1122	62	H	Ottawa 	1	1	1	3	5.5u26	5.5u25
+1122	63	V	Boston 	0	0	1	1	5.5u21	-135
+1122	64	H	Tampa Bay 	0	3	0	3	-109	5.5u30
+1122	65	V	Pittsburgh 	2	0	1	3	-136	-125
+1122	66	H	Florida 	1	1	0	2	5.5u10	5.5u20
+1123	1	V	Edmonton 	0	0	0	0	6u10	6u30
+1123	2	H	Phoenix 	1	2	2	5	-209	-210
+1124	51	V	Columbus 	2	1	0	4	-125	-140
+1124	52	H	NY Islanders 	1	2	0	3	5.5u20	5.5u25
+1124	53	V	Pittsburgh 	1	0	0	1	-125	-120
+1124	54	H	Buffalo 	0	0	0	0	5.5o15	5.5o15
+1124	55	V	Washington 	1	1	1	3	-135	-140
+1124	56	H	Carolina 	0	0	2	2	6o25	6o30
+1124	57	V	Detroit 	1	0	0	1	-140	-150
+1124	58	H	Atlanta 	2	2	1	5	5.5o30	5.5o35
+1124	59	V	Los Angeles 	0	1	0	1	5o25	5o40
+1124	60	H	Montreal 	2	2	0	4	-120	-125
+1124	61	V	Dallas 	0	1	1	2	5.5o20	5.5o25
+1124	62	H	Ottawa 	0	1	0	1	-130	-130
+1124	63	V	Calgary 	0	0	1	1	5.5u20	5.5u45
+1124	64	H	New Jersey 	1	0	0	2	-135	-135
+1124	65	V	NY Rangers 	0	0	3	3	5.5	5.5
+1124	66	H	Tampa Bay 	2	3	0	5	-135	-140
+1124	67	V	Boston 	0	0	3	3	-130	-135
+1124	68	H	Florida 	0	1	0	1	5o15	5o20
+1124	69	V	St. Louis 	1	0	0	2	-104	-110
+1124	70	H	Nashville 	0	1	0	1	5o35	5o20
+1124	71	V	Philadelphia 	2	1	3	6	-125	-125
+1124	72	H	Minnesota 	0	1	0	1	5.5u25	5.5u40
+1124	73	V	Colorado 	0	1	1	2	6u20	6u15
+1124	74	H	Vancouver 	1	1	2	4	-175	-160
+1124	75	V	Chicago 	0	1	1	2	5.5o30	5.5o20
+1124	76	H	San Jose 	1	2	2	5	-140	-135
+1125	1	V	Colorado 	1	1	0	2	-125	-135
+1125	2	H	Edmonton 	2	0	1	3	6u14	6u15
+1126	51	V	Carolina 	1	1	1	3	5.5u35	5.5u20
+1126	52	H	Boston 	0	0	0	0	-180	-190
+1126	53	V	New Jersey 	0	0	0	0	-115	-120
+1126	54	H	NY Islanders 	1	1	0	2	5.5u45	5.5u50
+1126	55	V	Calgary 	0	1	1	3	5.5o10	5.5o15
+1126	56	H	Philadelphia 	0	2	0	2	-200	-210
+1126	57	V	Ottawa 	1	0	0	1	5.5o15	5.5o20
+1126	58	H	Pittsburgh 	0	1	1	2	-170	-175
+1126	59	V	Nashville 	0	0	2	2	5o35	5o40
+1126	60	H	Minnesota 	3	1	1	5	-130	-120
+1126	61	V	Chicago 	0	1	3	4	-110	-135
+1126	62	H	Anaheim 	1	0	0	1	5.5o25	5.5o30
+1126	63	V	Tampa Bay 	0	0	0	0	6.5u15	6.5u20
+1126	64	H	Washington 	1	4	1	6	-175	-180
+1126	65	V	Detroit 	0	1	1	2	-104	-115
+1126	66	H	Columbus 	0	0	1	1	5.5u15	5.5u20
+1126	67	V	Toronto 	0	0	1	1	5.5u35	5.5u25
+1126	68	H	Buffalo 	2	0	1	3	-140	-165
+1126	69	V	Montreal 	0	0	0	0	-107	5.5u20
+1126	70	H	Atlanta 	1	2	0	3	5.5u25	-120
+1126	71	V	NY Rangers 	1	0	2	3	5.5u30	-110
+1126	72	H	Florida 	0	0	0	0	-110	5.5u35
+1126	73	V	St. Louis 	1	1	0	2	5.5u20	-115
+1126	74	H	Dallas 	0	1	2	3	-120	5.5u35
+1126	75	V	San Jose 	1	0	0	1	5.5o15	5.5o20
+1126	76	H	Vancouver 	1	2	3	6	-135	-125
+1127	1	V	Philadelphia 	0	0	1	1	-135	-125
+1127	2	H	New Jersey 	1	0	0	2	5.5u40	5.5u40
+1127	3	V	Calgary 	0	0	1	1	5.5	5.5u20
+1127	4	H	Pittsburgh 	0	2	2	4	-200	-200
+1127	5	V	Buffalo 	0	0	1	1	5o25	5o30
+1127	6	H	Montreal 	1	2	0	3	-140	-140
+1127	7	V	Toronto 	0	0	0	0	5.5u35	5.5u25
+1127	8	H	Ottawa 	1	2	0	3	-140	-145
+1127	9	V	Florida 	0	1	2	4	5.5u15	5.5u20
+1127	10	H	Tampa Bay 	1	1	1	3	-180	-180
+1127	11	V	Dallas 	0	0	2	2	5.5u25	5.5u40
+1127	12	H	St. Louis 	0	1	0	1	-160	-150
+1127	13	V	NY Rangers 	0	0	1	2	5.5u35	5.5u50
+1127	14	H	Nashville 	1	0	0	1	-120	-135
+1127	15	V	Anaheim 	1	2	3	6	5.5u30	5.5u30
+1127	16	H	Phoenix 	1	2	1	4	-165	-175
+1127	17	V	Minnesota 	2	1	1	4	5.5u25	5.5u25
+1127	18	H	Colorado 	1	4	2	7	-150	-150
+1127	19	V	San Jose 	1	2	1	4	-160	-160
+1127	20	H	Edmonton 	1	0	2	3	5.5o35	5.5o25
+1127	21	V	Chicago 	0	1	1	2	5.5u10	5.5u15
+1127	22	H	Los Angeles 	0	0	1	1	-115	-125
+1128	51	V	Boston 	0	1	0	1	-115	-110
+1128	52	H	Atlanta 	3	1	0	4	5.5u30	5.5u35
+1128	53	V	Carolina 	0	1	1	2	6o20	6o30
+1128	54	H	Washington 	2	0	0	3	-220	-230
+1128	55	V	Columbus 	1	0	1	2	5.5u10	5.5u15
+1128	56	H	Detroit 	0	2	2	4	-175	-180
+1129	1	V	Pittsburgh 	1	2	0	3	-115	-120
+1129	2	H	NY Rangers 	0	1	0	1	5.5u15	5.5u35
+1129	3	V	Dallas 	1	2	1	4	5.5o08	5.5o15
+1129	4	H	Carolina 	0	1	0	1	-122	-140
+1129	5	V	Edmonton 	0	1	3	4	5.5o23	5.5o30
+1129	6	H	Ottawa 	1	0	0	1	-193	-200
+1129	7	V	Minnesota 	0	0	0	0	5.5u32	5.5u50
+1129	8	H	Calgary 	0	2	1	3	-140	-155
+1129	9	V	Los Angeles 	0	0	0	0	-115	-130
+1129	10	H	Anaheim 	0	1	1	2	5.5u10	5.5u15
+1130	51	V	Tampa Bay 	0	1	2	4	5.5o08	-110
+1130	52	H	Toronto 	1	1	1	3	-115	5.5
+1130	53	V	St. Louis 	1	1	3	5	5.5u26	5.5u40
+1130	54	H	Chicago 	2	3	2	7	-148	-155
+1130	55	V	Phoenix 	0	0	0	0	5o30	5o25
+1130	56	H	Nashville 	1	1	1	3	-115	-125
+1130	57	V	Atlanta 	1	0	1	3	5.5o19	5.5o35
+1130	58	H	Colorado 	0	0	2	2	-135	-120
+1130	59	V	Detroit 	2	2	1	5	5.5o09	5.5o20
+1130	60	H	San Jose 	1	1	1	3	-115	-115
+1201	1	V	Nashville 	1	1	1	4	5o30	5o25
+1201	2	H	Columbus 	0	1	2	3	-151	-150
+1201	3	V	Edmonton 	1	0	2	4	5.5u21	5.5u25
+1201	4	H	Montreal 	1	2	0	3	-220	-220
+1201	5	V	Boston 	2	0	1	3	5.5u36	5.5u50
+1201	6	H	Philadelphia 	0	0	0	0	-140	-140
+1201	7	V	Washington 	1	1	2	4	-126	-130
+1201	8	H	St. Louis 	0	1	0	1	5.5u05	5.5o20
+1201	9	V	Phoenix 	1	1	2	4	5o40	5o30
+1201	10	H	Minnesota 	0	0	2	2	-150	-135
+1201	11	V	Vancouver 	2	1	4	7	-120	-120
+1201	12	H	Calgary 	1	1	0	2	5.5u16	5.5u20
+1201	13	V	Florida 	0	1	2	3	5.5u26	5.5u20
+1201	14	H	Anaheim 	1	2	2	5	-140	-150
+1202	51	V	Tampa Bay 	0	1	0	1	5.5u20	5.5u35
+1202	52	H	Boston 	2	2	4	8	-154	-150
+1202	53	V	Montreal 	2	3	0	5	5o09	5o25
+1202	54	H	New Jersey 	0	0	1	1	-121	-135
+1202	55	V	NY Rangers 	2	2	2	6	-129	-135
+1202	56	H	NY Islanders 	1	2	2	5	5.5u16	5.5u25
+1202	57	V	Edmonton 	1	2	2	5	5.5o19	5.5o25
+1202	58	H	Toronto 	0	0	0	0	-175	-170
+1202	59	V	Atlanta 	1	1	0	2	5.5o27	5.5o25
+1202	60	H	Pittsburgh 	1	2	0	3	-172	-170
+1202	61	V	San Jose 	1	1	2	4	-115	-120
+1202	62	H	Ottawa 	0	0	0	0	5.5o09	5.5
+1202	63	V	Washington 	0	0	1	1	-123	-120
+1202	64	H	Dallas 	0	1	1	2	6o14	6o20
+1202	65	V	Florida 	1	1	0	2	5.5u25	5.5u40
+1202	66	H	Los Angeles 	1	0	2	3	-198	-200
+1203	1	V	Colorado 	0	0	1	1	5.5o20	5.5o30
+1203	2	H	Carolina 	0	0	1	2	-125	-120
+1203	3	V	NY Islanders 	0	0	0	0	5.5u20	5.5u35
+1203	4	H	NY Rangers 	0	1	1	2	-204	-210
+1203	5	V	Columbus 	0	0	0	0	5.5u30	5.5u35
+1203	6	H	Buffalo 	2	1	2	5	-135	-145
+1203	7	V	Calgary 	0	1	1	3	5o20	5o35
+1203	8	H	Minnesota 	0	1	1	2	-125	-135
+1203	9	V	Vancouver 	0	1	2	3	5.5o35	5.5o35
+1203	10	H	Chicago 	0	0	0	0	-220	-125
+1203	11	V	Detroit 	1	2	1	4	-130	-140
+1203	12	H	Anaheim 	0	0	0	0	5.5	5.5o15
+1204	51	V	New Jersey 	2	0	1	3	5o35	5o35
+1204	52	H	Philadelphia 	1	1	3	5	-193	-200
+1204	53	V	San Jose 	1	0	0	1	5.5u35	-110
+1204	54	H	Montreal 	1	1	1	3	-125	5.5u50
+1204	55	V	Atlanta 	0	2	1	3	6o25	6o20
+1204	56	H	Washington 	0	1	0	1	-220	-210
+1204	57	V	Boston 	1	0	1	2	-135	-160
+1204	58	H	Toronto 	1	0	1	3	5o25	5o15
+1204	59	V	Pittsburgh 	4	3	0	7	-120	-125
+1204	60	H	Columbus 	0	1	1	2	5.5u10	5.5u15
+1204	61	V	Buffalo 	0	0	0	1	5.5u44	5.5u35
+1204	62	H	Ottawa 	0	0	0	0	-110	-115
+1204	63	V	Colorado 	1	1	3	5	6u10	6u15
+1204	64	H	Tampa Bay 	1	3	2	6	-145	-145
+1204	65	V	Minnesota 	0	1	2	3	5.5u20	5.5u30
+1204	66	H	Dallas 	1	1	1	4	-170	-190
+1204	67	V	Carolina 	1	1	0	2	5.5u15	5.5u40
+1204	68	H	Nashville 	3	0	2	5	-135	-140
+1204	69	V	Florida 	0	1	0	2	5o30	5o40
+1204	70	H	Phoenix 	0	1	0	1	-175	-180
+1204	71	V	St. Louis 	0	0	1	1	-120	-150
+1204	72	H	Edmonton 	0	0	1	2	5.5u20	5.5u25
+1204	73	V	Detroit 	1	1	0	2	5.5u15	5.5u15
+1204	74	H	Los Angeles 	0	2	0	3	-115	-125
+1205	1	V	Philadelphia 	1	0	2	3	-170	-175
+1205	2	H	NY Islanders 	0	0	2	2	5.5u10	5.5u15
+1205	3	V	Ottawa 	0	1	2	3	5.5u30	5.5u45
+1205	4	H	NY Rangers 	0	1	0	1	-155	-170
+1205	5	V	Calgary 	2	0	0	2	5.5u10	5.5u15
+1205	6	H	Chicago 	3	0	1	4	-175	-180
+1205	7	V	Phoenix 	1	1	1	3	5.5u20	5.5u25
+1205	8	H	Anaheim 	0	0	0	0	-130	-125
+1205	9	V	St. Louis 	1	1	1	3	5.5u15	5.5u25
+1205	10	H	Vancouver 	1	1	0	2	-180	-200
+1206	51	V	Dallas 	0	1	1	2	5.5	5.5u15
+1206	52	H	Columbus 	1	0	1	3	-120	-145
+1206	53	V	Nashville 	2	0	0	2	5.5o15	5.5u30
+1206	54	H	Atlanta 	0	1	1	3	-135	-140
+1206	55	V	Toronto 	1	0	3	5	6u10	6
+1206	56	H	Washington 	2	2	0	4	-250	-265
+1206	57	V	New Jersey 	1	0	0	1	5.5u15	5.5u45
+1206	58	H	Pittsburgh 	1	1	0	2	-220	-200
+1206	59	V	San Jose 	1	3	1	5	5.5o15	5.5o20
+1206	60	H	Detroit 	2	0	0	2	-155	-155
+1207	1	V	Ottawa 	1	0	0	1	5	5o30
+1207	2	H	Montreal 	1	0	3	4	-155	-165
+1207	3	V	Buffalo 	0	1	1	2	5	5o20
+1207	4	H	Boston 	1	0	1	3	-140	-145
+1207	5	V	Colorado 	0	2	1	3	5.5u15	5.5u25
+1207	6	H	Florida 	1	1	1	4	-110	-115
+1207	7	V	Tampa Bay 	0	2	0	2	5.5o15	5.5u15
+1207	8	H	Calgary 	2	1	1	4	-125	-130
+1207	9	V	Anaheim 	0	1	1	3	5.5u15	5.5o15
+1207	10	H	Edmonton 	0	0	2	2	-120	-115
+1208	51	V	Toronto 	0	0	2	2	5.5o25	5.5
+1208	52	H	Pittsburgh 	1	3	1	5	-242	-230
+1208	53	V	San Jose 	1	0	3	5	5.5o20	5.5o15
+1208	54	H	Philadelphia 	0	3	1	4	-135	-145
+1208	55	V	Nashville 	1	1	1	3	5.5u15	5.5u30
+1208	56	H	Detroit 	0	1	1	2	-209	-210
+1208	57	V	Dallas 	0	3	0	3	5.5u10	5.5u25
+1208	58	H	Chicago 	2	2	1	5	-146	-160
+1208	59	V	Anaheim 	1	2	1	4	5.5o15	5.5o20
+1208	60	H	Vancouver 	2	0	2	5	-220	-230
+1209	1	V	San Jose 	0	2	1	3	5.5u25	5.5u30
+1209	2	H	Buffalo 	1	2	3	6	-135	-130
+1209	3	V	Philadelphia 	2	2	0	4	-145	-150
+1209	4	H	Toronto 	0	1	0	1	5.5o23	5.5u25
+1209	5	V	NY Islanders 	0	1	1	2	5o25	5o25
+1209	6	H	Boston 	1	1	3	5	-255	-260
+1209	7	V	Florida 	0	1	2	3	6u20	6u40
+1209	8	H	Washington 	0	0	0	0	-245	-260
+1209	9	V	NY Rangers 	1	1	3	5	5o30	-110
+1209	10	H	Ottawa 	1	2	0	3	-120	5o40
+1209	11	V	Columbus 	0	0	1	1	5o30	5o35
+1209	12	H	St. Louis 	2	1	1	4	-145	-145
+1209	13	V	Minnesota 	2	0	1	3	5o35	5o35
+1209	14	H	Phoenix 	1	0	1	2	-156	-160
+1209	15	V	Calgary 	1	-1	1	1	5o25	5o35
+1209	16	H	Los Angeles 	0	1	1	2	-162	-165
+1210	51	V	Montreal 	1	0	1	2	5.5u40	5.5u35
+1210	52	H	Detroit 	1	2	1	4	-151	-175
+1210	53	V	New Jersey 	0	2	0	2	5o28	5o25
+1210	54	H	Ottawa 	1	2	0	3	-145	-125
+1210	55	V	Colorado 	0	2	2	4	5.5o08	5.5o25
+1210	56	H	Atlanta 	1	1	0	2	-145	-145
+1210	57	V	Carolina 	0	1	0	1	5.5	5.5o15
+1210	58	H	Dallas 	1	0	0	2	-145	-145
+1210	59	V	Tampa Bay 	2	0	1	3	-120	-130
+1210	60	H	Edmonton 	1	2	0	4	5.5o30	5.5o35
+1210	61	V	Calgary 	0	0	2	2	5.5u20	5.5u20
+1210	62	H	Anaheim 	1	1	0	3	-150	-150
+1211	1	V	Colorado 	2	1	0	3	6o30	6o20
+1211	2	H	Washington 	1	0	1	2	-225	-220
+1211	3	V	Detroit 	2	1	1	4	-122	-125
+1211	4	H	New Jersey 	0	0	1	1	5.5u25	5.5u45
+1211	5	V	Atlanta 	0	1	4	5	-140	-130
+1211	6	H	NY Islanders 	1	1	2	4	5.5o09	5.5
+1211	7	V	Montreal 	0	1	0	1	-120	5o40
+1211	8	H	Toronto 	2	0	1	3	5o20	-115
+1211	9	V	NY Rangers 	0	1	0	1	5.5u30	5.5u35
+1211	10	H	Columbus 	0	1	2	3	-120	-125
+1211	11	V	Philadelphia 	0	1	0	2	5o30	5o35
+1211	12	H	Boston 	0	0	1	1	-130	-135
+1211	13	V	Pittsburgh 	2	0	3	5	-115	-110
+1211	14	H	Buffalo 	1	0	1	2	5.5u20	5.5u25
+1211	15	V	Carolina 	0	0	1	2	5.5u35	5.5u30
+1211	16	H	St. Louis 	0	0	1	1	-177	-170
+1211	17	V	Florida 	0	0	0	0	5o25	5o20
+1211	18	H	Nashville 	2	0	1	3	-151	-160
+1211	19	V	Dallas 	0	1	1	2	5.5u20	5.5u35
+1211	20	H	Phoenix 	3	0	2	5	-153	-165
+1211	21	V	Tampa Bay 	1	3	0	5	6u15	6o15
+1211	22	H	Vancouver 	1	1	2	4	-182	-190
+1211	23	V	Minnesota 	1	1	0	3	5o25	5o30
+1211	24	H	Los Angeles 	0	1	1	2	-182	-190
+1211	25	V	Chicago 	1	0	0	1	5.5o09	5.5o25
+1211	26	H	San Jose 	1	0	0	2	-145	-145
+1212	51	V	Washington 	0	0	0	0	-125	-120
+1212	52	H	NY Rangers 	1	4	2	7	6u30	6u35
+1212	53	V	Minnesota 	1	1	0	2	5.5u30	5.5u50
+1212	54	H	Anaheim 	2	3	1	6	-161	-175
+1212	55	V	Vancouver 	1	1	0	2	-145	-155
+1212	56	H	Edmonton 	0	0	1	1	5.5o25	5.5o35
+1213	1	V	Los Angeles 	1	1	3	5	5.5u30	5.5u35
+1213	2	H	Detroit 	0	0	0	0	-172	-180
+1213	3	V	Atlanta 	2	1	0	4	5.5o15	-110
+1213	4	H	Ottawa 	0	1	2	3	-115	5.5
+1213	5	V	NY Islanders 	0	0	0	0	5o35	5o40
+1213	6	H	Nashville 	1	2	2	5	-230	-240
+1213	7	V	Columbus 	0	1	1	2	5.5u25	5.5u30
+1213	8	H	Calgary 	2	0	0	3	-130	-135
+1213	9	V	Chicago 	3	1	1	5	-105	-110
+1213	10	H	Colorado 	3	1	3	7	5.5o15	5.5o30
+1213	11	V	Dallas 	1	1	0	3	5.5o20	5.5o15
+1213	12	H	San Jose 	0	2	0	2	-177	-200
+1214	51	V	Pittsburgh 	0	1	1	2	6u25	6u20
+1214	52	H	Philadelphia 	1	1	1	3	-125	-125
+1214	53	V	Toronto 	1	2	1	4	5.5u15	-110
+1214	54	H	Edmonton 	1	0	0	1	-115	5.5o15
+1215	1	V	Anaheim 	0	1	0	2	6o20	6o15
+1215	2	H	Washington 	1	0	0	1	-210	-200
+1215	3	V	Boston 	1	0	1	2	5o15	5o30
+1215	4	H	Buffalo 	1	0	2	3	-120	-120
+1215	5	V	NY Rangers 	0	0	4	4	5.5u15	5.5u20
+1215	6	H	Pittsburgh 	1	0	0	1	-175	-160
+1215	7	V	Phoenix 	0	0	0	0	5o20	-110
+1215	8	H	New Jersey 	2	0	1	3	-115	5
+1215	9	V	St. Louis 	0	1	1	2	5.5u35	5.5u30
+1215	10	H	Detroit 	0	3	2	5	-180	-200
+1215	11	V	Atlanta 	1	0	0	1	6o25	6o20
+1215	12	H	Tampa Bay 	0	1	0	2	-125	-130
+1215	13	V	Philadelphia 	1	1	3	5	5o30	5o50
+1215	14	H	Montreal 	0	1	2	3	-120	-130
+1215	15	V	Carolina 	0	1	3	4	5.5u35	5.5u20
+1215	16	H	Florida 	3	0	0	3	-125	-130
+1215	17	V	San Jose 	1	1	0	2	5.5u25	-115
+1215	18	H	Nashville 	0	1	2	3	-125	5.5u50
+1215	19	V	Colorado 	1	0	3	4	5.5o35	5.5o30
+1215	20	H	Chicago 	0	1	2	3	-160	-170
+1215	21	V	Columbus 	0	1	1	2	5.5	5.5u15
+1215	22	H	Vancouver 	1	1	0	3	-192	-200
+1216	51	V	Anaheim 	0	1	1	2	-125	-125
+1216	52	H	NY Islanders 	3	0	0	3	5.5	5.5u20
+1216	53	V	Phoenix 	2	1	0	3	5.5u30	5.5u45
+1216	54	H	NY Rangers 	1	1	1	4	-160	-140
+1216	55	V	Carolina 	0	0	2	3	5.5o25	5.5o15
+1216	56	H	Atlanta 	0	2	0	2	-160	-145
+1216	57	V	Boston 	1	1	1	3	5o15	5o20
+1216	58	H	Montreal 	3	1	0	4	-125	-130
+1216	59	V	Ottawa 	0	2	1	3	5o30	5o40
+1216	60	H	Minnesota 	1	0	0	1	-135	-125
+1216	61	V	Los Angeles 	1	3	0	4	5o28	-140
+1216	62	H	St. Louis 	1	3	2	6	-109	5o30
+1216	63	V	San Jose 	1	2	0	4	5.5o15	-110
+1216	64	H	Dallas 	1	1	1	3	-120	5.5u15
+1216	65	V	Columbus 	2	0	1	3	-109	-125
+1216	66	H	Edmonton 	3	3	0	6	5.5u14	5.5o20
+1216	67	V	Toronto 	1	0	1	2	5.5u29	5.5u50
+1216	68	H	Calgary 	1	3	1	5	-140	-155
+1217	1	V	Nashville 	1	1	1	3	5o08	5
+1217	2	H	New Jersey 	0	0	1	1	-117	-140
+1217	3	V	Buffalo 	0	1	1	2	-105	-135
+1217	4	H	Florida 	4	1	1	6	5o27	5o25
+1217	5	V	Detroit 	1	0	0	1	-125	-110
+1217	6	H	Chicago 	2	1	1	4	5.5	5.5o20
+1217	7	V	Ottawa 	2	1	2	5	5.5o15	5.5o15
+1217	8	H	Colorado 	1	2	2	6	-155	-170
+1218	51	V	NY Rangers 	0	0	1	1	5.5u25	5.5u20
+1218	52	H	Philadelphia 	0	1	3	4	-140	-160
+1218	53	V	New Jersey 	0	1	0	1	5.5u25	5.5u45
+1218	54	H	Atlanta 	3	1	3	7	-145	-165
+1218	55	V	Toronto 	0	0	1	1	5.5	5.5u15
+1218	56	H	Vancouver 	1	1	2	4	-200	-210
+1218	57	V	Washington 	0	1	1	2	5.5	5.5u20
+1218	58	H	Boston 	3	0	0	3	-135	-135
+1218	59	V	Phoenix 	1	0	2	4	-130	-150
+1218	60	H	NY Islanders 	0	2	1	3	5o35	5.5u25
+1218	61	V	Dallas 	1	0	1	2	5.5	5.5u20
+1218	62	H	Columbus 	1	0	0	1	-125	-130
+1218	63	V	Anaheim 	1	0	1	2	5.5u10	5.5u15
+1218	64	H	Carolina 	2	1	1	4	-135	-150
+1218	65	V	Buffalo 	0	1	0	1	5.5o15	5.5o20
+1218	66	H	Tampa Bay 	0	2	1	3	-120	-135
+1218	67	V	San Jose 	2	1	1	4	-120	-120
+1218	68	H	St. Louis 	0	1	0	1	5.5u35	5.5u30
+1218	69	V	Los Angeles 	4	2	0	6	5o30	-110
+1218	70	H	Nashville 	1	0	0	1	-115	5o25
+1218	71	V	Minnesota 	0	2	1	3	5o30	5o25
+1218	72	H	Calgary 	0	0	1	1	-160	-155
+1219	1	V	Dallas 	2	0	1	4	5.5o15	5.5o25
+1219	2	H	Detroit 	2	1	0	3	-195	-210
+1219	3	V	Los Angeles 	0	1	1	2	5.5u20	5.5u20
+1219	4	H	Chicago 	1	2	0	3	-137	-145
+1219	5	V	Washington 	0	3	0	3	-115	-125
+1219	6	H	Ottawa 	2	0	0	2	5.5o15	5.5o20
+1219	7	V	Montreal 	1	1	0	2	5.5u09	5.5u15
+1219	8	H	Colorado 	1	2	0	3	-130	-120
+1220	51	V	Florida 	2	2	1	5	5.5u13	5.5u30
+1220	52	H	Philadelphia 	0	0	0	0	-230	-220
+1220	53	V	Phoenix 	0	0	1	1	5.5u09	5.5u15
+1220	54	H	Pittsburgh 	2	3	1	6	-193	-200
+1220	55	V	Atlanta 	2	1	3	6	-115	-120
+1220	56	H	Toronto 	0	1	2	3	5.5o09	5.5o20
+1220	57	V	Carolina 	1	0	0	1	5.5o25	5.5o15
+1220	58	H	Tampa Bay 	2	3	0	5	-140	-155
+1220	59	V	Anaheim 	1	2	0	3	5.5u32	5.5u35
+1220	60	H	Boston 	0	0	0	0	-177	-180
+1220	61	V	Calgary 	0	1	0	1	5o20	5o15
+1220	62	H	Minnesota 	1	0	3	4	-115	-115
+1220	63	V	Vancouver 	0	2	1	3	-130	-115
+1220	64	H	St. Louis 	0	1	0	1	5.5u25	5.5u20
+1221	1	V	Anaheim 	0	0	2	2	5.5u30	5.5u35
+1221	2	H	Buffalo 	3	1	1	5	-170	-175
+1221	3	V	Calgary 	0	1	0	1	5.5u30	5.5u35
+1221	4	H	Columbus 	1	1	1	3	-145	-160
+1221	5	V	St. Louis 	1	1	2	4	5.5u15	5.5u20
+1221	6	H	Atlanta 	1	0	1	2	-150	-150
+1221	7	V	New Jersey 	0	1	0	1	5.5u15	5.5u30
+1221	8	H	Washington 	1	3	1	5	-220	-230
+1221	9	V	Montreal 	0	1	1	2	5.5u25	5.5u35
+1221	10	H	Dallas 	2	2	1	5	-130	-135
+1221	11	V	Los Angeles 	1	1	3	5	5.5o10	5.5u15
+1221	12	H	Colorado 	0	0	0	0	-120	-115
+1221	13	V	Edmonton 	0	0	1	1	5.5o15	5.5o20
+1221	14	H	San Jose 	0	2	0	2	-230	-250
+1222	51	V	Florida 	1	0	1	2	5.5u15	5.5u20
+1222	52	H	Pittsburgh 	3	1	1	5	-220	-230
+1222	53	V	Tampa Bay 	1	0	0	1	-165	-160
+1222	54	H	NY Islanders 	0	1	0	2	5.5o25	5.5o30
+1222	55	V	Vancouver 	0	3	1	4	5.5	5.5
+1222	56	H	Detroit 	1	1	2	5	-140	-140
+1222	57	V	Nashville 	0	0	1	1	5.5u30	5.5u35
+1222	58	H	Chicago 	1	1	2	4	-150	-150
+1223	1	V	Atlanta 	0	1	0	1	5.5u22	5.5u30
+1223	2	H	Boston 	1	2	1	4	-156	-160
+1223	3	V	Vancouver 	3	3	1	7	5.5o15	-110
+1223	4	H	Columbus 	0	1	2	3	-115	5.5u20
+1223	5	V	Tampa Bay 	2	1	0	4	5.5o09	5.5o30
+1223	6	H	NY Rangers 	2	0	1	3	-140	-145
+1223	7	V	Florida 	3	0	1	4	5.5u28	5.5u40
+1223	8	H	Buffalo 	0	3	0	3	-205	-210
+1223	9	V	Montreal 	0	3	0	3	5.5u30	5.5u30
+1223	10	H	Carolina 	0	2	0	2	-120	-120
+1223	11	V	NY Islanders 	3	1	1	5	5o25	5o15
+1223	12	H	New Jersey 	0	1	0	1	-199	-220
+1223	13	V	Pittsburgh 	1	0	1	3	6	6o15
+1223	14	H	Washington 	0	1	1	2	-135	-140
+1223	15	V	Ottawa 	1	1	0	2	5o30	5o35
+1223	16	H	Nashville 	0	1	0	1	-145	-150
+1223	17	V	Detroit 	1	2	0	3	5.5u25	5.5u25
+1223	18	H	St. Louis 	3	1	0	4	-109	-130
+1223	19	V	Calgary 	1	0	1	3	5.5u25	5.5u30
+1223	20	H	Dallas 	1	0	1	2	-163	-160
+1223	21	V	Minnesota 	2	1	0	3	5.5	5.5u25
+1223	22	H	Colorado 	1	0	0	1	-166	-170
+1223	23	V	Edmonton 	0	1	1	2	5.5	5.5
+1223	24	H	Los Angeles 	0	1	1	3	-210	-230
+1223	25	V	Phoenix 	0	1	0	1	5.5o09	5.5u25
+1223	26	H	San Jose 	0	2	2	4	-205	-210
+1226	51	V	Detroit 	2	2	0	4	-134	-135
+1226	52	H	Minnesota 	0	0	1	1	5.5u29	5.5u25
+1226	53	V	Nashville 	0	0	0	0	5o14	5o20
+1226	54	H	St. Louis 	0	1	1	2	-144	-130
+1226	55	V	Columbus 	0	0	1	1	5.5u25	5.5u15
+1226	56	H	Chicago 	1	0	3	4	-175	-165
+1226	57	V	Toronto 	1	2	1	4	5o23	5o30
+1226	58	H	New Jersey 	0	0	1	1	-150	-145
+1226	59	V	Montreal 	0	0	1	1	-149	-160
+1226	60	H	NY Islanders 	1	1	2	4	5o33	5o40
+1226	61	V	Washington 	1	2	0	3	-125	-130
+1226	62	H	Carolina 	0	1	1	2	5.5o22	5.5o30
+1226	63	V	Tampa Bay 	1	1	0	3	6o08	6o25
+1226	64	H	Atlanta 	0	1	1	2	-139	-135
+1226	65	V	Pittsburgh 	0	0	1	1	-134	-150
+1226	66	H	Ottawa 	2	1	0	3	5.5	5.5u20
+1226	67	V	Phoenix 	0	1	0	1	5.5u30	5.5u35
+1226	68	H	Dallas 	0	0	0	0	-155	-145
+1226	69	V	Edmonton 	0	2	0	2	5.5o27	5.5o30
+1226	70	H	Vancouver 	0	1	2	3	-245	-250
+1226	71	V	Anaheim 	0	1	0	1	5.5u25	5.5u40
+1226	72	H	Los Angeles 	0	4	0	4	-165	-170
+1227	1	V	NY Islanders 	2	0	0	2	5.5u25	5.5u35
+1227	2	H	NY Rangers 	2	2	3	7	-225	-230
+1227	3	V	Minnesota 	1	1	1	3	5.5u40	5.5u45
+1227	4	H	Columbus 	0	1	2	4	-151	-140
+1227	5	V	Boston 	0	1	1	3	-120	-140
+1227	6	H	Florida 	0	2	0	2	5o28	5o35
+1227	7	V	Buffalo 	1	0	1	2	5o20	5o30
+1227	8	H	Calgary 	0	2	3	5	-128	-135
+1227	9	V	Detroit 	2	0	1	4	5.5o15	5.5o35
+1227	10	H	Colorado 	2	0	1	3	-109	-115
+1227	11	V	Los Angeles 	0	0	4	4	5.5u20	5.5u35
+1227	12	H	San Jose 	0	0	0	0	-166	-160
+1228	51	V	Montreal 	0	0	0	0	5.5u09	5.5u25
+1228	52	H	Washington 	2	0	1	3	-177	-170
+1228	53	V	Carolina 	3	0	1	4	5.5u20	5.5u20
+1228	54	H	Toronto 	2	1	0	3	-120	-115
+1228	55	V	Atlanta 	2	0	1	3	5.5o25	5.5o25
+1228	56	H	Pittsburgh 	2	1	3	6	-177	-175
+1228	57	V	Boston 	1	1	2	4	5.5u13	5.5u45
+1228	58	H	Tampa Bay 	1	1	1	3	-115	-120
+1228	59	V	Chicago 	1	0	0	1	5o25	-120
+1228	60	H	St. Louis 	0	1	2	3	-113	5.5u20
+1228	61	V	Dallas 	0	1	3	4	5o35	5o20
+1228	62	H	Nashville 	0	1	1	2	-130	-135
+1228	63	V	Anaheim 	3	0	0	3	5.5u40	5.5u40
+1228	64	H	Phoenix 	0	1	0	1	-150	-150
+1228	65	V	Buffalo 	1	1	2	4	5.5	-115
+1228	66	H	Edmonton 	1	0	1	2	-120	5.5
+1228	67	V	Philadelphia 	0	1	1	2	5.5o15	5.5o20
+1228	68	H	Vancouver 	1	3	2	6	-142	-145
+1229	1	V	NY Rangers 	1	1	1	3	-104	-125
+1229	2	H	New Jersey 	1	0	0	1	5o25	5o15
+1229	3	V	Pittsburgh 	0	1	0	1	-195	-200
+1229	4	H	NY Islanders 	0	1	0	2	5.5o20	5.5o15
+1229	5	V	Carolina 	2	1	1	4	5.5u09	5.5u40
+1229	6	H	Ottawa 	0	0	0	0	-145	-145
+1229	7	V	San Jose 	1	2	0	3	-137	-130
+1229	8	H	Minnesota 	1	1	3	5	5.5u35	5.5u45
+1229	9	V	Detroit 	1	2	4	7	-123	5.5u20
+1229	10	H	Dallas 	0	3	0	3	5.5u15	-115
+1229	11	V	Los Angeles 	3	0	0	3	-107	-125
+1229	12	H	Phoenix 	4	2	0	6	5o30	5o25
+1230	51	V	Columbus 	1	1	1	3	5.5u20	5.5u15
+1230	52	H	Toronto 	2	0	0	2	-119	-130
+1230	53	V	Boston 	1	1	0	2	-104	-115
+1230	54	H	Atlanta 	1	1	0	3	5.5u13	5.5u30
+1230	55	V	Montreal 	1	0	0	1	5.5u15	5.5u20
+1230	56	H	Tampa Bay 	0	2	2	4	-135	-140
+1230	57	V	San Jose 	1	2	2	5	5.5u08	5.5u15
+1230	58	H	Chicago 	1	2	0	3	-130	-155
+1230	59	V	Colorado 	3	0	0	4	-131	-150
+1230	60	H	Edmonton 	0	1	2	3	5.5o35	5.5o30
+1230	61	V	Philadelphia 	2	4	1	7	5.5u15	-110
+1230	62	H	Los Angeles 	2	2	0	4	-116	5.5u30
+1231	1	V	Montreal 	0	2	0	3	5o28	5o30
+1231	2	H	Florida 	0	2	0	2	-140	-140
+1231	3	V	Atlanta 	0	0	1	1	-104	5.5u40
+1231	4	H	New Jersey 	1	1	1	3	5.5u35	-125
+1231	5	V	Nashville 	1	1	2	4	5o09	5o25
+1231	6	H	Minnesota 	0	0	1	1	-125	-125
+1231	7	V	Ottawa 	0	1	2	3	5.5u30	5.5u35
+1231	8	H	Columbus 	1	2	0	4	-120	-130
+1231	9	V	NY Islanders 	2	1	0	4	5.5o15	5.5
+1231	10	H	Detroit 	1	1	1	3	-320	-300
+1231	11	V	Philadelphia 	0	1	1	2	-120	-120
+1231	12	H	Anaheim 	1	2	2	5	5.5u15	5.5
+1231	13	V	Vancouver 	2	2	0	4	-106	-120
+1231	14	H	Dallas 	0	0	1	1	5.5o15	5.5o20
+1231	15	V	Phoenix 	0	0	3	3	5o15	5o30
+1231	16	H	St. Louis 	1	2	1	4	-145	-150
+1231	17	V	Colorado 	0	0	2	2	5.5o09	5.5
+1231	18	H	Calgary 	0	3	0	3	-130	-125
+101	51	V	Washington 	0	2	1	3	6u25	5.5o20
+101	52	H	Pittsburgh 	0	1	0	1	-140	-140
+101	53	V	Boston 	4	0	2	6	5o25	5o25
+101	54	H	Buffalo 	3	2	1	7	-120	-115
+101	55	V	Toronto 	3	2	0	5	5.5u35	5.5u30
+101	56	H	Ottawa 	0	1	0	1	-135	-135
+101	57	V	New Jersey 	1	1	1	3	5o30	5o25
+101	58	H	Carolina 	4	1	1	6	-190	-180
+101	59	V	NY Rangers 	0	0	1	1	5.5o09	5.5
+101	60	H	Tampa Bay 	1	0	0	2	-130	-130
+101	61	V	San Jose 	0	1	0	1	5.5u25	5.5u20
+101	62	H	Los Angeles 	0	0	0	0	-120	-125
+101	63	V	Calgary 	1	1	0	2	-130	-130
+101	64	H	Edmonton 	0	1	0	1	5.5u20	5.5u25
+102	1	V	Atlanta 	1	2	0	4	5.5u25	5.5u30
+102	2	H	Montreal 	1	1	1	3	-130	-125
+102	3	V	NY Rangers 	0	0	0	0	5.5o21	5.5u40
+102	4	H	Florida 	0	1	2	3	-115	-130
+102	5	V	Philadelphia 	0	3	0	3	5.5o20	5.5o35
+102	6	H	Detroit 	0	0	2	2	-140	-145
+102	7	V	Columbus 	1	0	0	1	5o25	5o25
+102	8	H	Nashville 	0	3	1	4	-135	-140
+102	9	V	Phoenix 	1	0	4	5	5o25	5o40
+102	10	H	Minnesota 	1	2	2	6	-120	-115
+102	11	V	Dallas 	1	0	3	4	5o35	5.5u45
+102	12	H	St. Louis 	2	0	0	2	-136	-135
+102	13	V	Vancouver 	1	0	1	2	-117	-125
+102	14	H	Colorado 	0	0	1	1	6o09	6
+102	15	V	Chicago 	1	0	0	1	-118	-130
+102	16	H	Anaheim 	1	1	0	2	5.5u20	5.5
+103	51	V	Florida 	1	1	1	4	5.5u25	5.5u25
+103	52	H	Carolina 	1	0	2	3	-165	-165
+103	53	V	Boston 	0	2	0	2	-142	-130
+103	54	H	Toronto 	1	0	0	1	5o32	5o35
+103	55	V	NY Islanders 	3	1	1	5	5.5u25	5.5u40
+103	56	H	Calgary 	1	1	0	2	-203	-210
+103	57	V	Chicago 	1	1	2	4	5.5u25	5.5u20
+103	58	H	Los Angeles 	1	1	1	3	-132	-150
+103	59	V	Vancouver 	1	2	1	4	5.5o20	5.5u20
+103	60	H	San Jose 	0	3	0	3	-130	-140
+104	1	V	Minnesota 	1	0	1	2	5o30	5o15
+104	2	H	New Jersey 	0	1	0	1	-130	-140
+104	3	V	Tampa Bay 	0	0	0	1	6o20	6o15
+104	4	H	Washington 	0	0	0	0	-172	-160
+104	5	V	Detroit 	1	2	2	5	-162	-160
+104	6	H	Edmonton 	1	0	2	3	5.5o20	5.5o25
+104	7	V	Columbus 	0	1	1	2	5o35	5.5u30
+104	8	H	Phoenix 	0	2	2	4	-140	-145
+104	9	V	Buffalo 	1	0	2	3	5.5	5.5o15
+104	10	H	Colorado 	2	0	1	4	-130	-140
+105	51	V	Tampa Bay 	0	0	1	1	6o20	5.5o15
+105	52	H	Pittsburgh 	5	2	1	8	-193	-200
+105	53	V	Carolina 	0	0	1	1	5.5u25	5.5u30
+105	54	H	NY Rangers 	0	0	1	2	-140	-150
+105	55	V	Atlanta 	2	1	0	3	5.5u18	5.5u25
+105	56	H	Florida 	1	0	1	2	-120	-115
+105	57	V	Dallas 	2	0	2	4	5.5o20	5.5o20
+105	58	H	Chicago 	0	2	0	2	-164	-165
+105	59	V	Calgary 	0	0	1	1	5.5u20	5.5u25
+105	60	H	Vancouver 	2	1	0	3	-202	-210
+105	61	V	Nashville 	1	1	2	4	5o30	5o20
+105	62	H	Anaheim 	0	0	1	1	-130	-125
+106	1	V	St. Louis 	2	0	3	5	-115	-120
+106	2	H	Toronto 	1	3	1	6	5o25	5o40
+106	3	V	Philadelphia 	0	2	2	4	-138	-165
+106	4	H	New Jersey 	1	1	0	2	5o30	5o30
+106	5	V	Minnesota 	0	1	2	3	5o27	5o25
+106	6	H	Boston 	0	1	0	1	-182	-200
+106	7	V	Pittsburgh 	1	0	0	1	-115	5o40
+106	8	H	Montreal 	0	1	0	2	5.5u20	-120
+106	9	V	NY Islanders 	0	1	0	1	5.5o15	5.5o20
+106	10	H	Edmonton 	2	0	0	2	-125	-155
+106	11	V	Phoenix 	1	0	1	2	5.5	5.5o25
+106	12	H	Colorado 	0	0	0	0	-140	-145
+106	13	V	Nashville 	0	3	2	5	5o35	5o30
+106	14	H	Los Angeles 	0	2	0	2	-167	-200
+106	15	V	Buffalo 	2	1	0	3	5.5u09	5.5u20
+106	16	H	San Jose 	0	0	0	0	-166	-170
+107	51	V	Carolina 	0	2	3	5	5.5u23	5.5u30
+107	52	H	Florida 	2	0	1	3	-120	-140
+107	53	V	Toronto 	2	6	1	9	5.5o09	5.5o15
+107	54	H	Atlanta 	1	0	2	3	-172	-175
+107	55	V	NY Rangers 	0	1	1	3	5.5u25	5.5u45
+107	56	H	Dallas 	1	1	0	2	-129	-125
+107	57	V	Ottawa 	0	1	1	2	5.5u18	5.5u15
+107	58	H	Chicago 	0	1	1	3	-183	-200
+107	59	V	Detroit 	1	2	1	5	-125	-125
+107	60	H	Calgary 	2	2	0	4	5.5u09	5.5u15
+107	61	V	Edmonton 	0	1	0	1	5.5o25	5.5o30
+107	62	H	Vancouver 	0	3	3	6	-267	-300
+107	63	V	Columbus 	0	0	0	0	5.5u15	5.5u20
+107	64	H	Anaheim 	1	2	3	6	-130	-125
+108	1	V	New Jersey 	0	1	0	1	5o35	5o40
+108	2	H	Philadelphia 	2	0	0	2	-240	-260
+108	3	V	NY Islanders 	2	1	0	4	6u15	6u30
+108	4	H	Colorado 	2	0	1	3	-205	-240
+108	5	V	Boston 	0	2	0	2	5o22	5o20
+108	6	H	Montreal 	0	0	2	3	-115	-120
+108	7	V	Florida 	1	0	1	2	5.5o15	5.5
+108	8	H	Washington 	0	1	2	3	-225	-240
+108	9	V	Tampa Bay 	0	0	2	2	-115	-130
+108	10	H	Ottawa 	0	1	0	1	5.5o09	5.5o15
+108	11	V	Minnesota 	2	0	2	4	5o25	5o50
+108	12	H	Pittsburgh 	0	0	0	0	-161	-200
+108	13	V	Nashville 	1	0	1	2	5o35	5o40
+108	14	H	San Jose 	0	1	0	1	-168	-165
+108	15	V	NY Rangers 	0	2	0	2	5o35	5o40
+108	16	H	St. Louis 	0	1	0	1	-145	-160
+108	17	V	Buffalo 	0	1	0	2	5o35	5.5u25
+108	18	H	Phoenix 	0	1	0	1	-123	-130
+108	19	V	Detroit 	0	0	1	2	5.5o35	5.5o40
+108	20	H	Vancouver 	0	1	0	1	-171	-175
+108	21	V	Columbus 	0	1	3	4	5.5u30	5.5u35
+108	22	H	Los Angeles 	3	1	2	6	-183	-190
+109	51	V	Atlanta 	1	1	1	3	5.5o30	5.5o25
+109	52	H	Carolina 	1	2	0	4	-125	-120
+109	53	V	Tampa Bay 	2	0	1	3	-140	-130
+109	54	H	New Jersey 	1	0	5	6	5.5u20	5.5u35
+109	55	V	Dallas 	2	0	2	4	5o35	-120
+109	56	H	Minnesota 	0	0	0	0	-117	5o50
+109	57	V	NY Islanders 	0	0	0	0	5.5o25	5.5o15
+109	58	H	Chicago 	1	4	0	5	-255	-300
+109	59	V	San Jose 	0	0	0	0	5.5u15	-110
+109	60	H	Anaheim 	0	1	0	1	-116	5.5u20
+110	1	V	Boston 	0	0	4	4	5o35	5o35
+110	2	H	Pittsburgh 	0	2	0	2	-130	-130
+110	3	V	Phoenix 	0	2	2	4	5o30	5o30
+110	4	H	St. Louis 	1	0	2	3	-145	-145
+110	5	V	Detroit 	2	1	1	4	-104	-110
+110	6	H	Colorado 	4	1	0	5	5.5o30	5.5o25
+110	7	V	Toronto 	0	2	1	3	5.5u15	5.5u15
+110	8	H	Los Angeles 	1	1	0	2	-175	-200
+111	51	V	Phoenix 	0	2	2	4	5.5u25	5.5u30
+111	52	H	Columbus 	2	1	0	3	-128	-130
+111	53	V	Calgary 	2	1	2	5	5.5u30	5.5u30
+111	54	H	Carolina 	2	3	0	6	-140	-140
+111	55	V	Ottawa 	0	0	0	0	5o27	5o20
+111	56	H	Boston 	2	3	1	6	-172	-170
+111	57	V	Montreal 	0	1	1	2	5o18	5o20
+111	58	H	NY Rangers 	1	0	0	1	-145	-135
+111	59	V	Vancouver 	1	1	1	4	-205	-230
+111	60	H	NY Islanders 	0	1	2	3	5.5o28	5.5o15
+111	61	V	Washington 	0	2	1	3	-133	-130
+111	62	H	Florida 	2	1	0	4	5.5o10	5.5u20
+111	63	V	Philadelphia 	1	1	3	5	-115	-125
+111	64	H	Buffalo 	2	0	0	2	5.5u15	5.5
+111	65	V	Minnesota 	1	0	0	1	5o13	5o20
+111	66	H	Nashville 	1	1	3	5	-149	-140
+111	67	V	Edmonton 	0	0	2	2	5.5o15	5.5u15
+111	68	H	Dallas 	1	1	1	3	-230	-220
+111	69	V	Toronto 	0	0	4	4	5.5u13	5.5u20
+111	70	H	San Jose 	1	0	1	2	-220	-230
+112	1	V	Pittsburgh 	1	2	2	5	5o30	5o35
+112	2	H	Montreal 	1	1	0	2	-130	-115
+112	3	V	Washington 	0	0	0	0	-114	6u20
+112	4	H	Tampa Bay 	2	1	0	3	6u20	-115
+112	5	V	Colorado 	0	0	0	0	5.5o30	5.5o25
+112	6	H	Chicago 	2	1	1	4	-166	-180
+112	7	V	St. Louis 	0	2	2	4	5o30	5o40
+112	8	H	Anaheim 	3	0	4	7	-120	-130
+113	51	V	Vancouver 	0	0	0	0	-125	-120
+113	52	H	NY Rangers 	0	1	0	1	5.5u20	5.5u15
+113	53	V	Philadelphia 	1	2	2	5	5.5u30	5.5u30
+113	54	H	Boston 	1	1	5	7	-120	-120
+113	55	V	Ottawa 	2	4	0	6	-120	5.5u15
+113	56	H	NY Islanders 	1	1	2	4	5.5u09	-115
+113	57	V	Carolina 	0	1	1	2	5.5u15	5.5u20
+113	58	H	Buffalo 	1	1	1	3	-140	-140
+113	59	V	Nashville 	1	0	1	2	5o25	5o30
+113	60	H	Florida 	1	0	2	3	-115	-115
+113	61	V	Toronto 	0	0	1	1	5.5u15	5.5u20
+113	62	H	Phoenix 	1	0	4	5	-151	-150
+113	63	V	St. Louis 	1	2	0	3	5.5u30	5.5u35
+113	64	H	Los Angeles 	0	1	0	1	-166	-175
+113	65	V	Edmonton 	1	2	2	5	5.5o09	5.5
+113	66	H	San Jose 	0	0	2	2	-250	-230
+114	1	V	Vancouver 	1	2	1	4	6u20	6u20
+114	2	H	Washington 	1	0	1	2	-125	-125
+114	3	V	Detroit 	0	2	0	2	-130	-135
+114	4	H	Columbus 	2	0	0	3	5.5o15	5.5o20
+114	5	V	Philadelphia 	0	2	3	5	-104	5.5o40
+114	6	H	Atlanta 	0	2	0	2	5.5o20	-115
+114	7	V	New Jersey 	4	0	1	5	5.5u25	5.5u30
+114	8	H	Tampa Bay 	1	1	0	2	-200	-210
+114	9	V	Calgary 	0	3	0	3	5.5u25	5.5u30
+114	10	H	Ottawa 	0	0	2	2	-109	-115
+114	11	V	Colorado 	2	1	1	4	-104	-110
+114	12	H	Minnesota 	0	0	1	1	5.5u09	5.5u15
+115	51	V	Pittsburgh 	1	1	1	3	5.5u28	5.5u30
+115	52	H	Boston 	0	2	0	2	-140	-130
+115	53	V	NY Rangers 	1	0	1	2	5o09	5o25
+115	54	H	Montreal 	3	0	0	3	-125	-125
+115	55	V	New Jersey 	1	0	1	2	5o27	5o25
+115	56	H	Florida 	1	1	0	3	-165	-170
+115	57	V	Buffalo 	0	1	2	3	-136	-135
+115	58	H	NY Islanders 	0	4	1	5	5.5u15	5.5
+115	59	V	Columbus 	2	1	2	5	5.5o15	5.5o20
+115	60	H	Detroit 	2	2	1	6	-200	-200
+115	61	V	Tampa Bay 	2	1	1	4	5.5o25	5.5o30
+115	62	H	Carolina 	2	3	1	6	-125	-135
+115	63	V	Calgary 	0	0	1	2	5.5u20	5.5u20
+115	64	H	Toronto 	0	0	1	1	-130	-135
+115	65	V	Anaheim 	1	0	1	2	5.5u25	5.5u35
+115	66	H	Phoenix 	1	3	2	6	-135	-140
+115	67	V	Atlanta 	0	1	0	1	5.5o09	5.5o15
+115	68	H	Dallas 	1	2	3	6	-155	-165
+115	69	V	Chicago 	1	1	0	2	-110	-125
+115	70	H	Nashville 	0	0	2	3	5.5u39	5.5u35
+115	71	V	Edmonton 	2	0	0	2	5.5u09	5.5u15
+115	72	H	Los Angeles 	2	1	2	5	-200	-210
+115	73	V	St. Louis 	1	1	0	2	5.5u25	5.5u30
+115	74	H	San Jose 	1	1	2	4	-151	-150
+116	1	V	Ottawa 	1	0	0	1	5.5o09	5.5o15
+116	2	H	Washington 	0	0	3	3	-200	-210
+116	3	V	Vancouver 	0	0	0	0	-154	-175
+116	4	H	Minnesota 	0	2	2	4	5.5o05	5.5
+116	5	V	Philadelphia 	2	1	0	3	5.5u20	-125
+116	6	H	NY Rangers 	0	0	2	2	-109	5.5u20
+116	7	V	Nashville 	2	0	1	3	5.5u35	5.5u40
+116	8	H	Chicago 	1	1	4	6	-178	-175
+116	9	V	Edmonton 	0	2	0	2	5.5o19	5.5o25
+116	10	H	Anaheim 	2	1	0	3	-193	-190
+117	51	V	New Jersey 	2	3	0	5	5o25	-115
+117	52	H	NY Islanders 	0	2	0	2	-125	5o30
+117	53	V	Carolina 	0	0	0	0	5.5u15	5.5u20
+117	54	H	Boston 	3	2	2	7	-150	-170
+117	55	V	San Jose 	1	2	1	4	5.5u20	5.5u25
+117	56	H	Phoenix 	1	0	1	2	-120	-115
+117	57	V	Calgary 	0	2	2	4	5o25	5o30
+117	58	H	Montreal 	2	2	0	5	-155	-145
+117	59	V	Atlanta 	0	0	2	3	5.5	5.5o15
+117	60	H	Florida 	0	0	2	2	-130	-115
+117	61	V	Los Angeles 	1	0	0	1	5.5u20	5.5u35
+117	62	H	Dallas 	0	2	0	2	-135	-115
+118	1	V	Detroit 	0	1	0	1	5.5o30	5.5o35
+118	2	H	Pittsburgh 	2	1	1	4	-145	-145
+118	3	V	Washington 	0	0	2	2	6u09	6u20
+118	4	H	Philadelphia 	1	1	0	3	-140	-145
+118	5	V	Boston 	1	0	2	3	5.5u13	-110
+118	6	H	Carolina 	1	0	1	2	-125	5.5u15
+118	7	V	Montreal 	1	0	0	1	5o25	5o45
+118	8	H	Buffalo 	0	1	0	2	-130	-135
+118	9	V	Columbus 	1	1	0	2	6u15	6u15
+118	10	H	Tampa Bay 	1	1	0	3	-166	-165
+118	11	V	Anaheim 	1	0	0	2	-104	5.5u35
+118	12	H	Ottawa 	0	1	0	1	5.5u25	-115
+118	13	V	Los Angeles 	0	1	0	1	5.5u40	5.5u40
+118	14	H	St. Louis 	1	0	1	2	-130	-135
+118	15	V	Vancouver 	1	2	0	3	-130	-120
+118	16	H	Colorado 	1	2	0	4	6o15	6o20
+118	17	V	Nashville 	2	2	1	5	5o35	5o40
+118	18	H	Phoenix 	2	0	0	2	-125	-140
+118	19	V	Minnesota 	2	0	2	4	-116	-125
+118	20	H	Edmonton 	0	0	1	1	5.5u15	5.5u20
+119	51	V	Toronto 	0	0	0	0	5.5u25	5.5u30
+119	52	H	NY Rangers 	4	2	1	7	-156	-165
+119	53	V	Columbus 	1	0	1	3	5.5u20	5.5u20
+119	54	H	Florida 	2	0	0	2	-135	-145
+119	55	V	Minnesota 	2	1	3	6	5o30	5o35
+119	56	H	Calgary 	0	0	0	0	-135	-155
+120	1	V	Anaheim 	1	1	0	2	5.5u25	5.5u35
+120	2	H	Toronto 	1	2	2	5	-115	-120
+120	3	V	Washington 	1	1	0	2	-161	-155
+120	4	H	NY Islanders 	0	1	0	1	5.5o15	5.5o25
+120	5	V	Tampa Bay 	1	0	1	3	6o15	6o15
+120	6	H	Atlanta 	1	1	0	2	-120	-120
+120	7	V	Ottawa 	0	2	0	2	5.5u09	5.5u15
+120	8	H	Philadelphia 	2	1	3	6	-230	-240
+120	9	V	Buffalo 	0	2	2	4	5.5u35	5.5u30
+120	10	H	Boston 	1	1	0	2	-151	-165
+120	11	V	Pittsburgh 	0	0	0	0	-132	-115
+120	12	H	New Jersey 	2	0	0	2	5o35	5o40
+120	13	V	NY Rangers 	0	0	1	1	5.5u25	5.5u30
+120	14	H	Carolina 	2	1	1	4	-130	-150
+120	15	V	Detroit 	1	2	0	4	5.5u30	5.5u15
+120	16	H	St. Louis 	0	1	2	3	-120	-115
+120	17	V	Nashville 	2	0	3	5	5.5u15	5.5u25
+120	18	H	Colorado 	0	0	1	1	-135	-135
+120	19	V	Dallas 	1	2	1	4	-165	-160
+120	20	H	Edmonton 	1	1	0	2	5.5u15	5.5u20
+120	21	V	San Jose 	0	1	0	2	5.5o09	5.5o15
+120	22	H	Vancouver 	1	0	0	1	-150	-155
+120	23	V	Phoenix 	0	2	0	2	5o35	5o40
+120	24	H	Los Angeles 	0	0	0	0	-140	-145
+121	51	V	Tampa Bay 	1	0	0	2	5.5o20	5.5o20
+121	52	H	Florida 	1	0	0	1	-120	-130
+121	53	V	NY Islanders 	2	1	2	5	5.5o15	5.5o20
+121	54	H	Buffalo 	0	0	2	2	-210	-210
+121	55	V	Montreal 	2	3	2	7	-120	-135
+121	56	H	Ottawa 	1	0	0	1	5o35	5o35
+121	57	V	Dallas 	2	1	1	4	5.5u25	5.5u30
+121	58	H	Calgary 	2	3	2	7	-115	-125
+122	1	V	New Jersey 	2	0	1	3	5o35	5.5u35
+122	2	H	Philadelphia 	0	1	0	1	-220	-250
+122	3	V	Chicago 	1	2	1	4	5.5o15	5.5o20
+122	4	H	Detroit 	1	0	0	1	-140	-120
+122	5	V	Boston 	2	2	2	6	5.5o16	-110
+122	6	H	Colorado 	1	0	1	2	-115	5.5o15
+122	7	V	NY Rangers 	0	1	1	3	5.5u09	5.5u20
+122	8	H	Atlanta 	1	1	0	2	-125	-115
+122	9	V	Washington 	1	0	3	4	-130	-135
+122	10	H	Toronto 	0	0	1	1	5.5o20	5.5o20
+122	11	V	Carolina 	0	0	2	2	5.5	5.5u15
+122	12	H	Pittsburgh 	0	1	2	3	-151	-140
+122	13	V	Anaheim 	1	2	0	4	5.5u30	5.5u50
+122	14	H	Montreal 	0	1	2	3	-130	-130
+122	15	V	Los Angeles 	3	0	1	4	5o25	5o40
+122	16	H	Phoenix 	1	2	0	3	-125	-125
+122	17	V	Columbus 	1	1	3	5	5.5u30	5.5u35
+122	18	H	St. Louis 	2	0	0	2	-151	-155
+122	19	V	Calgary 	2	0	1	4	5.5u20	5.5u20
+122	20	H	Vancouver 	1	1	1	3	-220	-230
+122	21	V	Minnesota 	1	1	1	3	5.5u30	5.5u35
+122	22	H	San Jose 	1	2	1	4	-161	-175
+123	51	V	Florida 	0	1	1	2	5o20	5o25
+123	52	H	New Jersey 	2	2	1	5	-130	-135
+123	53	V	Buffalo 	1	1	3	5	-135	-125
+123	54	H	NY Islanders 	0	2	1	3	5.5o18	5.5o15
+123	55	V	Philadelphia 	0	1	3	4	5.5o15	5.5o30
+123	56	H	Chicago 	0	0	1	1	-120	-120
+123	57	V	Atlanta 	0	0	1	1	6u18	6u20
+123	58	H	Tampa Bay 	0	5	2	7	-166	-165
+123	59	V	Nashville 	1	0	1	3	-150	-160
+123	60	H	Edmonton 	0	0	2	2	5.5u25	5.5u35
+124	1	V	Toronto 	1	0	3	4	5.5o09	5.5o15
+124	2	H	Carolina 	1	1	4	6	-155	-160
+124	3	V	NY Rangers 	0	0	1	2	5.5u15	5.5u35
+124	4	H	Washington 	0	1	0	1	-180	-190
+124	5	V	Nashville 	0	1	0	1	5o35	5o45
+124	6	H	Calgary 	1	1	1	3	-125	-130
+124	7	V	St. Louis 	0	2	1	3	5.5u15	5.5
+124	8	H	Colorado 	0	2	2	4	-130	-120
+124	9	V	Dallas 	1	0	0	1	5.5o09	5.5
+124	10	H	Vancouver 	3	2	2	7	-170	-165
+124	11	V	Boston 	0	0	0	0	5.5u30	-110
+124	12	H	Los Angeles 	1	0	1	2	-115	5.5u35
+125	51	V	NY Islanders 	0	0	0	0	5.5o20	5.5o20
+125	52	H	Pittsburgh 	0	0	1	1	-202	-210
+125	53	V	Florida 	1	2	1	4	5o26	5o30
+125	54	H	NY Rangers 	0	1	2	3	-145	-135
+125	55	V	Anaheim 	2	0	1	3	5.5u25	5.5u25
+125	56	H	Columbus 	1	0	1	2	-120	-130
+125	57	V	Toronto 	0	0	0	0	6	6
+125	58	H	Tampa Bay 	2	0	0	2	-202	-210
+125	59	V	Buffalo 	2	0	0	3	-120	-130
+125	60	H	Ottawa 	1	0	1	2	5.5u35	5.5u40
+125	61	V	Montreal 	0	1	1	2	5.5u35	5.5u25
+125	62	H	Philadelphia 	2	2	1	5	-177	-180
+125	63	V	Minnesota 	1	2	1	4	5.5u25	5.5u30
+125	64	H	Chicago 	2	0	0	2	-182	-200
+125	65	V	Edmonton 	0	1	3	4	5.5	5.5
+125	66	H	Phoenix 	1	1	1	3	-200	-210
+126	1	V	Florida 	0	0	1	1	5.5u30	5.5u35
+126	2	H	Boston 	1	1	0	2	-220	-220
+126	3	V	Washington 	0	0	0	0	-135	-135
+126	4	H	Atlanta 	0	1	0	1	6u20	6u30
+126	5	V	Carolina 	1	2	1	4	-125	-150
+126	6	H	NY Islanders 	0	1	1	2	5.5o19	5.5o30
+126	7	V	New Jersey 	1	0	0	1	5.5u25	5.5u30
+126	8	H	Detroit 	1	0	2	3	-191	-170
+126	9	V	Edmonton 	0	1	0	1	5.5o09	5.5o15
+126	10	H	Dallas 	1	2	0	3	-240	-240
+126	11	V	Phoenix 	2	1	2	5	5.5o25	5.5o20
+126	12	H	Colorado 	1	0	1	2	-144	-145
+126	13	V	Nashville 	0	0	1	1	5.5u14	5.5u30
+126	14	H	Vancouver 	0	0	2	2	-180	-175
+126	15	V	St. Louis 	0	0	1	1	5.5u30	5.5u35
+126	16	H	Calgary 	1	2	1	4	-130	-135
+126	17	V	San Jose 	0	2	0	2	5.5u35	5.5u40
+126	18	H	Los Angeles 	0	1	1	3	-115	-120
+201	51	V	NY Islanders 	0	3	1	4	5.5o25	5.5o25
+201	52	H	Atlanta 	1	0	0	1	-200	-170
+201	53	V	Boston 	0	1	2	3	5.5	-115
+201	54	H	Carolina 	0	1	1	2	-125	5.5u25
+201	55	V	Ottawa 	0	1	0	1	5o25	5o25
+201	56	H	New Jersey 	0	1	1	2	-165	-165
+201	57	V	Florida 	1	1	1	3	5.5u25	5.5u25
+201	58	H	Toronto 	2	1	0	4	-135	-135
+201	59	V	Chicago 	2	3	2	7	-120	-140
+201	60	H	Columbus 	1	2	1	4	5.5u25	5.5
+201	61	V	Montreal 	0	2	0	3	5.5u35	5.5u40
+201	62	H	Washington 	2	0	0	2	-170	-170
+201	63	V	Philadelphia 	0	0	0	0	5.5o30	-115
+201	64	H	Tampa Bay 	3	0	1	4	-125	5.5o30
+201	65	V	Pittsburgh 	0	3	0	4	5o35	5o30
+201	66	H	NY Rangers 	1	2	0	3	-125	-130
+201	69	V	Calgary 	0	0	2	3	5o30	5o25
+201	70	H	Nashville 	1	0	1	2	-140	-140
+201	71	V	Los Angeles 	0	0	0	0	5o30	5o30
+201	72	H	Minnesota 	0	0	0	1	-115	-115
+201	73	V	Vancouver 	0	3	1	4	-110	-115
+201	74	H	Dallas 	0	1	0	1	5.5o15	5.5
+201	75	V	Phoenix 	2	1	0	3	5.5u25	5.5u25
+201	76	H	San Jose 	0	1	4	5	-175	-160
+202	1	V	Detroit 	2	2	3	7	-177	-190
+202	2	H	Ottawa 	3	1	1	5	5.5u09	5.5
+202	3	V	NY Islanders 	0	0	0	0	5.5u20	5.5u20
+202	4	H	Pittsburgh 	2	0	1	3	-205	-190
+202	5	V	Florida 	1	0	1	2	5o27	5o35
+202	6	H	Montreal 	0	1	2	3	-172	-145
+202	7	V	Vancouver 	1	2	3	6	-125	-140
+202	8	H	Phoenix 	0	0	0	0	5.5o15	5.5o15
+202	9	V	Los Angeles 	0	2	1	3	-141	-140
+202	10	H	Edmonton 	0	1	0	1	5.5	5.5u15
+202	11	V	San Jose 	3	1	0	4	5.5u35	-115
+202	12	H	Anaheim 	0	2	1	3	-114	5.5u40
+203	51	V	Calgary 	1	1	2	4	5.5u15	5.5u20
+203	52	H	Atlanta 	0	2	0	2	-120	-120
+203	53	V	Dallas 	0	1	2	3	5.5u20	5.5u20
+203	54	H	Boston 	4	0	2	6	-140	-170
+203	55	V	Nashville 	1	0	1	2	5.5u15	5.5u20
+203	56	H	Philadelphia 	1	0	2	3	-182	-180
+203	57	V	New Jersey 	1	2	0	3	5o09	5o15
+203	58	H	NY Rangers 	0	1	1	2	-145	-150
+203	59	V	Carolina 	0	0	0	0	-104	-110
+203	60	H	Toronto 	0	2	1	3	5.5o25	5.5o20
+203	61	V	Minnesota 	2	1	1	4	5.5u15	5.5
+203	62	H	Colorado 	0	1	2	3	-140	-135
+204	1	V	Florida 	2	0	1	4	5o25	5o35
+204	2	H	New Jersey 	2	1	0	3	-140	-140
+204	3	V	Buffalo 	2	0	0	2	5.5u20	5.5u25
+204	4	H	Pittsburgh 	0	3	0	3	-145	-150
+204	5	V	Columbus 	1	1	1	3	5.5o25	5.5o40
+204	6	H	Detroit 	0	0	0	0	-200	-210
+204	7	V	Washington 	1	2	2	5	5.5	-110
+204	8	H	Tampa Bay 	1	1	0	2	-130	5.5u20
+204	9	V	Edmonton 	1	2	0	3	5.5u09	5.5u15
+204	10	H	St. Louis 	2	2	1	5	-193	-200
+204	11	V	Chicago 	0	2	1	3	5.5o25	5.5o15
+204	12	H	Vancouver 	1	1	2	4	-156	-150
+205	51	V	San Jose 	1	0	1	2	5.5u15	5.5u30
+205	52	H	Boston 	0	0	0	0	-125	-140
+205	53	V	NY Rangers 	0	0	0	0	5o25	5o25
+205	54	H	Montreal 	0	1	1	2	-130	-125
+205	55	V	Anaheim 	1	0	2	3	5.5o40	5.5o45
+205	56	H	Colorado 	0	0	0	0	-145	-140
+205	57	V	Dallas 	0	1	0	1	5.5o09	5.5o15
+205	58	H	Philadelphia 	1	1	1	3	-177	-175
+205	59	V	Toronto 	0	1	1	2	5.5u20	5.5u25
+205	60	H	Buffalo 	2	3	1	6	-162	-150
+205	61	V	Ottawa 	3	0	0	3	5.5u15	5.5u15
+205	62	H	NY Islanders 	3	0	2	5	-115	-115
+205	63	V	Edmonton 	2	0	1	3	5.5o09	5.5o15
+205	64	H	Columbus 	1	1	2	4	-177	-180
+205	65	V	Atlanta 	1	0	2	3	5.5o25	5.5o30
+205	66	H	Carolina 	0	1	2	4	-135	-155
+205	67	V	Detroit 	0	0	0	0	-104	5.5
+205	68	H	Nashville 	1	1	1	3	5.5	-130
+205	69	V	Minnesota 	0	0	0	0	5.5u25	5.5u30
+205	70	H	Phoenix 	0	0	1	1	-140	-145
+205	71	V	Los Angeles 	2	1	0	4	5o25	5o35
+205	72	H	Calgary 	1	1	1	3	-120	-115
+206	1	V	Pittsburgh 	0	0	0	0	5.5u09	5.5u30
+206	2	H	Washington 	1	1	1	3	-145	-160
+206	3	V	New Jersey 	2	1	1	4	5o09	5
+206	4	H	Montreal 	0	1	0	1	-145	-140
+206	5	V	St. Louis 	0	3	0	3	5.5o20	5.5o25
+206	6	H	Tampa Bay 	1	2	0	4	-156	-155
+207	51	V	Atlanta 	2	1	1	4	5.5o25	5.5o30
+207	52	H	Toronto 	0	3	2	5	-125	-125
+207	53	V	NY Rangers 	0	0	2	2	5.5u25	5.5u25
+207	54	H	Detroit 	0	1	2	3	-193	-180
+207	55	V	Edmonton 	1	1	2	4	5.5u15	5.5u20
+207	56	H	Nashville 	0	0	0	0	-230	-210
+207	57	V	Colorado 	0	0	0	0	5.5o25	5.5o20
+207	58	H	Phoenix 	1	1	1	3	-135	-155
+207	59	V	Chicago 	0	1	0	1	-115	-135
+207	60	H	Calgary 	1	0	2	3	5.5u15	5.5u15
+207	61	V	Ottawa 	0	2	0	2	5.5o10	5.5o15
+207	62	H	Vancouver 	2	1	1	4	-239	-270
+208	1	V	San Jose 	0	0	2	2	5.5u30	5.5u30
+208	2	H	Washington 	0	0	0	0	-135	-130
+208	3	V	Toronto 	2	0	3	5	5.5o20	5.5
+208	4	H	NY Islanders 	1	1	1	3	-120	-120
+208	5	V	Columbus 	1	2	1	4	5.5u25	5.5u30
+208	6	H	Pittsburgh 	0	0	1	1	-140	-160
+208	7	V	Carolina 	0	1	1	2	5o25	5o40
+208	8	H	New Jersey 	0	1	1	3	-113	-135
+208	9	V	St. Louis 	0	1	1	2	5.5u25	5.5u30
+208	10	H	Florida 	1	0	0	1	-115	-115
+208	11	V	Buffalo 	1	1	5	7	5.5o15	5.5o20
+208	12	H	Tampa Bay 	1	2	1	4	-140	-135
+209	51	V	San Jose 	0	2	1	3	-130	-145
+209	52	H	Columbus 	2	0	0	2	5.5u25	5.5u30
+209	53	V	Montreal 	0	4	2	6	5o25	5o25
+209	54	H	Boston 	2	4	2	8	-151	-165
+209	55	V	Nashville 	2	2	0	4	5.5u15	5.5u25
+209	56	H	Detroit 	0	1	0	1	-182	-170
+209	57	V	Colorado 	1	0	1	2	5.5	5.5o25
+209	58	H	Minnesota 	2	1	0	3	-125	-120
+209	59	V	Phoenix 	1	0	1	3	5.5u25	5.5u30
+209	60	H	Dallas 	1	1	0	2	-145	-135
+209	61	V	Chicago 	1	1	2	4	-156	-175
+209	62	H	Edmonton 	0	0	1	1	5.5o20	5.5o20
+209	63	V	Ottawa 	2	0	0	2	5.5u25	5.5u35
+209	64	H	Calgary 	1	2	2	5	-177	-190
+209	65	V	Anaheim 	1	2	1	4	5.5o25	5.5o25
+209	66	H	Vancouver 	0	1	2	3	-205	-200
+210	1	V	Los Angeles 	1	0	0	1	5o25	-130
+210	2	H	Pittsburgh 	1	0	0	2	-125	5o35
+210	3	V	Carolina 	0	0	1	1	5.5o15	5.5o20
+210	4	H	Philadelphia 	0	0	2	2	-177	-210
+210	5	V	New Jersey 	0	0	1	2	5.5u25	5.5u45
+210	6	H	Toronto 	0	1	0	1	-120	-115
+210	7	V	NY Islanders 	1	1	1	4	5.5o09	5.5o15
+210	8	H	Montreal 	1	2	0	3	-200	-200
+210	9	V	Buffalo 	0	1	1	3	-120	-110
+210	10	H	Florida 	0	1	1	2	5.5u25	5.5u30
+211	51	V	San Jose 	0	0	1	1	-125	-150
+211	52	H	New Jersey 	0	0	2	2	5o20	5o25
+211	53	V	Pittsburgh 	0	2	1	3	-135	-135
+211	54	H	NY Islanders 	4	4	1	9	5.5u15	5.5u25
+211	55	V	Colorado 	1	0	0	1	5.5o09	5.5o20
+211	56	H	Columbus 	0	2	1	3	-135	-130
+211	57	V	Detroit 	2	3	1	6	5.5	5.5
+211	58	H	Boston 	1	0	0	1	-125	-135
+211	59	V	NY Rangers 	0	1	1	2	-104	-110
+211	60	H	Atlanta 	1	0	2	3	5.5u15	5.5u25
+211	61	V	Minnesota 	1	1	2	5	5.5u30	5.5u40
+211	62	H	St. Louis 	2	0	2	4	-140	-145
+211	63	V	Chicago 	3	0	0	3	-110	-125
+211	64	H	Dallas 	0	2	1	4	5.5u09	5.5u15
+211	65	V	Anaheim 	1	2	1	5	5.5u09	5.5u20
+211	66	H	Calgary 	0	2	2	4	-140	-150
+212	1	V	Los Angeles 	0	1	3	4	5.5u25	5.5u45
+212	2	H	Washington 	1	0	0	1	-139	-145
+212	3	V	Ottawa 	2	0	3	5	5.5u15	5.5
+212	4	H	Edmonton 	1	1	1	3	-125	-125
+212	5	V	Toronto 	0	0	0	0	5.5u30	5.5u30
+212	6	H	Montreal 	0	2	1	3	-156	-150
+212	7	V	Carolina 	0	1	2	3	6u15	6u20
+212	8	H	Tampa Bay 	0	2	1	4	-156	-155
+212	9	V	Chicago 	0	1	1	2	-109	5.5u20
+212	10	H	Phoenix 	1	1	0	3	5.5u15	-120
+212	11	V	Colorado 	1	1	1	3	5.5u15	5.5u20
+212	12	H	Nashville 	1	1	3	5	-161	-180
+212	13	V	St. Louis 	0	1	0	1	5.5u25	5.5u40
+212	14	H	Minnesota 	1	2	0	3	-125	-125
+212	15	V	Calgary 	0	2	0	2	5.5u09	5.5
+212	16	H	Vancouver 	1	2	1	4	-193	-210
+213	51	V	Columbus 	1	1	0	2	5.5u09	5.5u15
+213	52	H	Dallas 	1	0	0	1	-145	-135
+213	53	V	Pittsburgh 	2	0	1	3	5o35	5o35
+213	54	H	NY Rangers 	2	3	0	5	-140	-180
+213	55	V	NY Islanders 	2	1	3	7	5.5o20	5.5o25
+213	56	H	Buffalo 	3	1	2	6	-193	-210
+213	57	V	Carolina 	1	1	1	3	5.5o35	5.5o35
+213	58	H	Atlanta 	0	1	1	2	-140	-140
+213	59	V	Boston 	2	0	0	2	5.5o20	5.5u15
+213	60	H	Detroit 	1	2	1	4	-135	-125
+213	61	V	San Jose 	1	0	1	2	-140	-140
+213	62	H	Florida 	0	1	2	3	5o25	5o45
+213	63	V	Los Angeles 	0	1	0	1	5.5u15	5.5u20
+213	64	H	Philadelphia 	0	0	0	0	-177	-165
+213	65	V	Anaheim 	1	2	1	4	-135	-145
+213	66	H	Edmonton 	0	0	0	0	5.5o20	5.5o15
+214	1	V	Vancouver 	1	0	1	2	-130	-150
+214	2	H	St. Louis 	2	1	0	3	5.5o09	5.5o15
+214	3	V	Washington 	0	1	1	2	5o35	-115
+214	4	H	Phoenix 	0	2	1	3	-110	5.5u35
+214	5	V	Calgary 	5	0	4	9	5.5o15	-115
+214	6	H	Colorado 	0	1	0	1	-115	5.5o20
+215	51	V	Toronto 	1	1	2	4	5.5u15	5.5u25
+215	52	H	Boston 	1	1	1	3	-182	-230
+215	53	V	Buffalo 	0	1	1	3	5o35	5.5u20
+215	54	H	Montreal 	1	1	0	2	-130	-135
+215	55	V	NY Islanders 	0	1	2	4	5.5o13	5.5o25
+215	56	H	Ottawa 	1	1	1	3	-121	-125
+215	57	V	Philadelphia 	1	2	0	4	-104	-125
+215	58	H	Tampa Bay 	0	3	0	3	5.5o22	5.5o20
+215	59	V	Vancouver 	1	2	1	4	-116	-110
+215	60	H	Minnesota 	1	0	0	1	5.5	5.5u20
+215	61	V	San Jose 	0	1	0	2	-108	-110
+215	62	H	Nashville 	1	0	0	1	5o22	5o25
+215	63	V	Dallas 	0	1	0	1	-140	-130
+215	64	H	Edmonton 	1	2	1	4	5.5	5.5
+216	1	V	Los Angeles 	1	1	1	4	-115	-120
+216	2	H	Columbus 	1	1	1	3	5o35	5o40
+216	3	V	Carolina 	0	0	2	2	5o30	5o35
+216	4	H	New Jersey 	0	1	2	3	-135	-140
+216	5	V	Toronto 	0	1	1	2	5.5o09	5.5o20
+216	6	H	Buffalo 	0	0	1	1	-161	-175
+216	7	V	Philadelphia 	2	1	1	4	-140	-130
+216	8	H	Florida 	0	0	2	2	5.5u20	5.5u30
+216	9	V	Minnesota 	0	0	1	1	5.5u25	5.5u30
+216	10	H	Chicago 	1	0	2	3	-182	-200
+216	11	V	Pittsburgh 	1	1	0	3	5.5o25	5.5o20
+216	12	H	Colorado 	0	2	0	2	-145	-115
+216	13	V	Dallas 	0	2	0	2	5.5u25	5.5u30
+216	14	H	Calgary 	1	1	2	4	-145	-170
+216	15	V	Washington 	2	2	3	7	5.5u15	-110
+216	16	H	Anaheim 	3	2	1	6	-125	5.5u30
+217	51	V	Los Angeles 	1	0	2	3	5o15	5o20
+217	52	H	NY Rangers 	0	1	2	4	-115	-125
+217	53	V	Boston 	3	3	0	6	-145	-165
+217	54	H	NY Islanders 	0	2	1	3	5.5o25	5.5o25
+217	55	V	Detroit 	2	2	2	6	5.5o30	-115
+217	56	H	Tampa Bay 	0	2	0	2	-110	5.5o35
+217	57	V	Vancouver 	0	1	0	1	-120	5.5u40
+217	58	H	Nashville 	0	3	0	3	5.5u25	-115
+217	59	V	Atlanta 	1	2	0	3	5.5u10	5.5u15
+217	60	H	Phoenix 	2	2	0	4	-160	-175
+217	61	V	Montreal 	0	1	0	1	-130	-140
+217	62	H	Edmonton 	1	0	3	4	5.5u25	5.5u40
+217	63	V	Washington 	1	0	1	2	5.5u40	5.5u40
+217	64	H	San Jose 	1	0	2	3	-150	-170
+218	1	V	NY Rangers 	0	0	0	0	5o09	5o20
+218	2	H	New Jersey 	0	1	0	1	-135	-140
+218	3	V	Boston 	0	1	3	4	-166	-190
+218	4	H	Ottawa 	0	1	1	2	5.5u09	5.5u20
+218	5	V	Detroit 	2	1	1	4	-109	-135
+218	6	H	Florida 	1	1	1	3	5.5o10	5.5o15
+218	7	V	St. Louis 	0	2	1	3	5.5u09	5.5u15
+218	8	H	Buffalo 	0	0	0	0	-145	-135
+218	9	V	Philadelphia 	0	1	1	2	-130	-145
+218	10	H	Carolina 	2	0	1	3	5.5o09	5.5o15
+218	11	V	Anaheim 	1	0	0	1	5.5u20	5.5u25
+218	12	H	Minnesota 	2	2	1	5	-125	-120
+218	13	V	Columbus 	1	3	0	4	5.5o09	5.5o15
+218	14	H	Chicago 	2	1	0	3	-177	-180
+219	51	V	Atlanta 	1	1	1	3	-104	-110
+219	52	H	Edmonton 	0	1	4	5	5.5o20	5.5o25
+219	53	V	New Jersey 	3	0	1	4	5o30	-110
+219	54	H	Carolina 	0	0	1	1	-125	5o40
+219	55	V	Ottawa 	0	0	0	1	5.5u15	5.5u20
+219	56	H	Toronto 	0	0	0	0	-177	-180
+219	57	V	Los Angeles 	0	0	0	0	-145	-160
+219	58	H	NY Islanders 	1	1	1	3	5.5u09	5.5u15
+219	59	V	Florida 	0	1	1	3	5.5o15	5.5o20
+219	60	H	Tampa Bay 	1	0	1	2	-182	-200
+219	61	V	Anaheim 	3	0	0	3	5o25	5o40
+219	62	H	St. Louis 	4	4	1	9	-130	-145
+219	63	V	Phoenix 	0	2	1	3	5o20	5o20
+219	64	H	Nashville 	0	1	1	2	-135	-140
+219	65	V	Dallas 	1	0	1	2	5.5	5.5
+219	66	H	Vancouver 	1	1	3	5	-197	-210
+219	67	V	Colorado 	0	0	0	0	5.5o20	5.5o20
+219	68	H	San Jose 	3	0	1	4	-230	-250
+220	1	V	Washington 	0	1	1	2	5.5u15	-110
+220	2	H	Buffalo 	0	1	0	1	-125	5.5u30
+220	3	V	Philadelphia 	1	2	1	4	-120	-125
+220	4	H	NY Rangers 	1	0	1	2	5.5u25	5.5u35
+220	5	V	Pittsburgh 	0	1	1	2	5.5	5.5
+220	6	H	Chicago 	1	0	1	3	-172	-200
+220	7	V	Detroit 	0	0	1	2	-135	-140
+220	8	H	Minnesota 	0	0	1	1	5.5u15	5.5
+220	9	V	Montreal 	0	0	0	0	5o25	5o40
+220	10	H	Calgary 	1	2	1	4	-140	-145
+221	51	V	Florida 	0	0	1	1	5.5	5.5u15
+221	52	H	NY Islanders 	2	2	1	5	-109	-120
+221	53	V	Chicago 	0	4	1	5	-104	5.5o20
+221	54	H	St. Louis 	2	0	1	3	5.5o09	-120
+221	55	V	Washington 	0	1	0	1	-125	-135
+221	56	H	Pittsburgh 	0	0	0	0	5.5u20	5.5u50
+222	1	V	Phoenix 	0	0	2	3	5.5u25	5.5u15
+222	2	H	Philadelphia 	1	0	1	2	-177	-180
+222	3	V	Nashville 	0	0	0	0	5o30	-120
+222	4	H	Columbus 	0	0	4	4	-115	5o30
+222	5	V	NY Rangers 	1	1	1	4	5.5u35	5.5u40
+222	6	H	Carolina 	1	0	2	3	-145	-140
+222	7	V	NY Islanders 	0	1	0	1	5.5o09	5.5o25
+222	8	H	Toronto 	1	0	1	2	-172	-155
+222	9	V	San Jose 	1	2	1	4	5.5	5.5
+222	10	H	Detroit 	0	2	1	3	-135	-135
+222	11	V	Edmonton 	0	1	0	1	5.5u25	5.5u45
+222	12	H	Minnesota 	0	1	3	4	-172	-170
+222	13	V	New Jersey 	0	0	1	1	-125	-125
+222	14	H	Dallas 	0	0	0	0	5o35	5o40
+222	15	V	Boston 	1	0	2	3	-104	-110
+222	16	H	Calgary 	0	0	1	1	5.5u30	5.5u40
+222	17	V	Montreal 	2	1	0	3	5.5u25	5.5u15
+222	18	H	Vancouver 	0	1	1	2	-177	-200
+222	19	V	Colorado 	2	0	2	4	5.5o25	5.5o30
+222	20	H	St. Louis 	1	1	1	3	-200	-180
+223	51	V	Florida 	0	1	0	1	-125	-115
+223	52	H	Ottawa 	1	2	2	5	5.5u30	5.5u45
+223	53	V	Atlanta 	0	1	0	1	5.5o15	5.5o35
+223	54	H	Buffalo 	1	2	1	4	-162	-165
+223	55	V	San Jose 	0	1	1	3	-140	-135
+223	56	H	Pittsburgh 	1	0	1	2	5o30	5o40
+223	57	V	Phoenix 	0	1	2	3	5.5o15	5.5u20
+223	58	H	Tampa Bay 	5	2	1	8	-162	-165
+223	59	V	Edmonton 	1	2	2	5	5.5o30	5.5o35
+223	60	H	Colorado 	0	1	0	1	-145	-150
+223	61	V	Los Angeles 	2	0	1	3	-125	-150
+223	62	H	Anaheim 	1	1	0	2	5.5o15	5.5u15
+224	1	V	NY Islanders 	1	0	2	3	5.5o20	5.5o30
+224	2	H	Philadelphia 	0	2	1	4	-240	-250
+224	3	V	Toronto 	3	1	1	5	5.5u30	5.5u35
+224	4	H	Montreal 	1	2	1	4	-145	-145
+224	5	V	Dallas 	2	1	1	4	5.5u09	5.5u15
+224	6	H	Detroit 	0	0	1	1	-220	-220
+224	7	V	Chicago 	1	0	2	3	5.5u25	-120
+224	8	H	Nashville 	0	0	0	0	-109	5.5u40
+224	9	V	St. Louis 	0	2	0	2	5.5o09	5.5o15
+224	10	H	Vancouver 	2	0	1	3	-203	-210
+224	11	V	Minnesota 	0	2	0	2	5o30	5o20
+224	12	H	Los Angeles 	1	1	2	4	-165	-150
+225	51	V	Phoenix 	2	0	1	3	5o40	5o45
+225	52	H	Columbus 	2	2	1	5	-115	-120
+225	53	V	Pittsburgh 	0	1	0	1	5o40	5o50
+225	54	H	Carolina 	2	1	1	4	-156	-145
+225	55	V	NY Rangers 	2	2	2	6	5.5u41	5.5u45
+225	56	H	Washington 	0	0	0	0	-172	-165
+225	57	V	New Jersey 	0	0	1	1	5.5u25	5.5u30
+225	58	H	Tampa Bay 	0	2	0	2	-130	-125
+225	59	V	Ottawa 	0	1	1	2	5.5u20	5.5u25
+225	60	H	Buffalo 	1	1	2	4	-203	-210
+225	61	V	Florida 	1	0	0	2	5.5u09	5.5u20
+225	62	H	Atlanta 	0	1	0	1	-135	-130
+225	63	V	St. Louis 	2	1	2	5	5.5o14	5.5o25
+225	64	H	Edmonton 	0	0	0	0	-115	-115
+225	65	V	San Jose 	1	1	1	4	-115	-115
+225	66	H	Calgary 	1	2	0	3	5o40	5o45
+225	67	V	Minnesota 	1	0	1	3	5.5u15	5.5u20
+225	68	H	Anaheim 	0	1	1	2	-125	-155
+226	1	V	Nashville 	0	2	0	2	5o30	-110
+226	2	H	Dallas 	1	0	2	3	-120	5o30
+226	3	V	Colorado 	0	0	3	3	5.5	5.5
+226	4	H	Los Angeles 	1	2	1	4	-220	-230
+226	5	V	Detroit 	0	1	1	3	-115	-120
+226	6	H	Buffalo 	2	0	0	2	5.5o20	5.5o35
+226	7	V	Washington 	0	1	2	3	-151	-140
+226	8	H	NY Islanders 	1	1	0	2	5.5o09	5.5o15
+226	9	V	Carolina 	1	2	0	3	5.5u25	5.5u30
+226	10	H	Montreal 	2	1	1	4	-145	-145
+226	11	V	Philadelphia 	1	0	0	1	-182	-210
+226	12	H	Ottawa 	0	2	2	4	5.5	5.5
+226	13	V	Pittsburgh 	1	2	2	6	5.5u35	5.5u40
+226	14	H	Toronto 	1	1	3	5	-162	-150
+226	15	V	Boston 	0	1	2	3	5.5u09	5.5u15
+226	16	H	Vancouver 	1	0	0	1	-140	-145
+227	51	V	Tampa Bay 	1	0	1	2	5.5	5.5
+227	52	H	NY Rangers 	0	1	0	1	-130	-125
+227	53	V	Columbus 	0	1	1	2	5o25	5o30
+227	54	H	Nashville 	0	0	3	3	-145	-140
+227	55	V	Toronto 	2	0	0	2	6u15	6u20
+227	56	H	Atlanta 	0	0	2	3	-125	-130
+227	57	V	New Jersey 	0	2	0	2	-125	-160
+227	58	H	Florida 	0	0	1	1	5o09	5u20
+227	59	V	Phoenix 	0	3	0	3	5.5u20	5.5
+227	60	H	Chicago 	2	1	0	4	-167	-180
+227	61	V	Boston 	2	1	0	3	-162	-165
+227	62	H	Edmonton 	1	0	1	2	5.5u15	5.5u15
+227	63	V	Colorado 	1	0	1	2	5.5o25	5.5o35
+227	64	H	Anaheim 	0	2	1	3	-198	-200
+227	65	V	St. Louis 	0	0	0	0	5.5u15	5.5u15
+227	66	H	Calgary 	0	0	1	1	-145	-155
+228	1	V	Chicago 	0	3	1	4	-120	-120
+228	2	H	Minnesota 	0	0	2	2	5.5u20	5.5u45
+228	3	V	Detroit 	3	1	3	7	5.5u15	5.5u20
+228	4	H	Los Angeles 	1	0	3	4	-120	-125
+301	51	V	NY Islanders 	0	1	0	1	5.5	5.5
+301	52	H	Washington 	0	0	1	2	-205	-210
+301	53	V	Montreal 	1	1	1	3	-109	-115
+301	54	H	Atlanta 	0	0	1	1	5.5u20	5.5u20
+301	55	V	Buffalo 	1	1	1	3	5.5u35	5.5u40
+301	56	H	NY Rangers 	0	1	1	2	-135	-130
+301	57	V	Florida 	0	1	0	1	5.5u25	5.5u25
+301	58	H	Carolina 	2	0	0	2	-210	-210
+301	59	V	Boston 	0	0	1	1	-193	-200
+301	60	H	Ottawa 	0	0	0	0	5.5u20	5.5u25
+301	61	V	Calgary 	1	0	5	6	5.5u25	5.5u35
+301	62	H	St. Louis 	0	0	0	0	-125	-115
+301	63	V	Dallas 	1	0	2	3	5.5u25	5.5u30
+301	64	H	Phoenix 	0	0	2	2	-151	-145
+301	65	V	Nashville 	1	0	0	1	-140	-150
+301	66	H	Edmonton 	1	0	0	2	5.5u35	5.5u55
+301	67	V	Columbus 	0	1	0	1	5.5	5.5
+301	68	H	Vancouver 	1	0	0	2	-193	-210
+301	69	V	Colorado 	0	0	1	1	5.5o15	5.5u15
+301	70	H	San Jose 	0	0	1	2	-275	-260
+302	1	V	Minnesota 	0	0	1	1	-120	-130
+302	2	H	NY Islanders 	2	2	0	4	5.5u20	5.5u35
+302	3	V	Pittsburgh 	1	1	0	2	5.5u20	5.5u25
+302	4	H	Toronto 	1	0	1	3	-135	-120
+302	5	V	Tampa Bay 	0	1	0	1	5o35	5o35
+302	6	H	New Jersey 	0	1	1	2	-130	-140
+302	7	V	Calgary 	1	0	3	4	5.5u15	5.5u25
+302	8	H	Chicago 	2	2	2	6	-185	-200
+302	9	V	Detroit 	0	1	0	1	-130	-135
+302	10	H	Anaheim 	0	0	1	2	5.5o20	5.5o20
+303	51	V	St. Louis 	1	1	0	2	5.5u18	5.5u25
+303	52	H	Washington 	0	2	1	3	-203	-210
+303	53	V	Tampa Bay 	0	1	0	1	5.5u13	5.5u20
+303	54	H	Boston 	0	1	1	2	-161	-200
+303	55	V	Buffalo 	0	2	0	2	5.5u30	5.5u20
+303	56	H	Carolina 	0	2	0	3	-125	-130
+303	57	V	Toronto 	1	1	1	3	5.5o13	5.5o20
+303	58	H	Philadelphia 	1	1	0	2	-220	-250
+303	59	V	Ottawa 	1	0	2	3	5.5u07	5.5u25
+303	60	H	Atlanta 	0	0	1	1	-177	-165
+303	61	V	Minnesota 	0	2	1	3	5o22	5o25
+303	62	H	NY Rangers 	1	0	0	1	-162	-165
+303	63	V	Montreal 	2	1	1	4	-135	-140
+303	64	H	Florida 	0	0	0	0	5o18	5o25
+303	65	V	Columbus 	0	1	1	2	-130	-135
+303	66	H	Edmonton 	2	1	1	4	5.5u11	5.5u20
+303	67	V	Nashville 	0	0	3	3	5.5u37	5.5u45
+303	68	H	Vancouver 	0	0	0	0	-182	-190
+303	69	V	Phoenix 	0	0	0	0	5.5u37	5.5u50
+303	70	H	Los Angeles 	0	0	1	1	-162	-170
+303	71	V	Detroit 	1	0	0	1	5.5o11	5.5o15
+303	72	H	San Jose 	1	1	1	3	-155	-150
+304	1	V	Pittsburgh 	0	1	0	1	5o13	5
+304	2	H	New Jersey 	0	1	0	2	-166	-170
+304	3	V	NY Rangers 	1	2	1	4	-125	-135
+304	4	H	Ottawa 	0	0	1	1	5o20	5o25
+304	5	V	Carolina 	1	0	1	2	5.5o13	5.5o20
+304	6	H	Chicago 	2	0	3	5	-203	-220
+304	7	V	Columbus 	1	1	1	3	5.5u18	5.5u20
+304	8	H	Calgary 	2	2	0	4	-160	-170
+304	9	V	Dallas 	0	3	0	3	5.5u18	5.5u30
+304	10	H	Anaheim 	1	0	2	4	-135	-140
+305	51	V	Buffalo 	0	3	2	5	5.5u11	5.5u15
+305	52	H	Philadelphia 	2	1	0	3	-180	-190
+305	53	V	St. Louis 	0	0	2	2	5.5u11	-115
+305	54	H	NY Islanders 	2	1	2	5	-115	5.5u15
+305	55	V	Vancouver 	1	0	2	3	5.5u33	5.5u50
+305	56	H	Los Angeles 	1	0	0	1	-115	-115
+305	57	V	Chicago 	3	2	0	5	-125	-130
+305	58	H	Toronto 	0	1	2	3	5.5o07	5.5o15
+305	59	V	Florida 	1	0	2	3	5.5u28	5.5u30
+305	60	H	Atlanta 	0	1	2	4	-140	-140
+305	61	V	Montreal 	2	1	1	4	5.5u28	5.5u35
+305	62	H	Tampa Bay 	0	1	1	2	-135	-140
+305	63	V	Pittsburgh 	0	2	0	3	5.5u43	5.5u45
+305	64	H	Boston 	0	1	1	2	-220	-220
+305	65	V	Detroit 	2	2	0	4	-115	-130
+305	66	H	Phoenix 	1	0	3	5	5.5u11	5.5u15
+305	67	V	Edmonton 	2	2	1	5	5.5o22	5.5o25
+305	68	H	Colorado 	0	1	0	1	-143	-175
+305	69	V	Dallas 	1	0	2	3	5.5u25	5.5u30
+305	70	H	San Jose 	1	1	0	2	-230	-210
+306	1	V	Philadelphia 	0	0	0	0	-115	-110
+306	2	H	NY Rangers 	2	2	3	7	5.5u25	5.5u35
+306	3	V	New Jersey 	0	1	1	3	-130	-155
+306	4	H	NY Islanders 	0	1	1	2	5o21	5o25
+306	5	V	Washington 	1	1	0	3	-162	-200
+306	6	H	Florida 	1	0	1	2	5.5u34	5.5u55
+306	7	V	Buffalo 	1	1	0	3	5.5u20	5.5u25
+306	8	H	Minnesota 	0	2	0	2	-135	-140
+306	9	V	Vancouver 	1	1	1	3	-125	-125
+306	10	H	Anaheim 	0	0	0	0	5.5o06	5.5
+306	11	V	Nashville 	2	0	0	2	5o27	5o15
+306	12	H	Calgary 	1	1	1	3	-135	-140
+307	51	V	Washington 	0	0	1	2	5.5u09	5.5u35
+307	52	H	Tampa Bay 	1	0	0	1	-115	-125
+307	53	V	Columbus 	3	1	0	4	5.5u09	5.5u15
+307	54	H	St. Louis 	3	1	0	5	-130	-130
+307	55	V	Dallas 	0	1	2	4	5o35	5o30
+307	56	H	Los Angeles 	1	1	1	3	-170	-170
+308	1	V	Edmonton 	0	1	0	1	5.5o07	5.5o15
+308	2	H	Philadelphia 	2	1	1	4	-255	-270
+308	3	V	Buffalo 	1	0	0	1	5.5u43	5.5u35
+308	4	H	Pittsburgh 	0	2	1	3	-109	-130
+308	5	V	Ottawa 	0	1	1	2	5o07	5u30
+308	6	H	New Jersey 	0	0	1	1	-250	-240
+308	7	V	Toronto 	0	2	1	3	-115	5.5o15
+308	8	H	NY Islanders 	0	2	1	4	5.5o13	-120
+308	9	V	Boston 	0	0	1	1	-105	-115
+308	10	H	Montreal 	2	2	0	4	5o32	5o20
+308	11	V	Chicago 	0	2	0	2	-208	-210
+308	12	H	Florida 	3	0	0	3	5.5u18	5.5u35
+308	13	V	Colorado 	0	2	0	2	5.5u23	5.5u25
+308	14	H	Minnesota 	1	1	3	5	-180	-170
+308	15	V	Vancouver 	1	2	0	4	-125	-130
+308	16	H	Phoenix 	2	1	0	3	5.5u33	5.5u35
+308	17	V	Nashville 	1	1	0	2	5o22	5u20
+308	18	H	San Jose 	1	1	0	3	-181	-175
+309	51	V	Edmonton 	0	0	0	0	5.5u18	5.5u30
+309	52	H	Washington 	0	2	3	5	-270	-300
+309	53	V	St. Louis 	0	1	2	4	5.5o11	5.5u15
+309	54	H	Columbus 	0	3	0	3	-130	-140
+309	55	V	Atlanta 	2	0	0	3	5.5o17	5.5o15
+309	56	H	Carolina 	0	1	1	2	-175	-190
+309	57	V	Chicago 	1	1	1	3	-109	-110
+309	58	H	Tampa Bay 	2	1	0	4	5.5o27	5.5o35
+309	59	V	Los Angeles 	0	2	0	2	5.5u18	5.5u25
+309	60	H	Detroit 	1	0	0	1	-156	-150
+309	61	V	Calgary 	3	0	0	4	5.5u33	5.5u45
+309	62	H	Dallas 	1	1	1	3	-125	-120
+309	63	V	NY Rangers 	1	0	1	2	5.5u28	-110
+309	64	H	Anaheim 	3	0	2	5	-115	5.5u40
+310	1	V	Philadelphia 	1	2	0	3	-140	-150
+310	2	H	Toronto 	0	1	1	2	5.5o07	5.5o15
+310	3	V	Buffalo 	0	2	1	4	5.5u35	5.5u40
+310	4	H	Boston 	1	1	1	3	-170	-170
+310	5	V	Ottawa 	0	0	2	2	5o27	5o15
+310	6	H	Florida 	0	0	1	1	-140	-140
+310	7	V	Montreal 	1	0	0	1	-104	-120
+310	8	H	St. Louis 	1	1	2	4	5.5u28	5.5u50
+310	9	V	Minnesota 	0	0	0	0	5o07	5u25
+310	10	H	Nashville 	3	0	1	4	-156	-160
+310	11	V	Calgary 	0	0	0	0	5.5u25	5.5u30
+310	12	H	Phoenix 	0	1	2	3	-135	-130
+310	13	V	Vancouver 	2	1	1	5	5.5u38	5.5u45
+310	14	H	San Jose 	0	2	2	4	-125	-130
+311	51	V	Los Angeles 	2	1	1	4	-115	-130
+311	52	H	Columbus 	1	0	1	2	5o31	5o35
+311	53	V	Carolina 	0	1	0	1	5.5u18	5.5u30
+311	54	H	Washington 	0	0	2	2	-182	-165
+311	55	V	Boston 	1	1	0	2	-156	-140
+311	56	H	NY Islanders 	0	1	3	4	5.5u08	5.5u20
+311	57	V	Ottawa 	1	1	0	2	5.5u15	5.5u20
+311	58	H	Tampa Bay 	0	0	1	1	-240	-250
+311	59	V	New Jersey 	0	1	1	3	-130	-145
+311	60	H	Atlanta 	0	1	1	2	5o06	5
+311	61	V	Edmonton 	1	0	0	1	5.5u08	5.5o20
+311	62	H	Detroit 	0	0	1	2	-275	-330
+311	63	V	Minnesota 	0	0	0	0	5.5u33	5.5u50
+311	64	H	Dallas 	1	3	0	4	-151	-180
+311	65	V	Anaheim 	0	4	2	6	-125	-140
+312	66	H	Colorado 	1	1	0	2	5.5o17	5.5o20
+312	1	V	Montreal 	1	2	0	3	5o16	5o35
+312	2	H	Pittsburgh 	0	0	0	0	-125	-135
+312	3	V	Buffalo 	1	2	0	3	-109	-110
+312	4	H	Toronto 	1	1	2	4	5.5u18	5.5u15
+312	5	V	Atlanta 	0	0	4	5	5.5o07	5.5o15
+312	6	H	Philadelphia 	1	2	1	4	-230	-250
+312	7	V	Tampa Bay 	0	1	2	3	-135	-125
+312	8	H	Florida 	0	1	2	4	5.5u23	5.5u25
+312	9	V	NY Islanders 	0	2	0	2	5o07	5u15
+312	10	H	New Jersey 	1	0	1	3	-200	-180
+312	11	V	Columbus 	1	1	1	3	5.5o07	5.5
+312	12	H	Carolina 	0	0	2	2	-161	-160
+312	13	V	Colorado 	0	2	0	2	5.5u28	5.5u45
+312	14	H	Nashville 	2	1	1	4	-225	-260
+312	15	V	Detroit 	2	1	2	5	-115	-120
+312	16	H	St. Louis 	1	0	2	3	5.5o06	5.5u20
+312	17	V	Vancouver 	1	3	0	4	-115	-125
+312	18	H	Calgary 	2	1	0	3	5.5u28	5.5u30
+312	19	V	NY Rangers 	1	1	0	3	5.5u43	5.5u50
+312	20	H	San Jose 	1	1	0	2	-166	-160
+313	51	V	Edmonton 	0	0	1	1	5.5u38	5.5u40
+313	52	H	Pittsburgh 	1	2	2	5	-235	-245
+313	53	V	Chicago 	1	1	1	3	5.5u23	5.5u25
+313	54	H	Washington 	2	0	1	4	-130	-120
+313	55	V	Los Angeles 	1	1	1	3	5o22	-110
+313	56	H	Dallas 	0	1	1	2	-109	5o35
+313	57	V	Ottawa 	2	1	1	4	5.5u25	5.5u35
+313	58	H	Buffalo 	2	3	1	6	-180	-170
+313	59	V	Phoenix 	2	2	1	5	5.5u23	5.5u25
+313	60	H	Anaheim 	1	1	0	2	-135	-150
+314	1	V	Tampa Bay 	1	3	2	6	5.5o20	5.5o20
+314	2	H	Toronto 	0	2	0	2	-109	-115
+314	3	V	San Jose 	2	1	0	3	5.5u20	5.5u15
+314	4	H	Chicago 	1	5	0	6	-135	-130
+314	5	V	Minnesota 	0	1	1	2	5.5u25	5.5u45
+314	6	H	Vancouver 	3	0	1	4	-200	-210
+315	51	V	Atlanta 	2	0	0	2	5u08	5
+315	52	H	New Jersey 	1	1	2	4	-193	-200
+315	53	V	Washington 	2	0	2	4	5o32	5o35
+315	54	H	Montreal 	1	1	0	2	-115	-115
+315	55	V	Boston 	0	1	1	3	-135	-140
+315	56	H	Columbus 	1	0	1	2	5.5u28	5.5u40
+315	57	V	NY Islanders 	0	2	1	3	5.5u38	5.5u30
+315	58	H	NY Rangers 	2	3	1	6	-172	-170
+315	59	V	Philadelphia 	1	2	0	3	-165	-160
+315	60	H	Florida 	2	0	0	2	5.5u23	5.5u25
+315	61	V	Pittsburgh 	1	3	1	5	-135	-130
+315	62	H	Ottawa 	0	1	0	1	5o27	5o35
+315	63	V	Carolina 	1	0	0	1	5.5u28	5.5u20
+315	64	H	Buffalo 	0	0	0	0	-156	-150
+315	65	V	Los Angeles 	1	2	1	4	5o11	5
+315	66	H	Nashville 	1	0	1	2	-120	-115
+315	67	V	San Jose 	0	2	4	6	5.5u33	5.5u40
+315	68	H	Dallas 	0	2	1	3	-115	-120
+315	69	V	Phoenix 	1	1	2	4	5.5u28	5.5u40
+315	70	H	Calgary 	1	0	2	3	-140	-140
+316	1	V	Toronto 	1	2	0	3	5.5o07	5.5o15
+316	2	H	Carolina 	1	0	0	1	-135	-155
+316	3	V	Washington 	1	1	0	2	5.5u18	5.5u20
+316	4	H	Detroit 	2	0	1	3	-145	-165
+316	5	V	St. Louis 	0	1	0	1	5.5u13	5.5o20
+316	6	H	Anaheim 	0	1	1	2	-151	-150
+316	7	V	Colorado 	2	0	0	2	5.5o17	5.5o25
+316	8	H	Vancouver 	0	1	3	4	-335	-330
+317	51	V	Detroit 	2	0	0	2	-135	-125
+317	52	H	Columbus 	0	0	0	0	5.5o07	5.5o15
+317	53	V	Philadelphia 	1	1	1	3	-145	-150
+317	54	H	Atlanta 	1	2	0	4	5.5o22	5.5o25
+317	55	V	New Jersey 	0	0	1	1	-162	-175
+317	56	H	Ottawa 	1	0	2	3	5u27	5u20
+317	57	V	Toronto 	0	0	0	0	5.5u28	5.5u30
+317	58	H	Florida 	0	3	1	4	-115	-120
+317	59	V	Tampa Bay 	0	1	1	2	5.5u28	5.5u30
+317	60	H	Montreal 	0	1	1	3	-120	-115
+317	61	V	Boston 	1	1	1	3	-120	-110
+317	62	H	Nashville 	1	1	1	4	5o17	5
+317	63	V	Chicago 	0	0	0	0	-125	-125
+317	64	H	Dallas 	1	2	2	5	5.5u13	5.5
+317	65	V	Colorado 	1	0	1	2	5.5o13	5.5o20
+317	66	H	Calgary 	3	0	2	5	-250	-260
+317	67	V	Phoenix 	1	1	1	3	-172	-180
+317	68	H	Edmonton 	0	0	1	1	5.5u28	5.5u30
+317	69	V	Minnesota 	1	1	0	2	5o32	5o30
+317	70	H	San Jose 	1	1	1	3	-203	-200
+317	71	V	St. Louis 	1	1	2	4	5.5u38	5.5u50
+317	72	H	Los Angeles 	0	0	0	0	-193	-200
+318	1	V	Washington 	1	1	1	3	5o13	-110
+318	2	H	New Jersey 	0	0	0	0	-125	5u25
+318	3	V	Montreal 	1	1	1	3	5o40	5o25
+318	4	H	NY Rangers 	5	0	1	6	-165	-160
+318	5	V	NY Islanders 	1	1	0	2	5.5u13	5.5u15
+318	6	H	Carolina 	1	0	1	3	-172	-170
+318	7	V	Phoenix 	0	0	3	3	5.5u18	5.5u25
+318	8	H	Vancouver 	0	0	1	1	-193	-210
+319	51	V	Columbus 	1	1	2	5	5o32	5o40
+319	52	H	Minnesota 	1	1	2	4	-140	-130
+319	53	V	NY Islanders 	0	1	2	4	5.5u18	5.5u25
+319	54	H	Florida 	0	2	1	3	-125	-130
+319	55	V	Boston 	1	0	1	2	-135	-130
+319	56	H	Toronto 	2	3	0	5	5.5u23	5.5u40
+319	57	V	Tampa Bay 	1	1	0	2	-151	-150
+319	58	H	Ottawa 	0	0	2	3	5.5u23	5.5u35
+319	59	V	Atlanta 	1	1	0	2	5.5o10	5.5o15
+319	60	H	Buffalo 	3	2	3	8	-172	-175
+319	61	V	Detroit 	1	0	0	1	-110	-115
+319	62	H	Nashville 	0	1	2	3	5.5u39	5.5u45
+319	63	V	Philadelphia 	1	1	0	3	-118	-110
+319	64	H	Dallas 	0	1	1	2	5.5u23	5.5u25
+319	65	V	Colorado 	1	1	0	3	5.5o11	5.5o15
+319	66	H	Edmonton 	0	1	1	2	-111	-120
+319	67	V	Anaheim 	1	0	0	2	5.5u33	5.5u35
+319	68	H	Los Angeles 	0	0	1	1	-169	-165
+319	69	V	St. Louis 	0	1	2	3	5.5u38	5.5u40
+319	70	H	San Jose 	3	2	0	5	-201	-200
+320	1	V	NY Rangers 	1	0	4	5	5o40	5o40
+320	2	H	Pittsburgh 	1	0	1	2	-145	-145
+320	3	V	New Jersey 	1	1	1	3	-135	-130
+320	4	H	Columbus 	0	0	0	0	5u07	5o15
+320	5	V	Nashville 	1	0	2	4	5o32	5o35
+320	6	H	Buffalo 	0	3	0	3	-140	-145
+320	7	V	Montreal 	2	4	2	8	5o07	5o30
+320	8	H	Minnesota 	0	0	1	1	-120	-115
+320	9	V	Chicago 	1	0	1	2	-115	-115
+320	10	H	Phoenix 	0	1	0	1	5.5u18	5.5
+320	11	V	Calgary 	1	2	1	4	5.5u18	5.5u20
+320	12	H	Anaheim 	3	0	1	5	-125	-115
+321	51	V	Pittsburgh 	2	2	0	5	5.5u30	5.5u30
+321	52	H	Detroit 	0	1	3	4	-160	-180
+321	53	V	Calgary 	0	0	1	1	5o35	5o50
+321	54	H	Los Angeles 	0	0	1	2	-165	-170
+322	1	V	Ottawa 	2	0	1	3	5.5u40	5.5u30
+322	2	H	Carolina 	2	1	1	4	-193	-200
+322	3	V	New Jersey 	1	0	0	1	5u23	5u40
+322	4	H	Boston 	1	1	2	4	-143	-135
+322	5	V	Florida 	0	0	0	0	5o32	5o25
+322	6	H	NY Rangers 	0	0	1	1	-220	-210
+322	7	V	Buffalo 	0	1	1	2	5.5u38	5.5u35
+322	8	H	Montreal 	0	0	0	0	-123	-130
+322	9	V	Washington 	2	1	1	5	5.5u33	5.5u30
+322	10	H	Philadelphia 	0	2	2	4	-166	-160
+322	11	V	NY Islanders 	1	2	2	5	5.5o07	5.5o15
+322	12	H	Tampa Bay 	1	0	1	2	-177	-160
+322	13	V	Toronto 	1	1	1	3	5.5u38	5.5u35
+322	14	H	Minnesota 	0	0	0	0	-120	-135
+322	15	V	Edmonton 	0	1	0	1	5o32	5o30
+322	16	H	Nashville 	2	1	0	3	-252	-260
+322	17	V	Columbus 	1	1	2	4	-119	-110
+322	18	H	Colorado 	1	0	3	5	5.5o13	5.5o20
+322	19	V	St. Louis 	1	0	0	1	5.5u28	5.5u30
+322	20	H	Phoenix 	0	2	0	2	-166	-155
+323	51	V	Vancouver 	0	1	1	2	5.5u06	5.5o15
+323	52	H	Detroit 	0	0	1	1	-125	-115
+323	53	V	Anaheim 	0	1	2	4	5.5u23	5.5u30
+323	54	H	Dallas 	0	1	2	3	-135	-135
+323	55	V	Florida 	0	0	0	0	5.5u23	5.5u30
+323	56	H	Chicago 	0	1	3	4	-240	-280
+323	57	V	Calgary 	2	1	0	3	5.5u33	5.5u30
+323	58	H	San Jose 	4	1	1	6	-177	-170
+324	1	V	Atlanta 	1	1	0	2	5.5o15	5.5o20
+324	2	H	NY Islanders 	0	1	0	1	-130	-135
+324	3	V	Montreal 	0	0	0	0	5o32	5o40
+324	4	H	Boston 	3	0	4	7	-182	-175
+324	5	V	Ottawa 	0	1	0	2	5o27	5o35
+324	6	H	NY Rangers 	0	0	1	1	-230	-235
+324	7	V	Pittsburgh 	0	1	0	2	5.5u13	5.5u20
+324	8	H	Philadelphia 	1	0	0	1	-160	-140
+324	9	V	Edmonton 	0	0	0	0	5.5u28	5.5u30
+324	10	H	St. Louis 	0	1	3	4	-200	-210
+324	11	V	Anaheim 	1	0	3	4	5o32	5o20
+324	12	H	Nashville 	3	1	1	5	-172	-160
+324	13	V	Toronto 	2	1	1	4	-115	-120
+324	14	H	Colorado 	1	1	1	3	5.5o17	5.5o30
+324	15	V	Columbus 	0	0	0	0	5.5u28	5.5u30
+324	16	H	Phoenix 	0	2	1	3	-166	-160
+324	17	V	San Jose 	0	1	2	3	5o27	5o30
+324	18	H	Los Angeles 	0	2	1	4	-125	-115
+325	51	V	New Jersey 	0	0	0	0	5u28	5u30
+325	52	H	Pittsburgh 	0	0	0	1	-120	-135
+325	53	V	Washington 	0	0	0	0	-172	-175
+325	54	H	Ottawa 	0	1	1	2	5.5u33	5.5u45
+325	55	V	Carolina 	1	1	2	4	5.5o07	5.5
+325	56	H	Tampa Bay 	1	0	2	3	-140	-155
+325	57	V	Florida 	1	0	1	2	5.5u38	5.5u45
+325	58	H	Buffalo 	1	1	2	4	-230	-240
+325	59	V	Vancouver 	0	2	1	3	-161	-170
+325	60	H	Atlanta 	0	0	1	1	5.5o07	5.5o15
+326	1	V	NY Rangers 	1	0	0	1	5o27	5o45
+326	2	H	Boston 	0	0	0	0	-162	-145
+326	3	V	Colorado 	0	1	0	1	5.5u07	5.5u15
+326	4	H	Los Angeles 	2	0	2	4	-250	-255
+326	5	V	Tampa Bay 	2	1	1	4	5.5o07	5.5
+326	6	H	Carolina 	2	0	0	2	-130	-135
+326	7	V	Toronto 	1	0	1	2	5.5o06	5.5o15
+326	8	H	Detroit 	1	1	2	4	-182	-190
+326	9	V	Philadelphia 	3	0	1	4	-144	-155
+326	10	H	NY Islanders 	1	0	0	1	5u07	5.5o20
+326	11	V	New Jersey 	0	0	0	0	5u28	5u30
+326	12	H	Buffalo 	2	0	0	2	-120	-140
+326	13	V	Washington 	1	0	1	2	5.5u33	5.5u50
+326	14	H	Montreal 	0	0	0	0	-115	-135
+326	15	V	St. Louis 	2	2	2	6	5.5u38	5.5u45
+326	16	H	Minnesota 	2	0	1	3	-115	-125
+326	17	V	Dallas 	1	1	0	2	5o13	5o20
+326	18	H	Nashville 	1	2	1	4	-145	-135
+326	19	V	Anaheim 	0	0	2	2	5.5o11	5.5o20
+326	20	H	Chicago 	1	0	0	1	-182	-190
+326	21	V	San Jose 	1	2	1	4	-109	-110
+326	22	H	Phoenix 	1	0	0	1	5.5u38	5.5u35
+326	23	V	Calgary 	0	1	3	5	-177	-210
+326	24	H	Edmonton 	1	2	1	4	5.5u38	5.5u30
+327	51	V	Florida 	0	1	0	1	5o17	5o25
+327	52	H	Pittsburgh 	0	1	0	2	-260	-230
+327	53	V	Ottawa 	1	1	2	4	5.5u38	5.5u35
+327	54	H	Atlanta 	1	2	1	5	-140	-135
+327	55	V	Vancouver 	1	0	3	4	-151	-155
+327	56	H	Columbus 	0	0	1	1	5.5u28	5.5u25
+327	57	V	Boston 	0	1	1	2	5.5u28	5.5u30
+327	58	H	Philadelphia 	1	0	0	1	-125	-115
+328	1	V	Chicago 	2	0	0	3	5.5o09	-110
+328	2	H	Detroit 	1	0	1	2	-125	5.5o20
+328	3	V	Colorado 	2	1	1	4	5.5o30	5.5o30
+328	4	H	Anaheim 	0	3	2	5	-230	-280
+329	51	V	Philadelphia 	1	2	2	5	5.5u38	5.5u55
+329	52	H	Pittsburgh 	1	1	0	2	-125	-115
+329	53	V	Florida 	0	1	1	2	5o27	5o35
+329	54	H	Columbus 	1	1	0	3	-166	-170
+329	55	V	Carolina 	0	1	1	3	5.5u35	5.5u40
+329	56	H	Washington 	0	2	0	2	-190	-175
+329	57	V	Buffalo 	1	2	0	3	-109	-120
+329	58	H	Toronto 	2	2	0	4	5.5u23	5.5u15
+329	59	V	Atlanta 	0	0	1	1	5.5u33	5.5u35
+329	60	H	Montreal 	2	0	1	3	-172	-160
+329	61	V	Ottawa 	0	0	2	2	5.5u33	5.5u25
+329	62	H	Tampa Bay 	0	2	3	5	-205	-200
+329	63	V	Chicago 	0	0	0	0	5.5u20	5.5u25
+329	64	H	Boston 	0	2	1	3	-130	-135
+329	65	V	Vancouver 	0	0	3	3	5o17	5o15
+329	66	H	Nashville 	0	1	0	1	-120	-120
+329	67	V	Minnesota 	1	0	1	3	5.5u18	5.5u35
+329	68	H	St. Louis 	1	0	1	2	-166	-165
+329	69	V	Los Angeles 	0	2	0	2	-193	-220
+329	70	H	Edmonton 	0	0	0	0	5o27	5o30
+329	71	V	Dallas 	0	1	0	1	5o22	5o30
+329	72	H	Phoenix 	0	1	0	2	-140	-130
+330	1	V	NY Islanders 	0	0	2	2	5u35	5
+330	2	H	New Jersey 	1	1	1	3	-150	-160
+330	3	V	NY Rangers 	0	0	0	0	5o25	-120
+330	4	H	Buffalo 	0	1	0	1	-120	5o40
+330	5	V	Montreal 	0	1	1	2	5.5u35	5.5u40
+330	6	H	Carolina 	2	2	2	6	-140	-130
+330	7	V	St. Louis 	3	5	2	10	5.5o15	5.5o15
+330	8	H	Detroit 	2	1	0	3	-200	-230
+330	9	V	Anaheim 	2	1	1	4	5.5u10	5.5u15
+330	10	H	Calgary 	1	0	1	2	-125	-140
+331	51	V	Columbus 	0	2	1	3	5.5u28	5.5u50
+331	52	H	Washington 	1	2	0	4	-225	-230
+331	53	V	Atlanta 	0	0	1	1	5.5o27	5.5o30
+331	54	H	Philadelphia 	0	0	0	0	-235	-230
+331	55	V	NY Rangers 	1	0	1	2	-130	-140
+331	56	H	NY Islanders 	0	4	2	6	5.5u28	5.5u35
+331	57	V	Toronto 	1	1	1	4	5.5u28	5.5u35
+331	58	H	Boston 	0	3	0	3	-204	-210
+331	59	V	Ottawa 	1	3	0	4	5o13	5o15
+331	60	H	Florida 	0	1	0	1	-130	-130
+331	61	V	Pittsburgh 	0	0	1	1	5.5u33	5.5u40
+331	62	H	Tampa Bay 	2	0	0	2	-130	-120
+331	63	V	Edmonton 	0	1	1	2	5o17	5o25
+331	64	H	Minnesota 	2	2	0	4	-204	-200
+331	65	V	Nashville 	1	1	1	3	-156	-165
+331	66	H	Colorado 	0	0	2	2	5.5u28	5.5u30
+331	67	V	Los Angeles 	1	0	0	1	5o22	5o25
+331	68	H	Vancouver 	0	2	1	3	-171	-165
+331	69	V	Dallas 	0	0	0	0	5o38	5o45
+331	70	H	San Jose 	1	2	3	6	-193	-180
+401	1	V	Chicago 	2	0	1	4	5.5	-210
+401	2	H	Columbus 	1	1	1	3	-200	5.5u15
+401	3	V	Philadelphia 	1	0	1	2	5u07	-115
+401	4	H	New Jersey 	0	2	2	4	-109	5u15
+401	5	V	Calgary 	0	1	2	3	5.5u23	5.5u25
+401	6	H	St. Louis 	1	1	0	2	-109	-125
+401	7	V	Colorado 	1	1	1	4	5.5u18	5.5u20
+401	8	H	Phoenix 	0	1	2	3	-255	-270
+402	51	V	Atlanta 	1	1	0	2	5.5u13	5.5u15
+402	52	H	Boston 	1	1	1	3	-220	-210
+402	53	V	Tampa Bay 	0	2	1	3	-120	-145
+402	54	H	Minnesota 	1	0	0	1	5.5u23	5.5u25
+402	55	V	Detroit 	0	2	1	4	5.5u35	5.5u50
+402	56	H	Nashville 	1	2	0	3	-113	-120
+402	57	V	Dallas 	0	1	0	1	5o17	5o25
+402	58	H	Los Angeles 	0	1	2	3	-158	-130
+402	59	V	Montreal 	1	0	2	3	5u30	5u40
+402	60	H	New Jersey 	0	0	1	1	-122	-130
+402	61	V	Buffalo 	2	0	2	4	5.5u33	5.5u35
+402	62	H	Washington 	2	0	2	5	-161	-165
+402	63	V	Carolina 	1	0	3	4	-135	-135
+402	64	H	NY Islanders 	1	1	0	2	5.5o18	5.5u15
+402	65	V	Pittsburgh 	1	1	2	4	-145	-150
+402	66	H	Florida 	2	0	0	2	5o17	5o20
+402	67	V	Toronto 	1	1	2	4	-115	-120
+402	68	H	Ottawa 	0	1	1	2	5.5u28	5.5u40
+402	69	V	Edmonton 	1	2	1	4	5.5u28	5.5u30
+402	70	H	Vancouver 	0	1	0	1	-260	-300
+402	71	V	Anaheim 	2	0	0	2	5.5u10	5.5u25
+402	72	H	San Jose 	0	2	2	4	-158	-160
+403	1	V	NY Rangers 	1	1	0	3	5.5u29	5.5u40
+403	2	H	Philadelphia 	1	0	1	2	-150	-130
+403	3	V	Buffalo 	1	0	0	2	5.5u23	5.5
+403	4	H	Carolina 	0	1	0	1	-137	-140
+403	5	V	St. Louis 	2	2	2	6	5.5o09	-115
+403	6	H	Columbus 	1	0	0	1	-109	5.5
+403	7	V	Minnesota 	0	1	1	2	5.5u15	5.5u20
+403	8	H	Detroit 	2	1	1	4	-220	-260
+403	9	V	Tampa Bay 	1	0	1	2	5.5o10	5.5o25
+403	10	H	Chicago 	0	0	0	0	-177	-200
+403	11	V	Dallas 	2	2	0	4	5.5u18	5.5u20
+403	12	H	Anaheim 	2	1	0	3	-160	-150
+403	13	V	Calgary 	0	1	1	2	-140	-150
+403	14	H	Colorado 	0	0	1	1	5.5o07	5.5o20
+404	51	V	Boston 	2	1	0	3	5o15	-110
+404	52	H	NY Rangers 	0	2	3	5	-115	5u15
+404	53	V	Los Angeles 	0	1	0	1	5o25	5o30
+404	54	H	San Jose 	2	4	0	6	-165	-170
+405	1	V	Washington 	1	1	0	3	-140	-125
+405	2	H	Toronto 	1	1	0	2	5.5u23	5.5u30
+405	3	V	Tampa Bay 	1	0	1	2	5.5u13	5.5u15
+405	4	H	Buffalo 	1	2	1	4	-130	-130
+405	5	V	New Jersey 	0	1	1	2	5u33	5u30
+405	6	H	Pittsburgh 	1	1	2	4	-140	-155
+405	7	V	Philadelphia 	1	1	0	2	-160	-165
+405	8	H	Ottawa 	1	2	2	5	5.5u38	5.5u40
+405	9	V	Chicago 	0	1	0	1	-104	-120
+405	10	H	Montreal 	0	1	0	2	5.5u23	5.5u25
+405	11	V	Atlanta 	0	0	3	3	5.5u38	5.5u40
+405	12	H	Nashville 	3	1	2	6	-181	-200
+405	13	V	Colorado 	1	0	0	1	5.5o22	5.5o30
+405	14	H	St. Louis 	1	1	1	3	-193	-220
+405	15	V	Columbus 	0	0	0	0	5.5u28	5.5u30
+405	16	H	Dallas 	1	0	2	3	-182	-220
+405	17	V	Vancouver 	0	0	0	0	-193	-230
+405	18	H	Edmonton 	1	0	1	2	5.5u28	5.5u30
+406	51	V	NY Islanders 	0	2	0	2	5.5u13	5.5u15
+406	52	H	Boston 	1	2	0	3	-222	-240
+406	53	V	Toronto 	0	0	2	2	5o08	5
+406	54	H	New Jersey 	1	2	1	4	-134	-155
+406	55	V	Florida 	0	0	2	2	5.5u28	5.5u45
+406	56	H	Washington 	2	1	2	5	-290	-250
+406	57	V	Detroit 	0	0	0	0	-104	5.5o15
+406	58	H	Carolina 	0	2	1	3	5.5u07	-120
+406	59	V	St. Louis 	1	1	1	3	5.5u07	5.5
+406	60	H	Chicago 	0	3	0	4	-212	-200
+406	61	V	Edmonton 	0	0	1	1	5.5u23	5.5u25
+406	62	H	Calgary 	0	3	3	6	-290	-300
+406	63	V	San Jose 	0	1	1	2	5.5u11	-120
+406	64	H	Anaheim 	2	4	0	6	-120	5.5
+406	65	V	Phoenix 	2	0	0	2	5o13	5o20
+406	66	H	Los Angeles 	1	1	0	3	-130	-140
+407	1	V	Atlanta 	0	2	1	3	5.5u23	5.5u35
+407	2	H	NY Rangers 	0	0	0	0	-210	-230
+407	3	V	Montreal 	0	1	1	2	-125	-115
+407	4	H	Ottawa 	0	0	2	3	5o17	5o40
+407	5	V	Colorado 	0	1	1	2	5.5u20	5.5u15
+407	6	H	Dallas 	2	0	2	4	-275	-290
+407	7	V	Minnesota 	0	0	0	0	5o27	5.5u40
+407	8	H	Vancouver 	2	2	1	5	-225	-250
+408	51	V	Pittsburgh 	1	1	1	4	-145	-140
+408	52	H	NY Islanders 	0	1	2	3	5.5u23	5.5u25
+408	53	V	Philadelphia 	1	2	0	3	5.5o07	5.5
+408	54	H	Buffalo 	0	2	1	4	-125	-120
+408	55	V	Carolina 	2	1	3	6	-145	-175
+408	56	H	Atlanta 	0	0	1	1	5.5o06	5.5
+408	57	V	Florida 	1	0	1	2	5.5u18	5.5u30
+408	58	H	Tampa Bay 	2	2	0	4	-203	-210
+408	59	V	Chicago 	3	1	0	4	-113	-115
+408	60	H	Detroit 	0	1	1	2	5.5u05	5.5
+408	61	V	Columbus 	0	1	0	1	5o13	5o35
+408	62	H	Nashville 	1	2	1	4	-243	-250
+408	63	V	Minnesota 	1	1	1	3	-120	5o35
+408	64	H	Edmonton 	0	1	0	1	5o22	-120
+408	65	V	Dallas 	1	1	1	3	-184	-220
+408	66	H	Colorado 	0	1	1	2	5.5u13	5.5u15
+408	67	V	San Jose 	0	1	2	3	5o32	-115
+408	68	H	Phoenix 	1	2	1	4	-115	5o40
+408	69	V	Los Angeles 	1	0	0	1	5.5u33	5.5u35
+408	70	H	Anaheim 	0	1	1	2	-130	-130
+409	1	V	New Jersey 	2	0	0	2	5u28	5u30
+409	2	H	NY Rangers 	1	3	1	5	-174	-200
+409	3	V	Ottawa 	1	0	0	1	5.5u28	5.5u35
+409	4	H	Boston 	1	1	1	3	-206	-230
+409	5	V	NY Islanders 	3	1	0	4	5.5o18	5.5o25
+409	6	H	Philadelphia 	3	2	2	7	-290	-300
+409	7	V	Tampa Bay 	3	1	2	6	5.5o07	5.5o15
+409	8	H	Carolina 	0	1	1	2	-163	-200
+409	9	V	Washington 	0	0	0	0	-135	-140
+409	10	H	Florida 	0	0	1	1	5.5u38	5.5u45
+409	11	V	Montreal 	2	1	1	4	5.5u33	5.5u30
+409	12	H	Toronto 	1	0	0	1	-115	-120
+409	13	V	Buffalo 	0	3	2	5	-143	-120
+409	14	H	Columbus 	0	2	2	4	5.5u23	5.5u25
+409	15	V	Nashville 	0	0	0	0	-125	5o25
+409	16	H	St. Louis 	0	1	1	2	5o22	-120
+409	17	V	Vancouver 	0	0	2	3	-110	-115
+409	18	H	Calgary 	0	2	0	2	5.5u17	5.5u20
+409	19	V	Phoenix 	0	0	1	1	5o45	5o50
+409	20	H	San Jose 	0	2	1	3	-167	-165
+409	21	V	Anaheim 	2	1	0	3	5.5u40	5.5u45
+409	22	H	Los Angeles 	0	1	0	1	-130	-130
+410	51	V	Edmonton 	1	2	0	3	5.5	5.5o20
+410	52	H	Colorado 	2	0	1	4	-130	-145
+410	53	V	Pittsburgh 	0	4	1	5	-120	-110
+410	54	H	Atlanta 	1	0	1	2	5.5	5.5
+410	55	V	Boston 	1	0	1	2	-110	-115
+410	56	H	New Jersey 	1	0	2	3	5u15	5u15
+410	57	V	Detroit 	0	2	2	4	5.5o09	5.5o15
+410	58	H	Chicago 	0	1	2	3	-193	-210
+410	59	V	Dallas 	2	1	0	3	-140	-230
+410	60	H	Minnesota 	1	2	2	5	5o40	5o45
+1006	1	V	 Philadelphia 	2	0	0	2	5.5u15	5.5u30
+1006	2	H	Boston 	1	0	0	1	-140	-130
+1006	3	V	Montreal 	0	0	0	0	5.5u25	-115
+1006	4	H	Toronto 	0	1	1	2	-120	5.5u30
+1006	5	V	Pittsburgh 	2	1	0	4	5.5u09	5.5u40
+1006	6	H	Vancouver 	1	1	1	3	-156	-150
+1007	51	V	Anaheim 	0	1	0	1	5.5	5.5
+1007	52	H	Buffalo 	2	2	0	4	-125	-135
+1007	53	V	NY Rangers 	1	0	1	2	-104	5o25
+1007	54	H	Los Angeles 	1	0	1	3	5o20	-120
+1007	55	V	Ottawa 	0	0	3	3	5.5o09	5.5o15
+1007	56	H	Detroit 	1	3	1	5	-220	-230
+1007	57	V	Tampa Bay 	0	2	3	5	6u15	-115
+1007	58	H	Carolina 	1	0	0	1	-115	6u20
+1007	59	V	Nashville 	0	2	1	3	-104	5o40
+1007	60	H	Columbus 	0	1	1	2	5o19	-120
+1007	61	V	Chicago 	0	0	1	1	-130	-130
+1007	62	H	Dallas 	0	2	0	2	5.5o09	5.5o15
+1008	1	V	NY Rangers 	0	0	1	1	5.5u15	-140
+1008	2	H	Anaheim 	1	0	0	2	-115	5.5u25
+1008	3	V	Buffalo 	0	3	1	4	5.5u20	-110
+1008	4	H	Los Angeles 	0	1	1	2	-109	5.5u35
+1008	5	V	Ottawa 	0	0	5	5	5.5u20	5.5u35
+1008	6	H	Toronto 	2	2	2	6	-166	-155
+1008	7	V	Tampa Bay 	0	1	0	1	5.5o09	5.5u20
+1008	8	H	Boston 	0	2	2	4	-162	-145
+1008	9	V	Philadelphia 	1	0	2	3	-109	-115
+1008	10	H	New Jersey 	0	0	0	0	5	5o15
+1008	11	V	Carolina 	0	1	2	3	5.5	5.5
+1008	12	H	Washington 	0	2	1	4	-172	-200
+1008	13	V	Florida 	2	0	0	2	5.5	5.5
+1008	14	H	NY Islanders 	0	0	0	0	-120	-130
+1008	15	V	Nashville 	1	0	3	4	5o15	5o25
+1008	16	H	St. Louis 	1	0	1	2	-115	-145
+1008	17	V	Columbus 	0	1	1	2	5.5u25	5.5u35
+1008	18	H	Minnesota 	2	2	0	4	-145	-135
+1008	19	V	Dallas 	0	1	1	2	5.5o20	5.5o20
+1008	20	H	Chicago 	1	2	2	5	-182	-180
+1008	21	V	Detroit 	0	1	2	3	-151	-140
+1008	22	H	Colorado 	0	0	0	0	6u15	6u20
+1008	23	V	Pittsburgh 	0	4	1	5	-104	5.5u25
+1008	24	H	Calgary 	1	0	2	3	5.5u15	-115
+1008	25	V	Phoenix 	0	1	2	3	5.5u15	5.5u20
+1008	26	H	San Jose 	2	4	0	6	-193	-200
+1009	51	V	Montreal 	1	1	3	5	5.5u15	5.5u25
+1009	52	H	Winnipeg Jets 	0	0	1	1	-120	-115
+1009	53	V	Pittsburgh 	1	0	0	1	-139	-130
+1009	54	H	Edmonton 	0	0	1	2	5.5u09	5.5
+1010	1	V	Colorado 	0	0	1	1	5.5o19	5.5u15
+1010	2	H	Boston 	0	0	0	0	-240	-220
+1010	3	V	Carolina 	0	2	0	2	5o09	5o30
+1010	4	H	New Jersey 	1	1	2	4	-135	-125
+1010	5	V	Minnesota 	0	0	1	1	5.5o10	5.5u15
+1010	6	H	NY Islanders 	2	0	0	2	-115	-120
+1010	7	V	Calgary 	1	1	0	2	5.5	5.5u15
+1010	8	H	St. Louis 	1	2	2	5	-130	-150
+1010	9	V	Phoenix 	0	0	1	1	5.5u10	5.5u20
+1010	10	H	Dallas 	0	0	1	2	-125	-130
+1010	11	V	Vancouver 	1	0	2	3	-150	-145
+1010	12	H	Columbus 	1	1	0	2	5.5	5.5u15
+1010	13	V	Tampa Bay 	2	1	2	5	5.5u10	5.5
+1010	14	H	Washington 	2	1	2	6	-160	-155
+1011	51	V	Florida 	0	1	1	2	5.5u19	5.5u50
+1011	52	H	Pittsburgh 	1	2	1	4	-169	-160
+1011	53	V	Minnesota 	2	0	1	3	5.5u25	5.5u20
+1011	54	H	Ottawa 	0	1	2	4	-109	-135
+1012	1	V	Colorado 	1	0	1	3	5.5	5.5u20
+1012	2	H	Columbus 	0	1	1	2	-144	-135
+1012	3	V	Vancouver 	1	2	1	4	5.5u09	5.5u20
+1012	4	H	Philadelphia 	3	1	1	5	-125	-135
+1012	5	V	Boston 	0	0	2	2	-125	-135
+1012	6	H	Carolina 	0	1	2	3	5.5u32	5.5u35
+1013	51	V	Tampa Bay 	1	0	0	1	-125	-115
+1013	52	H	NY Islanders 	4	1	0	5	6u20	5.5o20
+1013	53	V	Los Angeles 	1	0	0	1	5o09	-110
+1013	54	H	New Jersey 	1	0	0	2	-120	5u15
+1013	55	V	Washington 	0	1	1	3	-117	-120
+1013	56	H	Pittsburgh 	1	0	1	2	5.5u20	5.5o15
+1013	57	V	Calgary 	3	1	0	4	5o30	5o35
+1013	58	H	Montreal 	1	0	0	1	-125	-135
+1013	59	V	Colorado 	2	1	4	7	5.5	5.5o15
+1013	60	H	Ottawa 	1	0	0	1	-145	-150
+1013	61	V	Vancouver 	0	0	0	0	5.5	5.5o20
+1013	62	H	Detroit 	0	2	0	2	-140	-145
+1013	63	V	Phoenix 	3	1	1	5	5o25	5o30
+1013	64	H	Nashville 	0	1	1	2	-156	-135
+1013	65	V	Edmonton 	1	0	0	1	5.5u25	5.5u30
+1013	66	H	Minnesota 	0	1	0	2	-161	-155
+1013	67	V	Winnipeg 	2	1	0	3	5.5o25	5.5o15
+1013	68	H	Chicago 	2	2	0	4	-198	-210
+1013	69	V	St. Louis 	0	1	1	2	-104	-120
+1013	70	H	Dallas 	1	2	0	3	5.5u20	5.5u25
+1014	1	V	Carolina 	2	1	1	4	5.5	5.5
+1014	2	H	Buffalo 	2	0	1	3	-172	-190
+1014	3	V	San Jose 	0	0	0	0	-104	-135
+1014	4	H	Anaheim 	1	0	0	1	5.5	5.5o15
+1015	51	V	Calgary 	2	0	0	2	5.5u20	5.5o15
+1015	52	H	Toronto 	0	2	1	3	-130	-125
+1015	53	V	Colorado 	1	3	1	6	5.5u15	5.5u35
+1015	54	H	Montreal 	1	2	2	5	-151	-140
+1015	55	V	NY Rangers 	0	2	0	2	-120	-115
+1015	56	H	NY Islanders 	1	1	2	4	5.5u25	5.5u35
+1015	57	V	Los Angeles 	1	0	1	3	5.5u25	5.5u45
+1015	58	H	Philadelphia 	1	0	1	2	-145	-125
+1015	59	V	Buffalo 	2	0	1	3	5.5u15	5.5u15
+1015	60	H	Pittsburgh 	0	1	1	2	-115	-125
+1015	61	V	Winnipeg 	0	1	0	1	5.5o08	5.5o15
+1015	62	H	Phoenix 	2	1	1	4	-149	-145
+1015	63	V	Ottawa 	1	0	0	1	5.5o09	5.5o20
+1015	64	H	Washington 	2	0	0	2	-225	-250
+1015	65	V	Tampa Bay 	0	0	2	2	-104	-120
+1015	66	H	Florida 	1	0	1	3	5.5u06	5.5u15
+1015	67	V	New Jersey 	0	0	2	3	5u09	5u15
+1015	68	H	Nashville 	2	0	0	2	-120	-125
+1015	69	V	Detroit 	0	1	1	3	-133	-150
+1015	70	H	Minnesota 	1	1	0	2	5.5u09	5.5u15
+1015	71	V	Columbus 	1	1	0	2	5.5u17	5.5u30
+1015	72	H	Dallas 	1	1	2	4	-153	-140
+1015	73	V	Boston 	0	1	1	3	5.5u09	5.5u40
+1015	74	H	Chicago 	1	1	0	2	-130	-135
+1015	75	V	Vancouver 	1	2	1	4	-151	-155
+1015	76	H	Edmonton 	2	1	0	3	5.5u15	5.5u30
+1015	77	V	St. Louis 	1	0	3	4	5.5o08	5.5o15
+1015	78	H	San Jose 	1	1	0	2	-164	-160
+1016	1	V	St. Louis 	0	1	1	2	5.5o09	5.5u30
+1016	2	H	Anaheim 	1	0	3	4	-140	-135
+1017	51	V	Colorado 	0	2	0	3	5.5o15	5.5o20
+1017	52	H	Toronto 	0	1	1	2	-135	-135
+1017	53	V	Florida 	2	2	3	7	5.5u10	5.5u20
+1017	54	H	Tampa Bay 	2	1	1	4	-166	-160
+1017	55	V	Pittsburgh 	0	1	0	1	-115	-145
+1017	56	H	Winnipeg 	2	0	0	2	5.5u20	5.5u25
+1017	57	V	Nashville 	0	1	0	1	-120	-130
+1017	58	H	Edmonton 	0	0	3	3	5o25	5o30
+1017	59	V	Anaheim 	2	0	1	3	5.5o09	5.5u25
+1017	60	H	San Jose 	0	1	1	2	-172	-190
+1018	1	V	Carolina 	1	1	2	4	5.5u15	5.5u45
+1018	2	H	Boston 	0	0	1	1	-180	-160
+1018	3	V	Florida 	0	0	0	0	5.5u09	5.5u30
+1018	4	H	Washington 	1	0	2	3	-203	-250
+1018	5	V	Dallas 	0	1	2	3	-104	-120
+1018	6	H	Columbus 	0	0	2	2	5.5u25	5.5u40
+1018	7	V	Buffalo 	0	2	1	3	-109	-130
+1018	8	H	Montreal 	0	1	0	1	5.5u20	5.5u25
+1018	9	V	Philadelphia 	4	0	3	7	-160	-165
+1018	10	H	Ottawa 	0	1	1	2	5.5o07	5.5
+1018	11	V	Pittsburgh 	0	2	2	4	-104	5.5u45
+1018	12	H	Minnesota 	0	1	1	2	5.5u25	-130
+1018	13	V	Edmonton 	1	0	0	1	5.5u20	5.5u25
+1018	14	H	Calgary 	0	0	2	2	-163	-180
+1018	15	V	NY Rangers 	0	0	4	4	5.5u35	5.5u50
+1018	16	H	Vancouver 	0	0	0	0	-163	-185
+1018	17	V	Chicago 	1	2	2	5	-140	-135
+1018	18	H	Phoenix 	0	2	0	2	5.5u15	5.5u20
+1018	19	V	St. Louis 	0	0	0	0	5.5u35	5.5u40
+1018	20	H	Los Angeles 	1	2	2	5	-140	-145
+1019	51	V	Winnipeg 	1	2	0	3	5.5	5.5
+1019	52	H	Toronto 	1	0	2	4	-156	-175
+1020	1	V	Montreal 	0	0	1	1	5o30	5o30
+1020	2	H	Pittsburgh 	1	1	1	3	-150	-135
+1020	3	V	Washington 	2	0	3	5	5.5o15	5.5u30
+1020	4	H	Philadelphia 	1	0	1	2	-125	-130
+1020	5	V	Toronto 	1	0	1	2	5o20	5o50
+1020	6	H	Boston 	3	0	3	6	-165	-200
+1020	7	V	Winnipeg 	1	0	0	1	6u15	6u40
+1020	8	H	Ottawa 	0	2	2	4	-120	-135
+1020	9	V	NY Islanders 	0	0	1	1	5.5o20	5.5o15
+1020	10	H	Tampa Bay 	1	1	2	4	-144	-140
+1020	11	V	Buffalo 	0	2	1	3	-140	-150
+1020	12	H	Florida 	0	0	0	0	5.5u25	5.5u35
+1020	13	V	Chicago 	1	0	2	3	-130	-145
+1020	14	H	Colorado 	0	1	0	1	5.5o10	5.5o20
+1020	15	V	NY Rangers 	2	0	0	3	5o15	5o35
+1020	16	H	Calgary 	2	0	0	2	-110	-115
+1020	17	V	Minnesota 	0	0	1	2	5o20	5o35
+1020	18	H	Edmonton 	1	0	0	1	-125	-115
+1020	19	V	Nashville 	1	0	0	1	5o25	5o35
+1020	20	H	Vancouver 	4	0	1	5	-160	-180
+1020	21	V	Los Angeles 	0	2	0	2	-125	-130
+1020	22	H	Phoenix 	0	0	0	0	5.5u30	5.5u45
+1021	51	V	San Jose 	0	2	1	4	-104	-135
+1021	52	H	New Jersey 	1	1	1	3	5o20	5o20
+1021	53	V	Columbus 	1	0	1	2	5.5u10	5.5o15
+1021	54	H	Detroit 	2	1	2	5	-230	-250
+1021	55	V	Carolina 	1	1	0	2	5.5u15	5.5u20
+1021	56	H	St. Louis 	0	2	0	3	-140	-130
+1021	57	V	Dallas 	2	0	1	3	5.5u30	5.5u50
+1021	58	H	Anaheim 	0	1	0	1	-140	-155
+1022	1	V	Minnesota 	1	1	0	2	5.5u35	5.5u50
+1022	2	H	Vancouver 	0	1	1	3	-205	-220
+1022	3	V	Nashville 	0	1	1	2	5.5u25	5.5u55
+1022	4	H	Calgary 	0	0	0	0	-138	-130
+1022	5	V	San Jose 	1	1	2	4	5o25	5o50
+1022	6	H	Boston 	0	0	2	2	-145	-140
+1022	7	V	Toronto 	1	2	1	5	5.5u25	5.5u35
+1022	8	H	Montreal 	1	1	2	4	-120	-140
+1022	9	V	Columbus 	1	1	1	3	5.5o25	5.5u15
+1022	10	H	Ottawa 	1	1	2	4	-145	-140
+1022	11	V	St. Louis 	2	1	1	4	5.5o25	5.5o20
+1022	12	H	Philadelphia 	0	1	1	2	-177	-180
+1022	13	V	New Jersey 	0	0	1	1	5	5
+1022	14	H	Pittsburgh 	1	0	3	4	-156	-160
+1022	15	V	Detroit 	0	1	0	1	5.5	5.5u35
+1022	16	H	Washington 	2	2	3	7	-145	-145
+1022	17	V	Carolina 	2	0	1	3	5.5o20	-110
+1022	18	H	Winnipeg 	2	3	0	5	-109	5.5o20
+1022	19	V	Buffalo 	0	0	0	0	-135	-115
+1022	20	H	Tampa Bay 	0	1	2	3	5.5o20	5.5o20
+1022	21	V	NY Islanders 	1	1	0	2	5.5u25	5.5u45
+1022	22	H	Florida 	1	1	2	4	-120	-120
+1022	23	V	Colorado 	1	2	1	5	5.5u09	5.5o15
+1022	24	H	Chicago 	0	2	2	4	-193	-200
+1022	25	V	NY Rangers 	0	0	0	0	-125	-145
+1022	26	H	Edmonton 	0	1	1	2	5o15	5o20
+1022	27	V	Dallas 	0	0	0	0	5o15	5
+1022	28	H	Los Angeles 	0	0	1	1	-177	-180
+1023	51	V	Phoenix 	2	3	0	5	5.5u25	5.5u30
+1023	52	H	Anaheim 	2	1	1	4	-161	-150
+1024	1	V	Toronto 	1	0	1	2	5.5o30	5.5o35
+1024	2	H	Philadelphia 	1	1	2	4	-180	-210
+1024	3	V	Florida 	1	0	1	2	5o32	5o50
+1024	4	H	Montreal 	1	0	0	1	-135	-130
+1024	5	V	NY Rangers 	0	1	1	2	-120	-110
+1024	6	H	Winnipeg 	0	1	0	1	5.5u20	5.5u30
+1025	51	V	Pittsburgh 	1	1	1	3	-135	-130
+1025	52	H	NY Islanders 	0	0	0	0	5o20	5o45
+1025	53	V	Ottawa 	0	2	0	3	5.5o25	5.5o15
+1025	54	H	Carolina 	0	0	2	2	-180	-170
+1025	55	V	Detroit 	1	0	0	1	-190	-180
+1025	56	H	Columbus 	2	1	1	4	5.5o25	5.5o25
+1025	57	V	Tampa Bay 	2	1	1	4	5.5o30	5.5o20
+1025	58	H	Buffalo 	2	0	1	3	-180	-150
+1025	59	V	San Jose 	1	0	2	3	-135	-135
+1025	60	H	Nashville 	0	0	1	1	5o20	5o30
+1025	61	V	Anaheim 	0	2	0	2	5.5u30	5.5u25
+1025	62	H	Chicago 	0	1	1	3	-200	-165
+1025	63	V	Vancouver 	0	1	1	2	-135	-155
+1025	64	H	Edmonton 	0	3	0	3	5.5u40	5.5u45
+1025	65	V	Dallas 	1	0	1	3	5o20	5o30
+1025	66	H	Phoenix 	1	0	1	2	-115	-130
+1025	67	V	New Jersey 	0	3	0	3	5u30	5u30
+1025	68	H	Los Angeles 	0	0	0	0	-200	-175
+1026	1	V	Philadelphia 	1	0	0	1	-125	-140
+1026	2	H	Montreal 	1	2	2	5	5.5u25	5.5u30
+1026	3	V	Colorado 	1	0	1	2	5.5	5.5u30
+1026	4	H	Calgary 	1	2	1	4	-120	-115
+1026	5	V	St. Louis 	0	1	2	3	5.5u20	5.5u40
+1026	6	H	Vancouver 	0	0	0	0	-151	-155
+1027	51	V	Winnipeg 	3	3	3	9	5.5o20	5.5u20
+1027	52	H	Philadelphia 	1	3	4	8	-220	-200
+1027	53	V	Columbus 	0	1	1	2	5.5	5.5u20
+1027	54	H	Buffalo 	1	1	2	4	-195	-200
+1027	55	V	Montreal 	0	1	1	2	5o25	5o25
+1027	56	H	Boston 	1	0	0	1	-193	-200
+1027	57	V	Toronto 	0	1	3	4	5.5u30	5.5u40
+1027	58	H	NY Rangers 	1	0	1	2	-155	-150
+1027	59	V	NY Islanders 	1	0	1	2	5o30	5o40
+1027	60	H	Pittsburgh 	0	0	2	3	-177	-190
+1027	61	V	Florida 	1	1	1	3	5.5u10	-110
+1027	62	H	Ottawa 	0	2	2	4	-115	5.5u35
+1027	63	V	Tampa Bay 	2	0	1	3	5o35	-110
+1027	64	H	Nashville 	2	3	0	5	-115	5.5u30
+1027	65	V	Anaheim 	1	1	1	3	5o25	-110
+1027	66	H	Minnesota 	0	1	1	2	-115	5o30
+1027	67	V	Los Angeles 	0	3	2	5	-115	-120
+1027	68	H	Dallas 	1	0	2	3	5	5u30
+1027	69	V	Washington 	1	0	0	1	-157	-165
+1027	70	H	Edmonton 	1	1	0	2	5.5u30	5.5u45
+1027	71	V	New Jersey 	1	1	1	3	5u15	5u25
+1027	72	H	Phoenix 	1	2	2	5	-115	-130
+1028	1	V	Chicago 	0	0	0	0	-130	-135
+1028	2	H	Carolina 	1	0	2	3	5.5u10	5.5u15
+1028	3	V	San Jose 	0	3	1	4	5.5u10	5.5o15
+1028	4	H	Detroit 	1	1	0	2	-138	-125
+1028	5	V	Edmonton 	0	2	1	3	5.5u25	5.5u30
+1028	6	H	Colorado 	0	0	1	1	-143	-175
+1028	7	V	St. Louis 	0	0	1	1	5.5u30	5.5u40
+1028	8	H	Calgary 	0	1	2	3	-109	-120
+1029	51	V	Ottawa 	1	0	3	5	5.5u25	5.5u45
+1029	52	H	NY Rangers 	0	2	2	4	-170	-165
+1029	53	V	Florida 	0	1	2	3	5.5u25	5.5u45
+1029	54	H	Buffalo 	0	1	1	2	-180	-180
+1029	55	V	Pittsburgh 	0	2	1	3	-108	-125
+1029	56	H	Toronto 	1	1	2	4	5.5u35	5.5u35
+1029	57	V	Boston 	0	1	1	2	-122	-110
+1029	58	H	Montreal 	2	1	1	4	5o15	5o35
+1029	59	V	San Jose 	1	1	0	3	-133	-130
+1029	60	H	NY Islanders 	0	2	0	2	5.5u09	5.5o15
+1029	61	V	Carolina 	0	1	0	1	5.5o15	5.5o15
+1029	62	H	Philadelphia 	1	0	4	5	-175	-165
+1029	63	V	Winnipeg 	0	0	0	0	5.5o30	5.5o35
+1029	64	H	Tampa Bay 	0	1	0	1	-169	-170
+1029	65	V	Anaheim 	0	0	0	0	5o10	5o25
+1029	66	H	Nashville 	2	0	1	3	-113	-120
+1029	67	V	Detroit 	0	0	0	0	-151	-145
+1029	68	H	Minnesota 	1	0	0	1	5.5u20	5.5u25
+1029	69	V	New Jersey 	0	1	0	1	5u25	5u20
+1029	70	H	Dallas 	1	0	2	3	-132	-130
+1029	71	V	Columbus 	1	1	0	2	5.5	5.5
+1029	72	H	Chicago 	2	0	3	5	-215	-220
+1029	73	V	Los Angeles 	0	1	1	2	-130	-125
+1029	74	H	Phoenix 	0	2	0	3	5o10	5o15
+1029	75	V	Washington 	1	3	0	4	5.5u20	5.5u30
+1029	76	H	Vancouver 	3	1	3	7	-115	-120
+1030	1	V	Anaheim 	1	0	0	1	-125	-125
+1030	2	H	Columbus 	1	2	0	3	5o25	5o45
+1030	3	V	Toronto 	1	0	1	2	5.5o25	-115
+1030	4	H	Ottawa 	1	1	1	3	-105	5.5o20
+1030	5	V	Los Angeles 	1	1	0	2	-105	-115
+1030	6	H	Colorado 	1	1	1	3	5o15	5o25
+1030	7	V	St. Louis 	0	1	1	2	-104	-115
+1030	8	H	Edmonton 	1	3	0	4	5	5o15
+1031	51	V	San Jose 	1	1	0	2	-130	-115
+1031	52	H	NY Rangers 	2	3	0	5	5	5o25
+1031	53	V	Winnipeg 	2	0	1	4	5.5u06	5.5u30
+1031	54	H	Florida 	1	0	2	3	-155	-150
+1031	55	V	Nashville 	1	2	1	4	5o15	5o35
+1031	56	H	Chicago 	1	1	2	5	-180	-160
+1101	1	V	Tampa Bay 	1	0	1	2	5.5o20	5.5
+1101	2	H	Carolina 	1	2	1	4	-111	-115
+1101	3	V	Ottawa 	2	0	1	3	5.5u15	5.5u30
+1101	4	H	Boston 	1	2	2	5	-170	-200
+1101	5	V	Anaheim 	2	1	1	4	5.5u15	5.5u20
+1101	6	H	Washington 	0	2	2	5	-195	-175
+1101	7	V	Minnesota 	0	0	1	2	5.5u35	5.5u35
+1101	8	H	Detroit 	1	0	0	1	-195	-210
+1101	9	V	Vancouver 	3	2	0	5	-118	-130
+1101	10	H	Calgary 	0	0	1	1	5.5u15	5.5u25
+1102	51	V	Toronto 	2	3	0	5	5o20	5o40
+1102	52	H	New Jersey 	1	2	0	3	-140	-140
+1102	53	V	Philadelphia 	3	0	0	3	5.5u09	5.5
+1102	54	H	Buffalo 	0	1	1	2	-142	-135
+1102	55	V	Phoenix 	1	1	2	4	5.5u35	5.5u15
+1102	56	H	Colorado 	0	1	0	1	-138	-120
+1103	1	V	Winnipeg 	1	0	2	3	5.5	5.5u15
+1103	2	H	NY Islanders 	0	0	0	0	-135	-155
+1103	3	V	Anaheim 	0	1	0	1	5.5u35	5.5u50
+1103	4	H	NY Rangers 	1	0	0	2	-135	-135
+1103	5	V	New Jersey 	0	2	1	4	5o30	5o40
+1103	6	H	Philadelphia 	0	2	1	3	-155	-155
+1103	7	V	Toronto 	2	2	0	4	5.5	5.5o15
+1103	8	H	Columbus 	0	1	0	1	-105	-130
+1103	9	V	Chicago 	1	1	0	3	-135	-135
+1103	10	H	Florida 	0	1	1	2	5.5u20	5.5u35
+1103	11	V	Calgary 	1	1	2	4	5.5u15	5.5u20
+1103	12	H	Detroit 	0	1	0	1	-195	-170
+1103	13	V	Vancouver 	1	0	0	1	-125	-140
+1103	14	H	Minnesota 	0	3	2	5	5o20	5o30
+1103	15	V	Nashville 	0	2	1	3	5o20	-115
+1103	16	H	Phoenix 	0	0	0	0	-115	5o45
+1103	17	V	Pittsburgh 	2	1	0	3	5.5u30	5.5u35
+1103	18	H	San Jose 	0	1	2	4	-140	-145
+1103	19	V	Edmonton 	0	2	1	3	5	5u20
+1103	20	H	Los Angeles 	0	0	0	0	-180	-170
+1104	51	V	Washington 	0	2	3	5	-130	-135
+1104	52	H	Carolina 	1	0	0	1	5.5u09	5.5u30
+1104	53	V	Calgary 	0	0	1	1	5.5u15	5.5u25
+1104	54	H	Buffalo 	1	0	1	2	-177	-190
+1104	55	V	Montreal 	0	2	0	2	5.5u23	-120
+1104	56	H	Ottawa 	0	0	1	1	-125	5.5u25
+1104	57	V	Chicago 	0	4	0	4	-106	5.5o20
+1104	58	H	Tampa Bay 	0	4	0	5	5.5o09	-125
+1104	59	V	Vancouver 	1	0	1	2	5.5u23	5.5u30
+1104	60	H	St. Louis 	1	1	1	3	-105	-115
+1104	61	V	Colorado 	2	2	2	6	5.5u33	5.5u30
+1104	62	H	Dallas 	0	4	2	7	-132	-125
+1105	1	V	Boston 	1	4	2	7	5.5u30	-120
+1105	2	H	Toronto 	0	0	0	0	-107	5.5u25
+1105	3	V	Buffalo 	0	2	0	3	-122	-135
+1105	4	H	Ottawa 	1	1	0	2	5.5u09	5.5u20
+1105	5	V	Winnipeg 	0	0	2	2	5o30	5o35
+1105	6	H	New Jersey 	0	2	0	3	-167	-150
+1105	7	V	Washington 	2	0	1	3	-143	-135
+1105	8	H	NY Islanders 	0	2	3	5	5.5u15	5.5u15
+1105	9	V	Montreal 	0	2	1	3	5o09	5o15
+1105	10	H	NY Rangers 	3	1	1	5	-152	-150
+1105	11	V	Columbus 	0	0	2	2	5.5o09	5.5o20
+1105	12	H	Philadelphia 	5	3	1	9	-200	-200
+1105	13	V	Anaheim 	0	0	0	0	5.5u25	5.5u25
+1105	14	H	Detroit 	1	2	2	5	-160	-155
+1105	15	V	St. Louis 	0	0	1	1	5.5u35	5.5u40
+1105	16	H	Minnesota 	0	2	0	2	-127	-120
+1105	17	V	Edmonton 	0	0	2	2	5o09	5o25
+1105	18	H	Phoenix 	0	2	2	4	-127	-130
+1105	19	V	Nashville 	0	1	2	4	5o30	5o35
+1105	20	H	San Jose 	0	2	1	3	-158	-160
+1105	21	V	Pittsburgh 	1	0	1	3	5o20	5o15
+1105	22	H	Los Angeles 	0	1	1	2	-126	-125
+1106	51	V	Dallas 	3	2	0	5	5.5u15	5.5u25
+1106	52	H	Carolina 	1	0	1	2	-115	-125
+1106	53	V	Tampa Bay 	0	2	1	4	5.5	5.5u15
+1106	54	H	Florida 	3	0	0	3	-110	-115
+1106	55	V	Winnipeg 	0	0	0	0	5.5u30	5.5u40
+1106	56	H	NY Rangers 	0	1	2	3	-168	-180
+1106	57	V	Vancouver 	1	4	1	6	5.5o20	5.5u15
+1106	58	H	Chicago 	1	1	0	2	-142	-135
+1106	59	V	Calgary 	1	1	0	2	5.5u15	5.5u20
+1106	60	H	Colorado 	1	0	0	1	-123	-120
+1107	1	V	NY Islanders 	2	0	0	2	5o20	5o55
+1107	2	H	Boston 	3	0	3	6	-193	-180
+1107	3	V	Los Angeles 	0	1	1	2	5	5o30
+1107	4	H	San Jose 	0	3	1	4	-140	-140
+1108	51	V	Winnipeg 	3	1	1	5	5.5u35	5.5u25
+1108	52	H	Buffalo 	3	1	1	6	-203	-230
+1108	53	V	Florida 	1	2	2	5	5.5o09	5.5u20
+1108	54	H	Toronto 	0	0	1	1	-129	-125
+1108	55	V	Dallas 	2	0	3	5	5.5o09	5.5o15
+1108	56	H	Washington 	1	1	0	2	-173	-155
+1108	57	V	Carolina 	1	0	1	2	5.5u35	5.5u55
+1108	58	H	New Jersey 	0	1	2	3	-139	-115
+1108	59	V	Edmonton 	0	1	2	3	5	5o20
+1108	60	H	Montreal 	0	0	1	1	-125	-140
+1108	61	V	Colorado 	0	1	1	2	5.5u09	5.5o20
+1108	62	H	Detroit 	1	2	2	5	-170	-170
+1108	63	V	Chicago 	0	0	0	0	5.5o09	-115
+1108	64	H	St. Louis 	1	1	1	3	-106	5.5u30
+1108	65	V	Minnesota 	1	1	1	3	5u09	5o15
+1108	66	H	Calgary 	0	0	0	0	-137	-130
+1108	67	V	Nashville 	2	0	1	3	5	5o15
+1108	68	H	Los Angeles 	2	2	0	4	-125	-130
+1109	1	V	NY Rangers 	0	2	1	3	-120	-115
+1109	2	H	Ottawa 	0	1	1	2	5.5u30	5.5u35
+1109	3	V	Philadelphia 	0	1	0	1	5.5o30	-120
+1109	4	H	Tampa Bay 	0	0	1	2	-120	6o25
+1109	5	V	Nashville 	2	1	1	4	5o30	5o35
+1109	6	H	Anaheim 	1	1	0	2	-120	-115
+1110	51	V	Edmonton 	2	0	1	3	5o20	5o30
+1110	52	H	Boston 	2	2	2	6	-167	-180
+1110	53	V	Chicago 	2	3	1	6	-151	-160
+1110	54	H	Columbus 	1	0	2	3	5.5o09	5.5o25
+1110	55	V	Toronto 	2	0	0	3	5.5u15	5.5u15
+1110	56	H	St. Louis 	0	1	1	2	-153	-165
+1110	57	V	Florida 	2	2	1	5	5.5u15	-125
+1110	58	H	Winnipeg 	0	0	2	2	-106	5.5u25
+1110	59	V	NY Islanders 	1	2	0	3	5.5o15	5.5o15
+1110	60	H	Colorado 	0	1	2	4	-135	-125
+1110	61	V	Montreal 	0	2	0	3	5o20	5o35
+1110	62	H	Phoenix 	1	0	1	2	-135	-135
+1110	63	V	Minnesota 	0	0	1	1	5o25	5o30
+1110	64	H	San Jose 	0	3	0	3	-165	-180
+1110	65	V	Vancouver 	3	0	0	3	5o25	-110
+1110	66	H	Los Angeles 	0	1	1	2	-114	5o30
+1111	1	V	Washington 	0	1	2	3	-128	-140
+1111	2	H	New Jersey 	1	0	0	1	5o25	5.5u40
+1111	3	V	Dallas 	1	0	0	1	5.5u20	5.5u40
+1111	4	H	Pittsburgh 	0	1	2	3	-132	-145
+1111	5	V	Carolina 	0	1	0	1	5u25	5.5u45
+1111	6	H	NY Rangers 	1	0	4	5	-150	-145
+1111	7	V	Ottawa 	1	0	0	1	5.5	5.5
+1111	8	H	Buffalo 	3	0	2	5	-180	-190
+1111	9	V	Edmonton 	0	0	0	0	5.5u20	5.5u30
+1111	10	H	Detroit 	1	1	1	3	-177	-180
+1111	11	V	Calgary 	0	0	1	1	5.5u09	5.5u15
+1111	12	H	Chicago 	1	1	2	4	-162	-155
+1111	13	V	Vancouver 	0	0	3	3	-104	-120
+1111	14	H	Anaheim 	0	4	0	4	5.5u25	5.5u35
+1112	51	V	Buffalo 	1	0	1	2	5.5u15	5.5u25
+1112	52	H	Boston 	0	3	3	6	-142	-155
+1112	53	V	Ottawa 	0	2	3	5	5.5o15	5.5o15
+1112	54	H	Toronto 	1	0	1	2	-150	-145
+1112	55	V	New Jersey 	0	2	0	3	5.5	5.5u40
+1112	56	H	Washington 	2	0	0	2	-190	-200
+1112	57	V	Pittsburgh 	0	0	3	3	-137	-125
+1112	58	H	Carolina 	1	2	2	5	5.5u25	5.5u40
+1112	59	V	Dallas 	1	1	0	2	5.5u15	5.5u20
+1112	60	H	Detroit 	1	1	3	5	-142	-175
+1112	61	V	Winnipeg 	0	0	1	1	5.5o35	5.5o15
+1112	62	H	Columbus 	1	0	1	2	-126	-125
+1112	63	V	Montreal 	1	0	0	2	5.5u25	5.5u55
+1112	64	H	Nashville 	0	1	0	1	-153	-155
+1112	65	V	Tampa Bay 	0	0	0	0	5.5u15	5.5u25
+1112	66	H	St. Louis 	1	1	1	3	-128	-140
+1112	67	V	Calgary 	3	1	0	4	5.5u20	5.5u30
+1112	68	H	Colorado 	0	1	2	3	-120	-135
+1112	69	V	Minnesota 	0	0	2	2	5	5u15
+1112	70	H	Los Angeles 	1	4	0	5	-152	-160
+1112	71	V	Phoenix 	2	0	1	3	5.5u20	5.5u15
+1112	72	H	San Jose 	0	0	0	0	-168	-180
+1113	1	V	Philadelphia 	1	1	1	3	-117	-125
+1113	2	H	Florida 	0	1	1	2	5.5o09	5.5u15
+1113	3	V	Edmonton 	1	2	0	3	5o15	5.5u35
+1113	4	H	Chicago 	3	2	1	6	-127	-190
+1113	5	V	Minnesota 	3	0	0	3	5u09	5o20
+1113	6	H	Anaheim 	0	1	1	2	-132	-150
+1113	7	V	NY Islanders 	0	1	0	1	5.5	5.5
+1113	8	H	Vancouver 	1	1	2	4	-200	-200
+1114	51	V	Philadelphia 	2	2	1	5	-120	-120
+1114	52	H	Carolina 	1	1	1	3	5.5o15	5.5o25
+1114	53	V	Buffalo 	0	0	2	3	-110	-120
+1114	54	H	Montreal 	0	2	0	2	5o15	5o40
+1114	55	V	Tampa Bay 	0	1	1	2	-140	-155
+1114	56	H	Winnipeg 	2	2	1	5	5.5o15	5.5o15
+1115	1	V	New Jersey 	0	1	2	3	5o30	5
+1115	2	H	Boston 	0	1	3	4	-200	-200
+1115	3	V	Phoenix 	2	0	0	3	5.5o15	5.5u15
+1115	4	H	Toronto 	0	0	2	2	-115	-120
+1115	5	V	NY Rangers 	1	1	2	4	-150	-125
+1115	6	H	NY Islanders 	1	0	1	2	5o20	5o35
+1115	7	V	Minnesota 	0	2	2	4	-135	-115
+1115	8	H	Columbus 	2	0	0	2	5o25	5o40
+1115	9	V	Colorado 	3	0	0	3	5.5	5.5
+1115	10	H	Pittsburgh 	1	1	4	6	-180	-190
+1115	11	V	Detroit 	1	0	0	1	-110	5.5u45
+1115	12	H	St. Louis 	1	1	0	2	5o30	-115
+1115	13	V	Washington 	0	0	1	1	-135	-120
+1115	14	H	Nashville 	0	0	3	3	5.5u10	5.5u40
+1115	15	V	Florida 	2	2	2	6	5.5u35	5.5u40
+1115	16	H	Dallas 	0	0	0	0	-135	-135
+1115	17	V	Ottawa 	0	1	2	3	5.5o10	5.5u25
+1115	18	H	Calgary 	0	1	0	1	-150	-150
+1116	51	V	Carolina 	0	0	0	0	5.5u30	5.5u40
+1116	52	H	Montreal 	2	2	0	4	-132	-130
+1116	53	V	New Jersey 	2	1	2	5	5o20	5o25
+1116	54	H	Buffalo 	1	0	2	3	-181	-175
+1116	55	V	Chicago 	0	2	3	5	5.5o09	5.5o20
+1116	56	H	Vancouver 	0	1	0	1	-132	-125
+1116	57	V	Anaheim 	0	0	1	1	5o15	5o25
+1116	58	H	Los Angeles 	0	1	0	2	-150	-175
+1117	1	V	Columbus 	0	1	0	1	5.5o23	5.5o20
+1117	2	H	Boston 	0	1	0	2	-225	-230
+1117	3	V	Phoenix 	0	0	1	1	5.5o10	5.5
+1117	4	H	Philadelphia 	0	1	1	2	-165	-155
+1117	5	V	Montreal 	0	2	1	3	-110	-110
+1117	6	H	NY Islanders 	0	4	0	4	5.5u35	5.5u45
+1117	7	V	Pittsburgh 	0	0	1	1	-110	-120
+1117	8	H	Tampa Bay 	1	1	2	4	5.5	5.5
+1117	9	V	Florida 	1	0	0	1	5.5u35	5o25
+1117	10	H	St. Louis 	1	1	2	4	-145	-160
+1117	11	V	Toronto 	0	1	0	1	5o35	5.5u30
+1117	12	H	Nashville 	1	1	2	4	-160	-175
+1117	13	V	Colorado 	0	0	0	0	5.5u40	5.5u45
+1117	14	H	Minnesota 	0	0	1	1	-140	-130
+1117	15	V	Washington 	1	0	0	1	-155	-155
+1117	16	H	Winnipeg 	1	3	0	4	5.5o10	5.5o15
+1117	17	V	Ottawa 	3	1	1	5	5.5u25	5.5u40
+1117	18	H	Edmonton 	0	1	1	2	-135	-135
+1117	19	V	Los Angeles 	0	2	3	5	5o20	-115
+1117	20	H	Anaheim 	0	1	2	3	-115	5o25
+1117	21	V	Detroit 	1	0	1	2	5.5u10	5.5u20
+1117	22	H	San Jose 	1	3	1	5	-135	-135
+1118	51	V	Buffalo 	1	0	0	1	-133	-130
+1118	52	H	Carolina 	0	0	0	0	5.5o15	5.5
+1118	53	V	Dallas 	0	0	0	0	-125	-115
+1118	54	H	Colorado 	1	0	2	3	5.5o15	5.5o15
+1118	55	V	Chicago 	1	1	0	2	-133	-120
+1118	56	H	Calgary 	1	3	1	5	5.5u15	5.5u20
+1119	1	V	Philadelphia 	1	1	2	4	-149	-155
+1119	2	H	Winnipeg 	3	2	1	6	5.5o23	5.5o25
+1119	3	V	Detroit 	1	2	1	4	5o25	5o40
+1119	4	H	Los Angeles 	1	0	0	1	-121	-125
+1119	5	V	Phoenix 	1	2	1	4	5.5u14	5.5u35
+1119	6	H	Buffalo 	1	1	0	2	-148	-135
+1119	7	V	Washington 	1	0	0	1	-140	-160
+1119	8	H	Toronto 	2	4	1	7	5.5o08	5.5u15
+1119	9	V	NY Rangers 	0	0	0	0	-106	-110
+1119	10	H	Montreal 	1	1	2	4	5o14	5o25
+1119	11	V	Boston 	3	0	3	6	-151	-155
+1119	12	H	NY Islanders 	0	0	0	0	5.5u15	5.5u25
+1119	13	V	New Jersey 	0	3	1	4	5.5u37	5.5u50
+1119	14	H	Tampa Bay 	0	0	2	2	-138	-135
+1119	15	V	Pittsburgh 	1	1	0	2	-120	-120
+1119	16	H	Florida 	1	1	1	3	5.5u23	5.5u45
+1119	17	V	Columbus 	0	2	1	4	5o40	5o45
+1119	18	H	Nashville 	1	1	1	3	-196	-200
+1119	19	V	St. Louis 	1	0	1	2	5o22	-125
+1119	20	H	Minnesota 	0	1	1	3	-111	5o20
+1119	21	V	San Jose 	1	2	1	4	-125	-150
+1119	22	H	Dallas 	0	0	1	1	5.5u13	5.5u15
+1119	23	V	Chicago 	1	1	0	2	-122	-135
+1119	24	H	Edmonton 	5	3	1	9	5.5u23	5.5u35
+1120	51	V	Toronto 	0	0	2	2	5.5u10	5.5o15
+1120	52	H	Carolina 	1	1	1	3	-154	-155
+1120	53	V	San Jose 	1	2	1	4	-135	-130
+1120	54	H	Colorado 	1	0	0	1	5.5u10	5.5o15
+1120	55	V	Detroit 	1	2	1	4	-120	-120
+1120	56	H	Anaheim 	0	2	0	2	5.5u15	5.5u25
+1120	57	V	Ottawa 	0	0	1	1	5.5	5.5o20
+1120	58	H	Vancouver 	0	1	0	2	-180	-190
+1121	1	V	Carolina 	2	2	0	4	6u15	6u35
+1121	2	H	Philadelphia 	0	2	0	2	-190	-210
+1121	3	V	NY Islanders 	0	0	0	0	5.5u25	5.5u15
+1121	4	H	Pittsburgh 	2	2	1	5	-200	-250
+1121	5	V	Phoenix 	1	1	1	3	5.5	5.5u35
+1121	6	H	Washington 	0	2	2	4	-143	-160
+1121	7	V	Calgary 	0	1	0	1	-107	-120
+1121	8	H	Columbus 	2	1	1	4	5.5u20	5.5u30
+1121	9	V	Boston 	1	0	0	1	-132	-140
+1121	10	H	Montreal 	0	0	0	0	5.5u35	5.5u55
+1121	11	V	New Jersey 	3	0	0	3	5o30	5o15
+1121	12	H	Florida 	0	2	2	4	-125	-130
+1121	13	V	Edmonton 	0	1	0	1	5.5u30	5.5u45
+1121	14	H	Dallas 	1	2	1	4	-145	-145
+1122	51	V	Toronto 	3	1	3	7	5.5o25	5.5o25
+1122	52	H	Tampa Bay 	1	0	0	1	-143	-170
+1122	53	V	Los Angeles 	0	1	2	3	5o25	5o20
+1122	54	H	St. Louis 	1	0	1	2	-125	-125
+1122	55	V	Edmonton 	3	0	3	6	5o35	5o30
+1122	56	H	Nashville 	0	0	2	2	-160	-200
+1123	1	V	Boston 	0	2	1	4	-122	-125
+1123	2	H	Buffalo 	2	1	0	3	5.5u25	5.5u35
+1123	3	V	Columbus 	0	0	1	1	5o35	5o40
+1123	4	H	New Jersey 	0	1	0	2	-180	-160
+1123	5	V	Philadelphia 	1	1	1	4	-156	-150
+1123	6	H	NY Islanders 	3	0	0	3	5.5o35	5.5o30
+1123	7	V	St. Louis 	1	0	1	3	5.5u20	5.5u50
+1123	8	H	Pittsburgh 	0	0	2	2	-180	-180
+1123	9	V	Winnipeg 	2	0	1	3	5.5o15	5.5o15
+1123	10	H	Washington 	2	1	0	4	-199	-200
+1123	11	V	Montreal 	0	1	2	4	5o35	-115
+1123	12	H	Carolina 	2	0	1	3	-122	5o35
+1123	13	V	Calgary 	0	2	1	3	5.5u20	5.5u30
+1123	14	H	Detroit 	1	1	3	5	-180	-170
+1123	15	V	NY Rangers 	0	1	0	1	5o15	-110
+1123	16	H	Florida 	1	1	0	2	-115	5o20
+1123	17	V	Nashville 	1	0	1	2	5o15	5o15
+1123	18	H	Minnesota 	0	0	3	3	-120	-115
+1123	19	V	Los Angeles 	0	2	0	2	-104	-110
+1123	20	H	Dallas 	0	0	2	3	5o20	5o25
+1123	21	V	Anaheim 	1	0	1	2	5o35	5o40
+1123	22	H	Phoenix 	2	1	1	4	-150	-140
+1123	23	V	Vancouver 	1	1	1	3	-118	-130
+1123	24	H	Colorado 	0	0	0	0	5.5o09	5.5
+1123	25	V	Chicago 	0	0	0	0	5.5o15	5.5o25
+1123	26	H	San Jose 	0	1	0	1	-137	-140
+1125	51	V	Detroit 	1	1	0	3	5.5u15	5.5u20
+1125	52	H	Boston 	0	1	1	2	-150	-135
+1125	53	V	New Jersey 	0	1	0	1	-125	-125
+1125	54	H	NY Islanders 	0	0	0	0	5o25	5o40
+1125	55	V	Montreal 	1	0	0	1	5.5o10	5.5u15
+1125	56	H	Philadelphia 	0	3	0	3	-160	-140
+1125	57	V	Edmonton 	2	1	2	5	5o15	5o20
+1125	58	H	Minnesota 	1	1	0	2	-145	-140
+1125	59	V	NY Rangers 	0	4	2	6	5.5u25	5.5u30
+1125	60	H	Washington 	0	2	1	3	-145	-140
+1125	61	V	Chicago 	2	0	4	6	-130	-135
+1125	62	H	Anaheim 	3	1	1	5	5.5	5.5u15
+1125	63	V	Ottawa 	1	1	1	3	5.5o15	5.5
+1125	64	H	Pittsburgh 	4	1	1	6	-220	-230
+1125	65	V	Buffalo 	0	1	0	1	-135	-135
+1125	66	H	Columbus 	2	3	0	5	5.5	5.5u15
+1125	67	V	Winnipeg 	1	1	1	3	5.5o20	5.5o20
+1125	68	H	Carolina 	0	1	0	1	-135	-140
+1125	69	V	Tampa Bay 	0	0	1	2	5.5	5.5u15
+1125	70	H	Florida 	0	1	0	1	-135	-135
+1125	71	V	Calgary 	0	0	0	0	5o25	5o35
+1125	72	H	St. Louis 	1	0	1	2	-165	-160
+1125	73	V	Toronto 	2	0	1	4	5.5	5.5
+1125	74	H	Dallas 	1	1	1	3	-125	-130
+1125	75	V	Vancouver 	0	3	2	5	5.5u10	-120
+1125	76	H	Phoenix 	0	0	0	0	-110	5.5u25
+1126	1	V	NY Islanders 	1	1	1	3	5o30	5o35
+1126	2	H	New Jersey 	0	1	1	2	-177	-160
+1126	3	V	Philadelphia 	0	0	0	0	5.5u09	5.5u15
+1126	4	H	NY Rangers 	0	1	1	2	-115	-130
+1126	5	V	Edmonton 	1	1	0	2	5.5u15	5.5u20
+1126	6	H	Colorado 	1	0	4	5	-125	-125
+1126	7	V	Winnipeg 	2	0	0	2	5.5o20	5.5o20
+1126	8	H	Boston 	1	2	1	4	-220	-240
+1126	9	V	Washington 	0	1	0	1	5.5o20	-110
+1126	10	H	Buffalo 	2	1	2	5	-115	5.5
+1126	11	V	Pittsburgh 	1	1	1	4	-125	-140
+1126	12	H	Montreal 	2	1	0	3	5o35	5o30
+1126	13	V	Florida 	0	0	1	1	5.5u10	5.5u20
+1126	14	H	Tampa Bay 	1	3	1	5	-130	-130
+1126	15	V	Nashville 	0	0	1	1	5.5u35	5.5u40
+1126	16	H	Detroit 	1	2	1	4	-150	-140
+1126	17	V	Dallas 	0	0	0	0	5o35	5o40
+1126	18	H	Phoenix 	1	1	1	3	-150	-140
+1126	19	V	Vancouver 	1	2	0	3	5.5o10	5.5u25
+1126	20	H	San Jose 	1	0	1	2	-140	-145
+1126	21	V	Chicago 	1	1	0	2	5.5u25	5.5u30
+1126	22	H	Los Angeles 	0	1	0	1	-125	-125
+1127	51	V	Carolina 	1	0	2	3	5.5	5.5u15
+1127	52	H	Ottawa 	2	1	1	4	-126	-140
+1127	53	V	St. Louis 	0	1	1	2	-130	-125
+1127	54	H	Columbus 	0	1	0	1	5.5u25	5.5u40
+1127	55	V	Calgary 	3	0	2	5	5o20	5
+1127	56	H	Minnesota 	2	0	0	2	-133	-130
+1127	57	V	Toronto 	2	1	2	5	-104	5.5o20
+1127	58	H	Anaheim 	1	0	1	2	5.5o25	-130
+1128	1	V	Tampa Bay 	0	1	0	1	5.5u25	5.5u50
+1128	2	H	Minnesota 	0	2	1	3	-115	-115
+1128	3	V	Dallas 	1	0	2	3	5.5	5.5u15
+1128	4	H	Colorado 	0	0	1	1	-135	-130
+1128	5	V	Nashville 	0	1	1	2	-115	5o40
+1128	6	H	Edmonton 	1	0	0	1	5o10	-115
+1128	7	V	San Jose 	0	0	0	0	5o25	-115
+1128	8	H	Los Angeles 	1	1	0	2	-110	5o30
+1129	51	V	NY Islanders 	1	0	1	2	5.5u20	5.5u20
+1129	52	H	Buffalo 	0	0	1	1	-190	-170
+1129	53	V	Florida 	0	1	2	3	-120	5.5u35
+1129	54	H	Carolina 	0	1	0	1	5.5u20	-115
+1129	55	V	St. Louis 	1	1	0	2	5.5u15	5.5u40
+1129	56	H	Washington 	1	0	0	1	-135	-140
+1129	57	V	Pittsburgh 	1	1	1	3	-104	-120
+1129	58	H	NY Rangers 	0	4	0	4	5o20	5o35
+1129	59	V	Ottawa 	1	2	3	6	6	6u25
+1129	60	H	Winnipeg 	0	2	2	4	-130	-125
+1129	61	V	Phoenix 	1	1	2	4	6u25	5.5o15
+1129	62	H	Chicago 	0	0	1	1	-142	-150
+1129	63	V	Nashville 	0	0	0	0	5o15	5
+1129	64	H	Calgary 	1	0	0	1	-114	-130
+1129	65	V	Columbus 	0	0	1	1	5.5	5.5u25
+1129	66	H	Vancouver 	2	0	2	4	-215	-220
+1130	1	V	Boston 	1	2	3	6	-135	-160
+1130	2	H	Toronto 	1	1	1	3	5.5u06	5.5o15
+1130	3	V	Tampa Bay 	0	2	0	2	5.5u10	5.5u15
+1130	4	H	Detroit 	2	0	2	4	-170	-200
+1130	5	V	New Jersey 	0	1	0	1	-104	-115
+1130	6	H	Colorado 	3	0	3	6	5o15	5o25
+1130	7	V	Minnesota 	0	2	0	3	5	5o15
+1130	8	H	Edmonton 	1	1	0	2	-126	-120
+1130	9	V	Montreal 	1	0	0	1	5.5u32	5.5u45
+1130	10	H	Anaheim 	1	1	2	4	-105	-120
+1201	51	V	 Pittsburgh 	1	0	1	2	-105	-125
+1201	52	H	Washington 	0	1	0	1	5.5u11	5.5u20
+1201	53	V	NY Rangers 	1	3	1	5	-127	-120
+1201	54	H	Carolina 	2	1	0	3	5o35	5o45
+1201	55	V	Ottawa 	1	0	1	2	5.5u07	5.5u15
+1201	56	H	Dallas 	1	0	2	3	-126	-130
+1201	57	V	Phoenix 	0	0	0	0	-120	-125
+1201	58	H	Winnipeg 	1	0	0	1	5.5o13	5.5u15
+1201	59	V	Columbus 	1	0	2	4	5o34	5o40
+1201	60	H	Calgary 	1	1	1	3	-157	-140
+1201	61	V	Nashville 	3	2	1	6	5o15	5o25
+1201	62	H	Vancouver 	1	4	0	5	-148	-170
+1201	63	V	Florida 	0	1	0	1	5o20	5o20
+1201	64	H	Los Angeles 	1	1	0	2	-141	-160
+1201	65	V	Montreal 	1	1	1	3	5.5u47	5.5u50
+1201	66	H	San Jose 	1	1	1	4	-168	-200
+1202	1	V	Detroit 	3	0	1	4	-110	-135
+1202	2	H	Buffalo 	0	0	1	1	5.5u10	5.5u20
+1202	3	V	New Jersey 	2	0	0	2	5	5u20
+1202	4	H	Minnesota 	3	0	1	4	-115	-125
+1202	5	V	NY Islanders 	2	0	2	4	5.5o10	5.5o20
+1202	6	H	Chicago 	1	2	1	5	-190	-230
+1202	7	V	St. Louis 	1	1	0	2	-120	-135
+1202	8	H	Colorado 	1	0	1	3	5o30	5o35
+1202	9	V	Columbus 	1	1	1	3	5o35	5o50
+1202	10	H	Edmonton 	1	0	5	6	-150	-165
+1202	11	V	Philadelphia 	0	1	2	4	-120	-135
+1202	12	H	Anaheim 	2	1	0	3	5.5o25	5.5o25
+1203	51	V	Montreal 	1	1	0	2	5	5u15
+1203	52	H	Los Angeles 	0	1	0	1	-137	-130
+1203	53	V	Ottawa 	0	1	1	2	5.5o11	5.5
+1203	54	H	Washington 	1	0	1	3	-165	-160
+1203	55	V	Toronto 	0	1	0	1	5.5o23	5.5o20
+1203	56	H	Boston 	0	2	2	4	-195	-210
+1203	57	V	Pittsburgh 	0	1	2	3	-149	-150
+1203	58	H	Carolina 	0	1	1	2	5.5u11	5.5u15
+1203	59	V	NY Rangers 	0	1	3	4	5.5u33	5.5u35
+1203	60	H	Tampa Bay 	1	1	0	2	-113	-125
+1203	61	V	New Jersey 	1	1	0	2	5.5u28	5.5u40
+1203	62	H	Winnipeg 	1	1	2	4	-115	-145
+1203	63	V	Philadelphia 	4	0	0	4	5.5u11	5.5u20
+1203	64	H	Phoenix 	0	1	1	2	-127	-135
+1203	65	V	Buffalo 	2	0	1	3	5.5u33	5.5u50
+1203	66	H	Nashville 	0	0	2	2	-131	-140
+1203	67	V	Chicago 	0	3	2	5	5.5u23	5.5u30
+1203	68	H	St. Louis 	1	1	0	2	-127	-125
+1203	69	V	NY Islanders 	2	3	0	5	5.5u17	5.5u25
+1203	70	H	Dallas 	0	4	0	4	-154	-160
+1203	71	V	Calgary 	2	0	3	5	5o35	5o40
+1203	72	H	Edmonton 	2	0	1	3	-110	-135
+1203	73	V	Florida 	1	3	1	5	5.5u38	5.5u40
+1203	74	H	San Jose 	2	0	1	3	-178	-190
+1204	1	V	Minnesota 	1	2	2	5	5.5u28	5.5u45
+1204	2	H	Anaheim 	2	0	1	3	-116	-120
+1204	3	V	Detroit 	1	0	1	2	-147	-140
+1204	4	H	Colorado 	0	2	2	4	5.5u09	5.5
+1204	5	V	Calgary 	1	0	0	1	5.5u18	5.5u30
+1204	6	H	Vancouver 	0	2	3	5	-193	-250
+1205	51	V	Toronto 	1	2	1	4	5.5u15	5.5u20
+1205	52	H	NY Rangers 	0	2	0	2	-160	-160
+1205	53	V	Boston 	0	2	1	3	5.5u10	-110
+1205	54	H	Pittsburgh 	0	0	1	1	-135	5.5u40
+1205	55	V	Tampa Bay 	0	1	1	2	5.5o20	-110
+1205	56	H	Ottawa 	0	1	3	4	-115	5.5o15
+1205	57	V	Washington 	1	1	2	4	5.5u19	5.5u40
+1205	58	H	Florida 	3	2	0	5	-125	-125
+1205	59	V	Phoenix 	2	1	0	4	5.5u10	5.5u15
+1205	60	H	Chicago 	0	3	0	3	-155	-170
+1206	1	V	Tampa Bay 	1	0	0	1	5.5u07	5.5
+1206	2	H	NY Islanders 	3	0	2	5	-115	-115
+1206	3	V	New Jersey 	2	0	0	3	5.5u18	5.5u35
+1206	4	H	Toronto 	0	1	1	2	-128	-120
+1206	5	V	Detroit 	0	1	1	2	5.5u33	5.5u50
+1206	6	H	St. Louis 	0	1	2	3	-116	-120
+1206	7	V	Columbus 	1	1	0	3	5.5u38	5.5u40
+1206	8	H	Montreal 	1	0	1	2	-160	-150
+1206	9	V	Phoenix 	1	0	2	3	5o20	5o15
+1206	10	H	Nashville 	1	0	1	2	-138	-160
+1206	11	V	Boston 	0	0	1	1	-150	-150
+1206	12	H	Winnipeg 	1	0	1	2	5.5o13	5.5u15
+1206	13	V	Carolina 	0	2	4	6	5.5u18	5.5u25
+1206	14	H	Calgary 	2	2	3	7	-143	-135
+1206	15	V	Colorado 	0	0	0	0	5.5u08	5.5o15
+1206	16	H	Vancouver 	1	1	4	6	-195	-210
+1206	17	V	Los Angeles 	0	1	1	2	-125	-130
+1206	18	H	Anaheim 	2	0	1	3	5.5u43	5.5u45
+1206	19	V	Minnesota 	2	0	0	2	5.5u43	5.5u50
+1206	20	H	San Jose 	1	0	0	1	-182	-180
+1207	51	V	Washington 	0	1	4	5	-104	-120
+1207	52	H	Ottawa 	0	2	1	3	5.5o23	5.5
+1207	53	V	Philadelphia 	1	3	0	5	5.5o07	-120
+1207	54	H	Buffalo 	3	0	1	4	-110	5.5u15
+1207	55	V	Carolina 	1	3	1	5	5.5u28	5.5u15
+1207	56	H	Edmonton 	1	1	1	3	-148	-180
+1208	1	V	Tampa Bay 	0	1	1	3	5.5u23	5.5u35
+1208	2	H	NY Rangers 	1	1	0	2	-160	-175
+1208	3	V	Florida 	0	0	2	2	5.5u23	5.5u50
+1208	4	H	Boston 	0	0	0	0	-190	-190
+1208	5	V	Chicago 	1	1	0	3	-131	-165
+1208	6	H	NY Islanders 	0	1	1	2	5.5o07	5.5o30
+1208	7	V	Nashville 	0	1	2	4	-111	5o45
+1208	8	H	Columbus 	1	1	1	3	5o22	-115
+1208	9	V	Pittsburgh 	0	1	1	2	5.5o22	5.5
+1208	10	H	Philadelphia 	1	2	0	3	-106	-125
+1208	11	V	Ottawa 	2	1	1	4	5.5u28	5.5u40
+1208	12	H	New Jersey 	0	1	3	5	-133	-150
+1208	13	V	Vancouver 	0	1	2	4	-126	-135
+1208	14	H	Montreal 	2	1	0	3	5.5u28	5.5u50
+1208	15	V	Phoenix 	0	1	1	2	5.5u18	5.5u15
+1208	16	H	Detroit 	5	0	0	5	-160	-160
+1208	17	V	Anaheim 	1	0	1	2	5.5u28	5.5u45
+1208	18	H	St. Louis 	1	2	1	4	-175	-180
+1208	19	V	Colorado 	0	1	1	2	5.5u18	5.5u25
+1208	20	H	Calgary 	0	0	3	3	-130	-145
+1208	21	V	Dallas 	1	1	0	2	5.5u18	5.5u30
+1208	22	H	San Jose 	2	3	0	5	-190	-190
+1208	23	V	Minnesota 	1	2	1	4	5	5u15
+1208	24	H	Los Angeles 	0	0	2	2	-135	-160
+1209	51	V	Toronto 	0	1	1	2	5.5o30	5.5o30
+1209	52	H	Washington 	1	2	1	4	-144	-155
+1209	53	V	Florida 	0	1	0	1	5.5u13	5.5u35
+1209	54	H	Buffalo 	1	0	0	2	-138	-140
+1209	55	V	Carolina 	0	0	2	2	5.5o11	5.5o20
+1209	56	H	Winnipeg 	2	2	0	4	-145	-150
+1209	57	V	Colorado 	0	1	0	1	5.5u13	5.5u15
+1209	58	H	Edmonton 	2	2	0	4	-138	-165
+1210	1	V	Montreal 	0	1	1	2	5u10	-115
+1210	2	H	New Jersey 	0	0	1	1	-120	5
+1210	3	V	Boston 	2	1	2	5	-155	-170
+1210	4	H	Columbus 	2	1	0	3	5.5u20	5.5u35
+1210	5	V	Pittsburgh 	2	2	2	6	-135	-130
+1210	6	H	NY Islanders 	2	1	0	3	5.5u20	5.5u25
+1210	7	V	NY Rangers 	0	2	2	4	-104	-115
+1210	8	H	Buffalo 	0	1	0	1	5.5u35	5.5u40
+1210	9	V	Vancouver 	2	1	1	4	-144	-170
+1210	10	H	Ottawa 	0	1	0	1	5.5o20	5.5o15
+1210	11	V	Winnipeg 	1	0	0	1	5.5o20	5.5o15
+1210	12	H	Detroit 	2	4	1	7	-200	-230
+1210	13	V	Tampa Bay 	1	0	1	2	5.5o30	5.5o20
+1210	14	H	Philadelphia 	0	3	2	5	-194	-180
+1210	15	V	Anaheim 	0	1	1	2	5.5u35	5.5u40
+1210	16	H	Nashville 	0	1	2	3	-175	-175
+1210	17	V	Minnesota 	1	2	1	4	5o15	5o20
+1210	18	H	Phoenix 	0	0	1	1	-130	-145
+1210	19	V	San Jose 	0	0	0	0	5o30	5o20
+1210	20	H	St. Louis 	1	0	0	1	-115	-120
+1210	21	V	Edmonton 	0	0	0	0	5.5u20	5.5u30
+1210	22	H	Calgary 	0	2	1	3	-140	-140
+1210	23	V	Dallas 	1	1	0	2	5o20	5o30
+1210	24	H	Los Angeles 	0	1	0	1	-150	-155
+1211	51	V	San Jose 	1	1	0	2	5.5o10	5.5o30
+1211	52	H	Chicago 	0	1	1	3	-125	-140
+1211	53	V	Florida 	1	0	0	1	5o25	5o20
+1211	54	H	NY Rangers 	2	4	0	6	-145	-125
+1212	1	V	New Jersey 	2	3	0	5	5.5u30	5.5u40
+1212	2	H	Tampa Bay 	2	0	2	4	-115	-135
+1213	51	V	Philadelphia 	1	3	1	5	5.5o27	5.5o35
+1213	52	H	Washington 	0	0	1	1	-125	-135
+1213	53	V	Carolina 	0	0	1	1	5.5o15	5.5o35
+1213	54	H	Toronto 	0	0	1	2	-165	-180
+1213	55	V	Ottawa 	1	0	1	3	5.5o15	5.5o15
+1213	56	H	Buffalo 	2	0	0	2	-155	-155
+1213	57	V	Detroit 	0	1	3	4	5.5u18	-130
+1213	58	H	Pittsburgh 	1	0	0	1	-125	5.5u20
+1213	59	V	Vancouver 	0	0	1	1	-170	-200
+1213	60	H	Columbus 	1	0	0	2	5.5u10	5.5u15
+1213	61	V	Los Angeles 	0	0	0	0	5o25	5o25
+1213	62	H	Boston 	1	1	1	3	-177	-145
+1213	63	V	Dallas 	0	0	1	1	5o15	5o35
+1213	64	H	NY Rangers 	0	0	0	0	-165	-165
+1213	65	V	New Jersey 	0	1	1	3	5o15	5o25
+1213	66	H	Florida 	1	1	0	2	-150	-165
+1213	67	V	NY Islanders 	1	0	2	3	5.5u25	5.5u35
+1213	68	H	Montreal 	2	0	3	5	-157	-155
+1213	69	V	Calgary 	0	1	0	1	5o20	5o25
+1213	70	H	Nashville 	1	0	1	2	-145	-145
+1213	71	V	Minnesota 	0	1	0	1	5.5u20	-110
+1213	72	H	Winnipeg 	0	1	1	2	-120	5.5u40
+1213	73	V	San Jose 	0	2	1	3	-140	-160
+1213	74	H	Colorado 	1	0	2	4	5.5u10	5.5u15
+1214	1	V	Boston 	1	1	3	5	-170	-180
+1214	2	H	Ottawa 	0	1	1	2	5.5o15	5.5u25
+1214	3	V	Chicago 	0	2	1	4	5o10	-150
+1214	4	H	Minnesota 	0	2	1	3	-109	5o50
+1214	5	V	Phoenix 	0	1	0	1	-120	-120
+1214	6	H	Anaheim 	1	2	1	4	5.5u28	5.5u30
+1215	51	V	Dallas 	1	0	2	3	5.5u30	-125
+1215	52	H	NY Islanders 	1	1	0	2	-113	5.5u25
+1215	53	V	Los Angeles 	0	0	2	2	-122	-120
+1215	54	H	Columbus 	0	1	0	1	5o25	5o30
+1215	55	V	Vancouver 	1	1	1	3	-173	-200
+1215	56	H	Carolina 	0	2	2	4	5.5o05	5.5
+1215	57	V	Calgary 	1	1	2	4	5.5u13	5.5u20
+1215	58	H	Tampa Bay 	1	3	0	5	-128	-115
+1215	59	V	Philadelphia 	1	2	1	4	5.5u28	-115
+1215	60	H	Montreal 	0	3	0	3	-106	5.5u25
+1215	61	V	NY Rangers 	0	1	0	1	5o10	5u20
+1215	62	H	St. Louis 	2	0	2	4	-130	-140
+1215	63	V	Detroit 	1	2	0	3	-120	-135
+1215	64	H	Nashville 	1	1	2	4	5o39	5o40
+1215	65	V	Washington 	0	0	1	1	-115	-110
+1215	66	H	Winnipeg 	0	0	0	0	5.5o22	5.5o20
+1215	67	V	Edmonton 	0	1	1	2	5o31	5o50
+1215	68	H	Phoenix 	1	1	2	4	-137	-130
+1215	69	V	Colorado 	2	2	0	4	5.5u07	5.5u15
+1215	70	H	San Jose 	1	1	3	5	-205	-210
+1216	1	V	Dallas 	1	1	1	3	5o15	5o20
+1216	2	H	New Jersey 	1	3	2	6	-128	-150
+1216	3	V	Calgary 	1	0	1	2	5.5u23	5.5u45
+1216	4	H	Florida 	1	0	1	3	-173	-165
+1216	5	V	Pittsburgh 	0	3	1	4	-128	-140
+1216	6	H	Ottawa 	0	5	1	6	5.5o07	5.5o15
+1216	7	V	Toronto 	0	2	2	4	5.5o07	5.5u15
+1216	8	H	Buffalo 	0	4	1	5	-123	-130
+1216	9	V	Anaheim 	0	0	1	1	5.5o13	5.5o25
+1216	10	H	Chicago 	1	2	1	4	-200	-210
+1217	51	V	Boston 	4	1	1	6	5.5o08	-130
+1217	52	H	Philadelphia 	0	0	0	0	-111	5.5o15
+1217	53	V	Buffalo 	1	0	2	3	5.5u18	5.5u45
+1217	54	H	Pittsburgh 	4	2	2	8	-158	-150
+1217	55	V	New Jersey 	1	2	2	5	5u10	5
+1217	56	H	Montreal 	0	3	0	3	-140	-150
+1217	57	V	Vancouver 	1	2	2	5	-144	-160
+1217	58	H	Toronto 	1	1	1	3	5.5o25	5.5o20
+1217	59	V	Tampa Bay 	2	1	0	3	5.5u07	5.5
+1217	60	H	Columbus 	0	2	0	2	-116	-125
+1217	61	V	Anaheim 	2	0	1	3	5.5o27	5.5
+1217	62	H	Winnipeg 	2	2	1	5	-150	-145
+1217	63	V	Los Angeles 	1	1	0	2	5.5u28	5.5u45
+1217	64	H	Detroit 	4	2	2	8	-165	-180
+1217	65	V	St. Louis 	0	0	1	1	5u09	-110
+1217	66	H	Nashville 	0	0	1	2	-110	5
+1217	67	V	NY Islanders 	0	1	0	2	5.5u28	5.5u50
+1217	68	H	Minnesota 	0	0	1	1	-162	-155
+1217	69	V	NY Rangers 	1	0	2	3	5o20	5o30
+1217	70	H	Phoenix 	1	1	0	2	-114	-115
+1217	71	V	Washington 	0	1	0	1	-123	-130
+1217	72	H	Colorado 	1	1	0	2	5.5o13	5.5
+1217	73	V	Edmonton 	1	1	0	2	5.5u23	5.5u25
+1217	74	H	San Jose 	1	1	1	3	-190	-200
+1218	1	V	Carolina 	1	1	0	2	5.5u35	5.5u40
+1218	2	H	Florida 	1	0	1	3	-177	-165
+1218	3	V	Calgary 	0	0	2	2	5.5u09	5.5o20
+1218	4	H	Chicago 	1	2	1	4	-193	-180
+1218	5	V	Columbus 	1	2	1	4	5o30	5o40
+1218	6	H	St. Louis 	2	0	4	6	-177	-200
+1219	51	V	Los Angeles 	1	1	0	3	5.5u09	5.5u30
+1219	52	H	Toronto 	1	0	1	2	-125	-115
+1219	53	V	Montreal 	1	0	1	2	5.5u35	5.5u50
+1219	54	H	Boston 	1	1	1	3	-170	-210
+1219	55	V	Anaheim 	0	3	0	3	5.5u20	5.5u25
+1219	56	H	Dallas 	1	2	2	5	-150	-145
+1219	57	V	Philadelphia 	1	0	1	2	-125	-135
+1219	58	H	Colorado 	0	2	0	3	5.5o30	5.5o30
+1219	59	V	Detroit 	1	1	1	3	-140	-165
+1219	60	H	Edmonton 	0	2	0	2	5.5u15	5.5u35
+1219	61	V	Minnesota 	0	0	0	0	5o30	5o35
+1219	62	H	Vancouver 	1	2	1	4	-190	-230
+1220	1	V	Nashville 	0	0	1	1	5.5u20	5.5u25
+1220	2	H	Washington 	2	0	2	4	-140	-145
+1220	3	V	NY Rangers 	0	1	3	4	5u10	-120
+1220	4	H	New Jersey 	1	0	0	1	-120	5
+1220	5	V	Buffalo 	0	1	0	1	5.5o10	5.5o15
+1220	6	H	Ottawa 	1	0	3	4	-123	-115
+1220	7	V	Chicago 	0	0	2	2	-120	-115
+1220	8	H	Pittsburgh 	1	2	0	3	5.5u10	5.5
+1220	9	V	Phoenix 	1	1	0	2	5o20	5o25
+1220	10	H	Florida 	0	1	0	1	-135	-120
+1220	11	V	NY Islanders 	1	1	0	3	5.5o20	5.5o25
+1220	12	H	Winnipeg 	1	1	0	2	-150	-165
+1220	13	V	Minnesota 	1	0	0	1	5o15	5o20
+1220	14	H	Calgary 	1	1	0	2	-150	-145
+1221	51	V	Phoenix 	1	1	2	4	-115	-110
+1221	52	H	Carolina 	1	2	0	3	5.5u20	5.5u40
+1221	53	V	Philadelphia 	2	1	1	4	5.5u10	-140
+1221	54	H	Dallas 	1	0	0	1	-115	5.5o20
+1221	55	V	Montreal 	0	1	0	1	5.5u15	5.5u15
+1221	56	H	Chicago 	0	2	3	5	-175	-180
+1221	57	V	St. Louis 	0	2	0	2	-115	-150
+1221	58	H	Colorado 	2	1	0	3	5	5o35
+1221	59	V	Detroit 	1	1	0	2	-113	5.5u15
+1221	60	H	Vancouver 	3	0	1	4	5.5u10	-130
+1221	61	V	Tampa Bay 	1	0	1	2	5.5	5.5
+1221	62	H	San Jose 	5	0	2	7	-180	-200
+1222	1	V	Buffalo 	0	1	1	2	5.5o07	5.5o15
+1222	2	H	Toronto 	0	2	1	3	-135	-150
+1222	3	V	NY Islanders 	0	1	1	2	5.5u33	5.5u20
+1222	4	H	NY Rangers 	1	2	1	4	-170	-200
+1222	5	V	Florida 	0	1	2	3	-106	5.5u35
+1222	6	H	Ottawa 	1	0	2	4	5.5u18	-120
+1222	7	V	Columbus 	4	1	0	5	5o35	5o45
+1222	8	H	Nashville 	1	3	2	6	-170	-175
+1222	9	V	Montreal 	0	0	0	0	5.5u18	5.5u30
+1222	10	H	Winnipeg 	2	1	1	4	-125	-140
+1222	11	V	Detroit 	0	0	2	2	-118	-135
+1222	12	H	Calgary 	1	2	0	3	5.5u10	5.5u15
+1222	13	V	Minnesota 	0	0	1	1	5u07	5o20
+1222	14	H	Edmonton 	2	2	0	4	-122	-130
+1222	15	V	Anaheim 	0	1	1	2	5.5u43	5.5u45
+1222	16	H	Los Angeles 	0	1	1	3	-165	-170
+1223	51	V	Florida 	0	0	0	0	5o25	5o30
+1223	52	H	Boston 	4	2	2	8	-190	-270
+1223	53	V	Toronto 	3	1	1	5	5.5o07	5.5o15
+1223	54	H	NY Islanders 	1	1	1	3	-105	-115
+1223	55	V	Ottawa 	1	0	0	1	5.5o17	5.5o30
+1223	56	H	Carolina 	1	0	0	2	-116	-125
+1223	57	V	Washington 	0	0	3	3	-109	-115
+1223	58	H	New Jersey 	0	3	0	4	5o37	5o45
+1223	59	V	Philadelphia 	0	0	2	2	5.5u17	-110
+1223	60	H	NY Rangers 	0	2	2	4	-115	5.5u30
+1223	61	V	Pittsburgh 	1	0	3	4	-117	-140
+1223	62	H	Winnipeg 	0	1	0	1	5.5o08	5.5
+1223	63	V	Nashville 	0	2	1	3	5o35	5o40
+1223	64	H	Dallas 	3	1	2	6	-123	-130
+1223	65	V	Tampa Bay 	1	0	0	1	5.5u07	5.5o15
+1223	66	H	Colorado 	0	1	0	2	-125	-130
+1223	67	V	St. Louis 	0	2	1	3	-107	-125
+1223	68	H	Phoenix 	0	1	1	2	5o17	5o20
+1223	69	V	Calgary 	0	0	3	3	5.5u13	5.5o15
+1223	70	H	Vancouver 	0	0	1	1	-225	-300
+1223	71	V	Los Angeles 	0	1	0	1	5o35	5o50
+1223	72	H	San Jose 	0	1	0	2	-160	-210
+1226	1	V	Colorado 	0	2	2	4	5o15	5o30
+1226	2	H	Minnesota 	1	1	0	2	-130	-150
+1226	3	V	Washington 	0	1	1	2	5.5	5.5u15
+1226	4	H	Buffalo 	4	0	0	4	-125	-120
+1226	5	V	NY Islanders 	0	0	0	0	5.5u30	5.5u35
+1226	6	H	NY Rangers 	0	1	2	3	-200	-230
+1226	7	V	New Jersey 	0	0	2	2	5.5u30	-115
+1226	8	H	Carolina 	1	2	1	4	-105	5.5u40
+1226	9	V	Dallas 	0	1	2	3	5o20	5o25
+1226	10	H	St. Louis 	1	2	2	5	-165	-200
+1226	11	V	Detroit 	1	2	1	4	-120	-155
+1226	12	H	Nashville 	0	0	1	1	5.5u30	5.5u35
+1226	13	V	Columbus 	0	0	1	1	5.5o15	5.5o35
+1226	14	H	Chicago 	0	3	1	4	-230	-265
+1226	15	V	Edmonton 	0	2	1	3	5.5u15	5.5u20
+1226	16	H	Vancouver 	3	1	1	5	-220	-240
+1226	17	V	Phoenix 	1	1	1	3	5o15	5o15
+1226	18	H	Los Angeles 	2	0	2	4	-135	-155
+1226	19	V	Anaheim 	1	2	0	3	5.5	5.5
+1226	20	H	San Jose 	1	1	0	2	-225	-240
+1227	51	V	Carolina 	1	0	1	2	5.5	5.5
+1227	52	H	Pittsburgh 	0	1	3	4	-210	-280
+1227	53	V	Calgary 	0	0	1	2	-115	-120
+1227	54	H	Columbus 	0	1	0	1	5.5u20	5.5u30
+1227	55	V	Toronto 	0	2	1	3	5.5u20	5.5u40
+1227	56	H	Florida 	1	3	1	5	-120	-125
+1227	57	V	Montreal 	3	2	1	6	5.5u25	5.5u25
+1227	58	H	Ottawa 	1	1	0	2	-125	-130
+1227	59	V	Philadelphia 	1	0	0	1	-145	-145
+1227	60	H	Tampa Bay 	1	3	1	5	5.5o35	5.5o25
+1227	61	V	St. Louis 	1	1	0	2	5.5u35	5.5u50
+1227	62	H	Detroit 	0	1	2	3	-150	-175
+1227	63	V	Winnipeg 	1	2	1	4	5.5o15	5.5u15
+1227	64	H	Colorado 	0	0	1	1	-120	-115
+1228	1	V	Buffalo 	0	1	0	1	5.5u35	5.5u45
+1228	2	H	New Jersey 	1	2	0	3	-135	-130
+1228	3	V	NY Rangers 	1	0	0	1	5.5u20	-110
+1228	4	H	Washington 	1	2	1	4	-115	5.5u30
+1228	5	V	Minnesota 	0	0	1	1	5o07	5o15
+1228	6	H	Nashville 	0	0	1	2	-125	-130
+1228	7	V	Los Angeles 	0	1	1	2	5.5u35	5.5u45
+1228	8	H	Chicago 	0	0	0	0	-185	-180
+1228	9	V	Boston 	1	0	0	2	-165	-170
+1228	10	H	Phoenix 	1	0	0	1	5.5u30	5.5u30
+1228	11	V	Vancouver 	1	1	0	3	5.5	5.5u20
+1228	12	H	San Jose 	0	2	0	2	-120	-120
+1229	51	V	Calgary 	1	0	0	1	-120	-120
+1229	52	H	NY Islanders 	0	1	2	3	5.5u28	5.5u40
+1229	53	V	Philadelphia 	1	2	1	4	5.5o23	5.5o25
+1229	54	H	Pittsburgh 	1	0	1	2	-120	-135
+1229	55	V	Toronto 	0	1	2	3	-109	-120
+1229	56	H	Carolina 	1	0	2	4	5.5o13	5.5o20
+1229	57	V	Montreal 	1	2	0	3	5.5u28	-110
+1229	58	H	Tampa Bay 	1	1	2	4	-120	5.5u30
+1229	59	V	Edmonton 	1	1	1	3	5o17	5o30
+1229	60	H	Minnesota 	1	3	0	4	-128	-135
+1229	61	V	Los Angeles 	0	0	0	0	5.5u23	5.5u50
+1229	62	H	Winnipeg 	0	0	0	1	-125	-130
+1229	63	V	Columbus 	1	1	2	4	5.5u18	5.5u25
+1229	64	H	Dallas 	1	0	0	1	-170	-170
+1229	65	V	Phoenix 	1	1	0	2	5.5u23	5.5u45
+1229	66	H	Colorado 	2	0	1	3	-130	-130
+1229	67	V	Vancouver 	2	2	1	5	-160	-150
+1229	68	H	Anaheim 	0	0	2	2	5.5o08	5.5o15
+1230	1	V	Buffalo 	0	1	0	1	5.5u07	5.5u35
+1230	2	H	Washington 	1	1	1	3	-150	-165
+1230	3	V	NY Rangers 	3	1	0	4	-115	-140
+1230	4	H	Florida 	0	1	0	1	5o23	5o20
+1230	5	V	Calgary 	3	0	0	3	5.5o06	5.5u20
+1230	6	H	Ottawa 	0	2	1	4	-120	-155
+1230	7	V	Nashville 	1	0	0	2	5u11	5o15
+1230	8	H	St. Louis 	1	0	0	1	-175	-175
+1230	9	V	Detroit 	1	1	0	2	5.5o09	5.5o25
+1230	10	H	Chicago 	1	1	1	3	-130	-115
+1231	51	V	Edmonton 	1	0	0	1	5.5u17	5.5u20
+1231	52	H	NY Islanders 	2	2	0	4	-109	-130
+1231	53	V	Pittsburgh 	0	0	1	1	-120	-130
+1231	54	H	New Jersey 	2	0	1	3	5o35	5o50
+1231	55	V	Carolina 	1	1	0	2	5.5o13	5.5o30
+1231	56	H	Tampa Bay 	1	1	3	5	-145	-155
+1231	57	V	Phoenix 	0	1	3	4	5o15	5o15
+1231	58	H	Minnesota 	0	1	1	2	-128	-115
+1231	59	V	Montreal 	1	0	1	2	5o19	5o20
+1231	60	H	Florida 	0	1	2	3	-135	-115
+1231	61	V	Ottawa 	0	2	0	3	5.5o08	5.5o15
+1231	62	H	Buffalo 	1	1	0	2	-140	-115
+1231	63	V	Toronto 	1	1	0	2	5.5o23	5.5o25
+1231	64	H	Winnipeg 	0	3	0	3	-125	-135
+1231	65	V	Washington 	0	0	4	4	-135	-135
+1231	66	H	Columbus 	0	2	0	2	5.5u06	5.5u20
+1231	67	V	St. Louis 	0	0	0	0	5.5u47	5.5u50
+1231	68	H	Detroit 	0	3	0	3	-165	-155
+1231	69	V	Colorado 	1	2	1	4	5.5u06	5.5u15
+1231	70	H	Anaheim 	0	1	1	2	-115	-135
+1231	71	V	Boston 	1	0	1	2	-163	-180
+1231	72	H	Dallas 	3	1	0	4	5.5u27	5.5u30
+1231	73	V	Vancouver 	1	0	0	1	-130	-135
+1231	74	H	Los Angeles 	1	2	1	4	5o37	5o35
+101	1	V	Calgary 	1	0	2	3	5o10	5o15
+101	2	H	Nashville 	2	2	1	5	-135	-125
+102	51	V	NY Rangers 	0	1	2	3	5.5u45	5.5u40
+102	52	H	Philadelphia 	0	2	0	2	-130	-135
+102	53	V	New Jersey 	0	2	0	2	5.5u26	5.5u30
+102	54	H	Ottawa 	0	0	2	3	-126	-120
+102	55	V	San Jose 	0	2	0	3	5.5u15	5.5u20
+102	56	H	Vancouver 	1	0	1	2	-151	-155
+102	57	V	Edmonton 	0	3	1	4	5.5	5.5o20
+102	58	H	Chicago 	1	1	1	3	-240	-250
+102	59	V	Colorado 	0	0	1	2	5o31	5o25
+102	60	H	Los Angeles 	0	1	0	1	-156	-175
+103	1	V	Edmonton 	1	1	1	3	5.5u17	5.5u25
+103	2	H	Buffalo 	1	1	2	4	-150	-160
+103	3	V	Tampa Bay 	1	2	0	3	5.5o23	5.5o30
+103	4	H	Toronto 	2	3	2	7	-138	-130
+103	5	V	NY Islanders 	1	0	2	4	5.5u07	5.5
+103	6	H	Carolina 	1	1	1	3	-123	-125
+103	7	V	Calgary 	0	1	0	1	5.5u27	5.5u40
+103	8	H	Washington 	1	2	0	3	-175	-175
+103	9	V	Phoenix 	1	0	0	1	5o16	5o20
+103	10	H	St. Louis 	2	1	1	4	-175	-170
+103	11	V	Detroit 	3	2	0	5	-145	-160
+103	12	H	Dallas 	1	2	1	4	5.5u17	5.5u15
+104	51	V	Winnipeg 	1	1	1	3	5.5u20	5.5u40
+104	52	H	Montreal 	2	1	4	7	-125	-140
+104	53	V	Boston 	2	1	3	6	-150	-160
+104	54	H	New Jersey 	1	0	0	1	5o20	5o40
+104	55	V	San Jose 	0	2	1	3	-150	-160
+104	56	H	Anaheim 	1	0	0	1	5.5	5.5u25
+104	57	V	Minnesota 	0	0	0	0	5o20	5o30
+104	58	H	Vancouver 	2	0	1	3	-220	-230
+105	1	V	Calgary 	0	0	0	0	5.5u37	5.5u45
+105	2	H	Boston 	3	4	2	9	-240	-270
+105	3	V	Winnipeg 	0	0	0	0	5.5o22	5.5o25
+105	4	H	Toronto 	1	1	2	4	-123	-160
+105	5	V	Florida 	1	0	1	2	5o23	5o25
+105	6	H	NY Rangers 	1	0	1	3	-171	-180
+105	7	V	Chicago 	1	1	2	4	5.5o18	5.5o35
+105	8	H	Philadelphia 	1	3	1	5	-111	-120
+105	9	V	Tampa Bay 	0	0	1	1	5.5o22	5.5o25
+105	10	H	Ottawa 	1	1	2	4	-133	-140
+105	11	V	Edmonton 	0	3	0	3	5o28	5o40
+105	12	H	St. Louis 	1	0	3	4	-200	-220
+105	13	V	Dallas 	2	1	1	4	5o28	5o45
+105	14	H	Nashville 	1	0	0	1	-138	-135
+105	15	V	Phoenix 	0	0	0	0	5o11	5o20
+105	16	H	Los Angeles 	0	0	0	1	-144	-150
+105	17	V	Columbus 	1	0	0	1	5.5u18	5.5u15
+105	18	H	San Jose 	1	1	0	2	-235	-230
+106	51	V	Florida 	1	1	0	2	5o28	5o25
+106	52	H	New Jersey 	1	1	3	5	-134	-150
+106	53	V	NY Rangers 	1	1	1	3	5o23	5o45
+106	54	H	Pittsburgh 	1	0	0	1	-130	-140
+106	55	V	Buffalo 	0	1	1	2	-109	-115
+106	56	H	Carolina 	0	1	3	4	5.5u18	5.5u20
+106	57	V	Colorado 	1	2	1	4	5.5o07	5.5o20
+106	58	H	Chicago 	0	0	0	0	-193	-200
+106	59	V	NY Islanders 	0	1	1	2	5.5u06	5.5u15
+106	60	H	Anaheim 	0	1	3	4	-118	-130
+107	1	V	Ottawa 	0	1	1	2	5.5o32	5.5o35
+107	2	H	Philadelphia 	1	0	1	3	-173	-170
+107	3	V	Vancouver 	1	2	1	4	5.5u11	5.5u30
+107	4	H	Boston 	1	1	1	3	-165	-165
+107	5	V	Edmonton 	1	0	0	1	5.5u11	5.5u15
+107	6	H	Dallas 	0	1	3	4	-163	-155
+107	7	V	Columbus 	0	1	0	1	5o27	5o25
+107	8	H	Los Angeles 	0	0	0	0	-178	-200
+107	9	V	Winnipeg 	0	1	0	2	5.5o20	5.5
+107	10	H	Buffalo 	0	1	0	1	-125	-130
+107	11	V	Tampa Bay 	1	0	0	1	5.5u20	5.5u20
+107	12	H	Montreal 	0	2	1	3	-145	-160
+107	13	V	Detroit 	0	2	1	3	-155	-150
+107	14	H	Toronto 	3	0	1	4	5.5o30	5.5o30
+107	15	V	New Jersey 	0	2	1	3	5.5u35	5.5u35
+107	16	H	Pittsburgh 	1	0	0	1	-175	-190
+107	17	V	NY Islanders 	1	0	0	1	5.5u30	5.5u30
+107	18	H	Phoenix 	1	3	1	5	-160	-160
+107	19	V	Carolina 	0	0	2	2	5.5u30	5.5u30
+107	20	H	Nashville 	2	1	2	5	-180	-190
+107	21	V	Colorado 	0	0	0	0	5.5u30	5.5u35
+107	22	H	St. Louis 	2	2	0	4	-190	-200
+107	23	V	Minnesota 	0	0	1	1	5	5
+107	24	H	Calgary 	0	0	3	3	-130	-115
+107	25	V	Washington 	0	1	1	2	5.5u18	5.5u25
+107	26	H	San Jose 	0	2	3	5	-138	-155
+108	51	V	Philadelphia 	3	1	0	4	-113	-115
+108	52	H	Ottawa 	2	0	4	6	5.5o32	5.5o40
+108	53	V	Detroit 	1	0	1	3	5.5o13	5.5o25
+108	54	H	Chicago 	2	0	0	2	-115	-120
+108	55	V	Columbus 	1	1	2	4	5.5o08	5.5
+108	56	H	Anaheim 	4	1	2	7	-143	-170
+109	1	V	Vancouver 	1	0	0	1	-139	-165
+109	2	H	Florida 	0	2	0	2	5.5u25	5.5u30
+109	3	V	Washington 	1	0	1	2	5o11	5o15
+109	4	H	Los Angeles 	2	2	1	5	-135	-130
+110	51	V	Phoenix 	0	0	1	1	5o17	5o20
+110	52	H	NY Rangers 	0	0	1	2	-193	-180
+110	53	V	Winnipeg 	1	2	0	3	5.5o07	5.5
+110	54	H	Boston 	1	1	3	5	-255	-260
+110	55	V	Detroit 	0	0	1	1	-180	-175
+110	56	H	NY Islanders 	1	3	1	5	5.5u11	5.5u15
+110	57	V	Philadelphia 	0	1	1	2	-155	-165
+110	58	H	Carolina 	0	1	0	1	5.5o23	5.5o25
+110	59	V	Buffalo 	0	0	0	0	5.5o18	5.5o20
+110	60	H	Toronto 	2	0	0	2	-150	-150
+110	61	V	Ottawa 	2	2	1	5	5.5u06	5.5o15
+110	62	H	Pittsburgh 	0	1	0	1	-170	-150
+110	63	V	St. Louis 	0	2	1	3	-113	-115
+110	64	H	Montreal 	0	0	0	0	5o10	5o15
+110	65	V	Vancouver 	2	2	0	5	-155	-160
+110	66	H	Tampa Bay 	0	2	2	4	5.5o18	5.5o15
+110	67	V	San Jose 	1	0	3	4	-138	-155
+110	68	H	Minnesota 	1	1	2	5	5o21	5o20
+110	69	V	Columbus 	0	1	1	2	5.5o18	5.5o20
+110	70	H	Chicago 	0	2	3	5	-255	-260
+110	71	V	Nashville 	3	0	1	4	5.5u33	5.5u40
+110	72	H	Colorado 	0	1	0	1	-113	-115
+110	73	V	New Jersey 	0	2	1	3	5o23	5o20
+110	74	H	Calgary 	4	1	1	6	-108	-120
+110	75	V	Dallas 	0	0	2	2	5.5u14	-115
+110	76	H	Anaheim 	1	1	3	5	-108	5.5
+111	1	V	Pittsburgh 	0	0	0	0	5.5u25	5.5u30
+111	2	H	Washington 	1	0	0	1	-125	-145
+111	3	V	New Jersey 	0	1	0	2	-108	-110
+111	4	H	Edmonton 	0	0	1	1	5o16	5o40
+112	51	V	Philadelphia 	1	1	1	3	-149	-145
+112	52	H	NY Islanders 	0	0	2	2	5.5o25	5.5o20
+112	53	V	Ottawa 	0	1	2	3	5.5u25	5.5u30
+112	54	H	NY Rangers 	0	0	0	0	-169	-175
+112	55	V	Montreal 	0	0	1	1	5o30	5.5u30
+112	56	H	Boston 	1	0	1	2	-237	-255
+112	57	V	Carolina 	4	0	1	5	5.5o31	5.5o25
+112	58	H	Tampa Bay 	1	1	0	2	-154	-160
+112	59	V	Phoenix 	1	0	1	2	5.5u17	5.5u30
+112	60	H	Detroit 	1	0	1	3	-220	-200
+112	61	V	Vancouver 	1	1	0	3	5o26	5o30
+112	62	H	St. Louis 	1	1	0	2	-120	-120
+112	63	V	Colorado 	2	0	0	2	5o21	5o35
+112	64	H	Nashville 	0	1	1	3	-154	-165
+112	65	V	San Jose 	0	1	1	2	-144	-160
+112	66	H	Winnipeg 	0	0	0	0	5.5u11	5.5u30
+112	67	V	Minnesota 	1	0	1	2	5.5u38	5.5u45
+112	68	H	Chicago 	1	3	1	5	-192	-200
+112	69	V	Anaheim 	0	0	0	0	5.5u11	5.5u15
+112	70	H	Calgary 	0	0	0	1	-139	-135
+112	71	V	Dallas 	2	1	1	5	5o10	5o15
+112	72	H	Los Angeles 	0	2	2	4	-149	-155
+113	1	V	Phoenix 	1	1	1	3	-104	-125
+113	2	H	Columbus 	2	2	0	4	5.5u23	5.5u45
+113	3	V	Tampa Bay 	0	1	2	3	5.5o18	5.5o20
+113	4	H	Washington 	2	1	1	4	-178	-190
+113	5	V	Toronto 	2	0	0	2	5.5u06	5.5o15
+113	6	H	Buffalo 	2	1	0	3	-113	-115
+113	7	V	Pittsburgh 	0	2	2	4	5o27	5o40
+113	8	H	Florida 	0	0	1	1	-122	-120
+113	9	V	Anaheim 	1	3	1	5	5.5u17	5.5u20
+113	10	H	Edmonton 	0	0	0	0	-130	-130
+114	51	V	Chicago 	0	1	1	2	5.5o13	5.5o20
+114	52	H	Detroit 	2	0	0	3	-143	-150
+114	53	V	Colorado 	1	0	1	2	5.5u11	5.5u15
+114	54	H	Dallas 	0	0	1	1	-144	-150
+114	55	V	New Jersey 	0	0	2	2	5.5u38	-115
+114	56	H	Winnipeg 	1	0	0	1	-107	5.5u40
+114	57	V	Boston 	0	1	1	2	-200	-220
+114	58	H	Carolina 	0	1	3	4	5.5u05	5.5
+114	59	V	NY Rangers 	0	2	1	3	-123	-140
+114	60	H	Toronto 	0	0	0	0	5.5u37	5.5u35
+114	61	V	Ottawa 	0	0	2	3	5.5u33	5.5u35
+114	62	H	Montreal 	0	0	2	2	-113	-120
+114	63	V	Buffalo 	0	2	0	2	5.5u17	5.5u20
+114	64	H	NY Islanders 	1	1	2	4	-123	-130
+114	65	V	San Jose 	0	1	1	2	-190	-200
+114	66	H	Columbus 	0	0	1	1	5.5u22	5.5u30
+114	67	V	Minnesota 	1	1	0	2	5u13	5u20
+114	68	H	St. Louis 	0	2	0	3	-190	-200
+114	69	V	Philadelphia 	0	1	1	2	-113	-110
+114	70	H	Nashville 	1	1	2	4	5.5u11	5.5u15
+114	71	V	Los Angeles 	0	3	1	4	5u05	5u15
+114	72	H	Calgary 	0	1	0	1	-110	-115
+115	1	V	Pittsburgh 	2	0	4	6	-118	-140
+115	2	H	Tampa Bay 	0	0	3	3	5.5o13	5.5o15
+115	3	V	Carolina 	0	1	0	1	5o17	5.5u20
+115	4	H	Washington 	0	1	1	2	-225	-200
+115	5	V	NY Rangers 	1	0	0	1	5.5	-130
+115	6	H	Montreal 	1	3	0	4	-130	5o20
+115	7	V	San Jose 	0	2	1	3	5.5	5.5
+115	8	H	Chicago 	2	1	1	4	-130	-120
+115	9	V	Los Angeles 	0	0	1	1	-123	-140
+115	10	H	Edmonton 	1	0	0	2	5o17	5o30
+115	11	V	Anaheim 	1	2	1	4	5.5u06	5.5
+115	12	H	Vancouver 	1	0	1	2	-215	-230
+116	51	V	Nashville 	3	0	0	3	-115	-125
+116	52	H	NY Islanders 	0	0	1	1	5.5u27	5.5u30
+116	53	V	Colorado 	1	0	0	1	5.5u32	5.5u45
+116	54	H	Phoenix 	2	2	2	6	-135	-140
+116	55	V	Winnipeg 	1	1	0	2	5.5o18	5.5o20
+116	56	H	Ottawa 	0	0	0	0	-170	-170
+116	57	V	Boston 	1	1	0	3	-175	-175
+116	58	H	Florida 	0	2	0	2	5.5u22	5.5u40
+116	59	V	Buffalo 	0	0	0	0	5.5u22	5.5u20
+116	60	H	Detroit 	3	2	0	5	-215	-260
+116	61	V	Dallas 	0	0	0	0	5o18	5o30
+116	62	H	St. Louis 	0	0	1	1	-190	-200
+117	1	V	Minnesota 	0	1	0	1	5.5u22	5.5u25
+117	2	H	Philadelphia 	1	3	1	5	-190	-210
+117	3	V	Edmonton 	2	0	0	2	5.5o07	5.5u20
+117	4	H	Columbus 	0	2	2	4	-113	-130
+117	5	V	Carolina 	1	0	0	1	5.5u06	5.5
+117	6	H	Pittsburgh 	1	0	0	2	-200	-210
+117	7	V	Ottawa 	1	1	1	3	5.5o22	5.5o20
+117	8	H	Toronto 	2	0	0	2	-113	-135
+117	9	V	NY Islanders 	1	1	1	3	5.5u18	5.5u20
+117	10	H	Washington 	0	0	0	0	-200	-180
+117	11	V	Winnipeg 	0	0	1	1	5.5u28	5.5u35
+117	12	H	New Jersey 	1	3	1	5	-170	-180
+117	13	V	Nashville 	0	0	0	0	5o23	5o30
+117	14	H	NY Rangers 	1	1	1	3	-160	-180
+117	15	V	Boston 	0	2	1	3	-190	-180
+117	16	H	Tampa Bay 	1	1	3	5	5.5o07	5.5o15
+117	17	V	Detroit 	1	1	0	3	-160	-155
+117	18	H	Dallas 	2	0	0	2	5.5u05	5.5
+117	19	V	Los Angeles 	1	1	0	3	5o18	5o20
+117	20	H	Vancouver 	0	1	1	2	-180	-175
+117	21	V	Calgary 	0	1	0	1	5.5u23	5.5u40
+117	22	H	San Jose 	0	0	1	2	-200	-210
+118	51	V	Washington 	2	1	0	3	-108	5.5u35
+118	52	H	Montreal 	0	0	0	0	5.5u32	-150
+118	53	V	Buffalo 	1	1	0	2	5.5u06	5.5
+118	54	H	Chicago 	2	2	2	6	-215	-240
+118	55	V	Florida 	1	1	1	3	5o22	5o30
+118	56	H	Colorado 	0	1	2	4	-118	-120
+118	57	V	Phoenix 	1	1	0	2	5.5u22	5.5u30
+118	58	H	Anaheim 	2	2	2	6	-129	-135
+119	1	V	Nashville 	0	2	1	3	-138	-150
+119	2	H	Columbus 	0	0	0	0	5o27	5o45
+119	3	V	Minnesota 	0	0	1	1	5.5u37	5.5u50
+119	4	H	Toronto 	2	1	1	4	-160	-165
+119	5	V	Boston 	0	0	4	4	-144	-145
+119	6	H	New Jersey 	1	0	0	1	5o37	5o40
+119	7	V	Pittsburgh 	1	0	3	4	5o28	5o25
+119	8	H	NY Rangers 	0	1	0	1	-144	-140
+119	9	V	NY Islanders 	0	2	2	4	5.5o13	5.5o25
+119	10	H	Philadelphia 	0	0	1	1	-203	-200
+119	11	V	Edmonton 	0	0	0	0	5o17	5o25
+119	12	H	St. Louis 	0	0	1	1	-245	-280
+119	13	V	Buffalo 	0	1	0	1	5.5u33	5.5u45
+119	14	H	Winnipeg 	1	1	2	4	-143	-150
+119	15	V	Detroit 	0	2	0	3	-165	-160
+119	16	H	Phoenix 	1	1	0	2	5.5u18	5.5u35
+119	17	V	Ottawa 	1	2	1	4	5.5u17	5.5u20
+119	18	H	San Jose 	1	0	0	1	-165	-170
+119	19	V	Calgary 	0	1	0	2	5u07	5u25
+119	20	H	Los Angeles 	1	0	0	1	-170	-180
+120	51	V	Montreal 	2	2	0	4	5.5u35	5.5u40
+120	52	H	Pittsburgh 	1	1	2	5	-164	-165
+120	53	V	Washington 	0	0	0	0	-115	-110
+120	54	H	Carolina 	1	1	1	3	5.5u09	5.5u25
+120	55	V	Tampa Bay 	1	0	1	2	5.5o09	5.5o15
+120	56	H	Dallas 	0	0	1	1	-140	-135
+120	57	V	Florida 	0	0	1	1	5.5u15	5.5u15
+120	58	H	Chicago 	2	1	0	3	-200	-200
+121	1	V	NY Rangers 	0	2	0	3	5o28	5o30
+121	2	H	Boston 	0	2	0	2	-170	-155
+121	3	V	Philadelphia 	0	2	2	4	-106	-115
+121	4	H	New Jersey 	0	1	0	1	5.5u11	5.5u20
+121	5	V	Ottawa 	0	0	1	1	5.5o13	5.5o20
+121	6	H	Anaheim 	0	2	0	2	-108	-130
+121	7	V	San Jose 	1	1	1	3	5.5u17	5.5u25
+121	8	H	Vancouver 	1	1	2	4	-133	-155
+121	9	V	Columbus 	1	1	0	2	5.5o09	5.5
+121	10	H	Detroit 	1	1	0	3	-335	-330
+121	11	V	Carolina 	1	0	0	1	5.5u11	5.5u20
+121	12	H	NY Islanders 	0	1	0	2	-150	-150
+121	13	V	Montreal 	1	0	2	3	5.5u27	5.5u30
+121	14	H	Toronto 	1	0	0	1	-150	-160
+121	15	V	Florida 	2	0	1	4	5.5u42	5.5u50
+121	16	H	Winnipeg 	0	1	2	3	-138	-155
+121	17	V	Tampa Bay 	2	2	0	4	5.5u07	5.5
+121	18	H	Phoenix 	0	1	2	3	-164	-170
+121	19	V	Chicago 	1	0	1	2	5.5u17	5.5u20
+121	20	H	Nashville 	1	3	1	5	-106	-120
+121	21	V	Buffalo 	1	0	1	2	5o33	5o35
+121	22	H	St. Louis 	0	2	2	4	-220	-230
+121	23	V	Dallas 	1	1	0	2	5o18	5o25
+121	24	H	Minnesota 	0	4	1	5	-122	-125
+121	25	V	Calgary 	3	1	2	6	-104	-125
+121	26	H	Edmonton 	0	0	2	2	5o18	5o25
+121	27	V	Colorado 	0	2	1	3	5o13	5o15
+121	28	H	Los Angeles 	0	1	0	1	-164	-170
+122	51	V	Washington 	0	2	1	3	5.5u28	5.5u35
+122	52	H	Pittsburgh 	2	0	1	4	-165	-180
+122	53	V	Boston 	3	0	2	6	-123	-140
+122	54	H	Philadelphia 	1	3	1	5	5.5o18	5.5
+122	55	V	Colorado 	0	0	2	2	5.5u11	5.5u20
+122	56	H	Anaheim 	1	0	2	3	-150	-150
+123	1	V	Winnipeg 	0	1	0	1	5.5u20	5.5u25
+123	2	H	Carolina 	2	0	0	2	-125	-135
+123	3	V	NY Islanders 	0	0	0	0	5.5u10	5.5
+123	4	H	Toronto 	1	0	2	3	-135	-145
+123	5	V	St. Louis 	1	0	0	1	5o25	5o30
+123	6	H	Detroit 	0	2	1	3	-150	-150
+123	7	V	Columbus 	0	1	0	1	5.5u35	5.5u40
+123	8	H	Nashville 	1	1	2	4	-234	-230
+123	9	V	San Jose 	0	0	1	1	-170	-180
+123	10	H	Edmonton 	0	1	0	2	5.5u25	5.5u30
+123	11	V	Ottawa 	0	0	1	1	5.5u44	5o20
+123	12	H	Los Angeles 	1	3	0	4	-135	-145
+124	51	V	Buffalo 	1	0	0	2	5o27	5o30
+124	52	H	New Jersey 	0	1	0	1	-173	-155
+124	53	V	Toronto 	0	1	2	4	5.5u17	5.5u15
+124	54	H	NY Islanders 	1	1	1	3	-123	-125
+124	55	V	Boston 	1	2	0	3	-180	-170
+124	56	H	Washington 	0	3	2	5	5.5u32	5.5u40
+124	57	V	Winnipeg 	0	0	0	0	5.5u38	5
+124	58	H	NY Rangers 	1	1	1	3	-215	-260
+124	59	V	Columbus 	1	0	1	2	5.5o23	5.5o20
+124	60	H	Tampa Bay 	1	2	1	4	-170	-180
+124	61	V	Philadelphia 	2	0	0	3	-113	-115
+124	62	H	Florida 	1	1	0	2	5o38	5.5u25
+124	63	V	Pittsburgh 	0	2	0	3	5o28	5o25
+124	64	H	St. Louis 	0	1	1	2	-122	-120
+124	65	V	Nashville 	2	0	1	3	5.5u27	5.5u30
+124	66	H	Chicago 	0	0	1	1	-142	-150
+124	67	V	Anaheim 	0	0	0	0	5.5u22	5.5u30
+124	68	H	Dallas 	1	0	0	1	-108	-115
+124	69	V	Minnesota 	2	0	1	3	5o18	5o15
+124	70	H	Colorado 	1	1	0	2	-150	-160
+124	71	V	San Jose 	0	0	1	1	-114	-110
+124	72	H	Calgary 	0	0	0	0	5.5u42	5o25
+124	73	V	Ottawa 	0	1	1	2	5.5u17	5.5u25
+124	74	H	Phoenix 	1	1	1	3	-118	-155
+124	75	V	Edmonton 	0	1	1	2	5.5u13	5.5u15
+124	76	H	Vancouver 	1	0	1	3	-300	-330
+125	1	V	Detroit 	0	0	2	2	-154	-155
+125	2	H	Montreal 	4	2	1	7	5.5u27	5.5u40
+131	51	V	NY Islanders 	1	1	3	5	5.5u17	5.5u25
+131	52	H	Carolina 	0	0	2	2	-118	-125
+131	53	V	NY Rangers 	1	0	2	3	-119	-130
+131	54	H	New Jersey 	0	1	2	4	5o06	5
+131	55	V	Toronto 	0	2	2	4	5.5u11	5.5u15
+131	56	H	Pittsburgh 	0	1	3	5	-163	-175
+131	57	V	Ottawa 	1	2	0	3	5.5u11	5.5
+131	58	H	Boston 	1	1	2	4	-190	-200
+131	59	V	Winnipeg 	0	1	0	2	5.5o17	5.5o20
+131	60	H	Philadelphia 	1	0	0	1	-200	-200
+131	61	V	Buffalo 	0	1	2	3	5o31	5o35
+131	62	H	Montreal 	1	0	0	1	-154	-150
+131	63	V	Washington 	1	1	1	3	5.5o06	5.5
+131	64	H	Tampa Bay 	1	2	0	4	-125	-135
+131	65	V	Nashville 	0	1	4	5	-125	-140
+131	66	H	Minnesota 	2	1	1	4	5o08	5
+131	67	V	Detroit 	1	0	2	3	-145	-145
+131	68	H	Calgary 	0	1	0	1	5o38	5o40
+131	69	V	Anaheim 	0	3	1	4	5.5u22	5.5u45
+131	70	H	Phoenix 	1	0	0	1	-123	-135
+131	71	V	Colorado 	0	1	1	2	-107	-115
+131	72	H	Edmonton 	2	0	1	3	5o33	5o45
+131	73	V	Chicago 	1	0	1	2	5.5o19	5.5o15
+131	74	H	Vancouver 	1	0	1	3	-133	-140
+131	75	V	Columbus 	0	0	0	0	5.5u18	5.5u30
+131	76	H	San Jose 	2	2	2	6	-260	-270
+201	1	V	 Pittsburgh 	0	0	0	0	-115	-120
+201	2	H	Toronto 	0	0	1	1	5.5u17	5.5
+201	3	V	NY Rangers 	0	0	0	1	-138	-150
+201	4	H	Buffalo 	0	0	0	0	5o32	5o25
+201	5	V	Washington 	0	1	1	2	5o28	5o30
+201	6	H	Florida 	0	1	3	4	-128	-145
+201	7	V	Columbus 	0	1	1	2	5o17	5o20
+201	8	H	Los Angeles 	1	1	1	3	-215	-260
+201	9	V	Dallas 	3	1	2	6	5.5u34	5.5u40
+201	10	H	Anaheim 	1	1	0	2	-138	-140
+202	51	V	Carolina 	1	1	1	3	5.5u11	5.5
+202	52	H	Boston 	0	0	0	0	-255	-280
+202	53	V	Montreal 	2	1	0	3	5o17	5
+202	54	H	New Jersey 	1	1	3	5	-150	-135
+202	55	V	Nashville 	0	0	1	1	5.5u17	5.5u15
+202	56	H	Philadelphia 	1	1	2	4	-122	-140
+202	57	V	Winnipeg 	0	1	0	2	5.5o13	5.5
+202	58	H	Tampa Bay 	0	0	1	1	-149	-140
+202	59	V	Minnesota 	1	0	0	1	5o23	5o25
+202	60	H	Colorado 	0	0	0	0	-140	-140
+202	61	V	Chicago 	1	2	1	4	-160	-165
+202	62	H	Edmonton 	0	3	5	8	5.5u06	5.5o15
+202	63	V	Detroit 	1	1	1	4	5.5u10	5.5u15
+202	64	H	Vancouver 	1	0	2	3	-123	-135
+202	65	V	Dallas 	0	1	1	2	5.5u32	5.5u40
+202	66	H	San Jose 	2	2	1	5	-190	-200
+203	1	V	NY Islanders 	0	0	1	2	5.5u11	5.5
+203	2	H	Ottawa 	0	1	0	1	-153	-140
+203	3	V	Winnipeg 	0	1	0	1	5.5u32	5.5u45
+203	4	H	Florida 	1	1	0	2	-150	-160
+203	5	V	Los Angeles 	0	0	0	0	5u23	5u30
+203	6	H	St. Louis 	0	1	0	1	-153	-145
+203	7	V	Chicago 	1	0	0	1	-129	-120
+203	8	H	Calgary 	1	1	1	3	5.5u11	5.5u25
+203	9	V	Columbus 	0	1	1	3	5.5u06	5.5
+203	10	H	Anaheim 	1	1	0	2	-218	-210
+204	51	V	New Jersey 	3	3	0	6	5.5u14	5.5
+204	52	H	Philadelphia 	0	0	4	4	-160	-170
+204	53	V	Pittsburgh 	1	0	1	2	5.5u10	5.5u20
+204	54	H	Boston 	0	0	1	1	-155	-150
+204	55	V	Washington 	1	0	2	3	5o35	5o40
+204	56	H	Montreal 	0	0	0	0	-115	-120
+204	57	V	Vancouver 	1	0	1	3	-150	-155
+204	58	H	Colorado 	1	1	0	2	5.5u15	5.5u25
+204	59	V	Los Angeles 	1	0	0	1	-115	-110
+204	60	H	Carolina 	0	1	1	2	5o15	5o30
+204	61	V	Florida 	1	2	0	3	5.5	5.5u20
+204	62	H	Tampa Bay 	1	4	1	6	-135	-135
+204	63	V	Buffalo 	1	1	1	4	5.5u25	5.5u35
+204	64	H	NY Islanders 	3	0	0	3	-135	-125
+204	65	V	Toronto 	2	1	2	5	5.5o15	5.5o20
+204	66	H	Ottawa 	0	0	0	0	-130	-125
+204	67	V	San Jose 	0	2	1	3	-130	-135
+204	68	H	Phoenix 	0	3	2	5	5o26	5o30
+204	69	V	St. Louis 	0	0	1	1	5u09	5u15
+204	70	H	Nashville 	2	0	1	3	-125	-130
+204	71	V	Minnesota 	0	0	1	1	5o15	5o25
+204	72	H	Dallas 	0	1	0	2	-150	-165
+204	73	V	Detroit 	1	0	3	4	-160	-155
+204	74	H	Edmonton 	3	0	1	5	5.5	5.5o15
+205	1	V	Boston 	2	0	2	4	-139	-140
+205	2	H	Washington 	0	0	1	1	5.5u17	5.5u30
+205	3	V	Pittsburgh 	0	1	1	2	-117	-125
+205	4	H	New Jersey 	2	2	1	5	5o35	5o40
+205	5	V	Philadelphia 	0	1	1	2	5.5u37	5.5u40
+205	6	H	NY Rangers 	1	1	3	5	-133	-175
+205	7	V	Winnipeg 	0	0	0	0	5o22	5o25
+205	8	H	Montreal 	1	2	0	3	-128	-135
+206	51	V	Edmonton 	2	1	0	3	5.5o09	5.5
+206	52	H	Toronto 	2	3	1	6	-164	-165
+206	53	V	Detroit 	0	1	0	1	-135	-125
+206	54	H	Phoenix 	1	1	1	3	5.5u19	5.5u25
+206	55	V	Calgary 	0	1	1	2	5.5u35	5.5u55
+206	56	H	Anaheim 	2	0	0	3	-130	-145
+207	1	V	Minnesota 	1	0	0	1	-122	-115
+207	2	H	Columbus 	1	1	1	3	5o17	5o20
+207	3	V	NY Islanders 	0	0	0	1	5.5o13	5.5o15
+207	4	H	Philadelphia 	0	0	0	0	-177	-180
+207	5	V	New Jersey 	1	0	0	1	5o09	5o15
+207	6	H	NY Rangers 	0	0	0	0	-164	-180
+207	7	V	Florida 	0	0	0	0	5.5u37	5.5u40
+207	8	H	Washington 	2	2	0	4	-158	-150
+207	9	V	Pittsburgh 	0	0	2	2	-140	-130
+207	10	H	Montreal 	0	1	1	3	5o37	5o40
+207	11	V	Los Angeles 	1	2	0	3	5o15	-120
+207	12	H	Tampa Bay 	0	1	0	1	-113	5o30
+207	13	V	St. Louis 	2	1	0	3	-119	-125
+207	14	H	Ottawa 	0	1	0	1	5o16	5o20
+207	15	V	Vancouver 	3	0	0	4	5.5u22	-110
+207	16	H	Nashville 	1	2	0	3	-115	5.5u55
+207	17	V	Toronto 	1	0	0	1	5.5u17	5.5u20
+207	18	H	Winnipeg 	1	1	0	2	-108	-130
+207	19	V	Phoenix 	1	1	2	4	5.5u37	5.5u50
+207	20	H	Dallas 	0	1	0	1	-144	-140
+207	21	V	Chicago 	0	2	0	2	-129	-140
+207	22	H	Colorado 	0	2	3	5	5.5u11	5.5u15
+208	51	V	Edmonton 	0	1	1	2	5.5o14	5.5o20
+208	52	H	Detroit 	1	1	2	4	-225	-240
+208	53	V	Boston 	0	0	0	0	-149	-170
+208	54	H	Buffalo 	2	2	2	6	5.5u22	5.5u30
+208	55	V	Carolina 	1	0	1	2	5.5u17	5.5u20
+208	56	H	Anaheim 	0	1	1	3	-149	-155
+208	57	V	Calgary 	1	2	1	4	5o31	5o35
+208	58	H	San Jose 	0	2	1	3	-180	-180
+209	1	V	Dallas 	2	1	1	4	-119	-115
+209	2	H	Columbus 	0	2	0	2	5o26	5o45
+209	3	V	St. Louis 	1	1	1	4	-104	-110
+209	4	H	New Jersey 	1	2	0	3	5u27	5u15
+209	5	V	Winnipeg 	0	0	2	3	5o22	5o35
+209	6	H	Washington 	0	0	2	2	-167	-160
+209	7	V	Montreal 	1	1	2	4	5o37	5o40
+209	8	H	NY Islanders 	0	0	2	2	-121	-115
+209	9	V	Tampa Bay 	1	2	0	3	5.5u27	5.5u30
+209	10	H	NY Rangers 	0	2	1	4	-190	-200
+209	11	V	Toronto 	0	3	0	3	5.5o23	5.5o25
+209	12	H	Philadelphia 	1	3	0	4	-153	-145
+209	13	V	Nashville 	1	1	1	3	-119	-125
+209	14	H	Ottawa 	1	2	1	4	5o31	5o50
+209	15	V	Los Angeles 	0	0	1	1	-105	-135
+209	16	H	Florida 	0	2	1	3	5u16	5u25
+209	17	V	Vancouver 	2	1	2	5	-143	-145
+209	18	H	Minnesota 	1	0	1	2	5o37	5o35
+209	19	V	Calgary 	0	0	1	1	5o25	5o30
+209	20	H	Phoenix 	1	0	0	2	-154	-170
+210	51	V	Dallas 	1	0	1	2	5.5u37	5.5u40
+210	52	H	Buffalo 	0	0	2	3	-143	-165
+210	53	V	Anaheim 	1	0	0	1	5.5o08	5.5
+210	54	H	Detroit 	1	0	0	2	-195	-180
+210	55	V	Carolina 	2	1	0	3	5.5u37	5.5u40
+210	56	H	Colorado 	1	2	0	4	-138	-135
+210	57	V	Chicago 	0	2	1	3	5.5u06	5.5
+210	58	H	San Jose 	2	1	2	5	-138	-140
+211	1	V	Nashville 	0	1	2	3	5.5u42	5.5u45
+211	2	H	Boston 	1	0	2	4	-148	-170
+211	3	V	Los Angeles 	0	1	0	1	-114	-115
+211	4	H	NY Islanders 	1	0	0	2	5	5u25
+211	5	V	Florida 	1	1	1	3	5o28	5o35
+211	6	H	New Jersey 	1	0	0	1	-153	-155
+211	7	V	NY Rangers 	2	1	2	5	5.5u32	-110
+211	8	H	Philadelphia 	1	1	0	2	-117	5.5u35
+211	9	V	Edmonton 	0	2	1	4	5.5u06	5.5
+211	10	H	Ottawa 	1	1	1	3	-143	-155
+211	11	V	Winnipeg 	2	1	2	5	5.5u42	5.5u45
+211	12	H	Pittsburgh 	2	3	3	8	-190	-210
+211	13	V	Tampa Bay 	0	2	0	2	5.5u06	5.5o15
+211	14	H	Buffalo 	0	0	1	1	-139	-135
+211	15	V	Montreal 	0	4	1	5	5.5u27	5.5u30
+211	16	H	Toronto 	0	0	0	0	-144	-145
+211	17	V	Columbus 	1	1	1	3	5o30	5o40
+211	18	H	Minnesota 	1	0	0	1	-157	-165
+211	19	V	Colorado 	2	0	0	2	5o10	5o15
+211	20	H	St. Louis 	2	0	0	3	-193	-210
+211	21	V	Chicago 	0	0	0	0	5.5u05	5.5
+211	22	H	Phoenix 	2	1	0	3	-109	-125
+211	23	V	Vancouver 	0	1	1	2	-140	-145
+211	24	H	Calgary 	1	1	0	3	5o35	5o40
+212	51	V	Florida 	1	3	0	4	5o30	5o40
+212	52	H	NY Islanders 	1	0	0	1	-125	-145
+212	53	V	Washington 	0	1	1	2	5o16	5o20
+212	54	H	NY Rangers 	1	1	1	3	-159	-165
+212	55	V	Los Angeles 	1	1	2	4	5u20	5u35
+212	56	H	Dallas 	0	1	1	2	-118	-125
+212	57	V	Anaheim 	2	3	0	5	-140	-170
+212	58	H	Columbus 	1	1	1	3	5.5u15	5.5u25
+212	59	V	San Jose 	0	0	0	0	5	-110
+212	60	H	St. Louis 	1	1	1	3	-123	5
+212	61	V	Tampa Bay 	2	0	0	2	5.5o08	5.5o25
+212	62	H	Pittsburgh 	1	3	0	4	-190	-220
+212	63	V	Philadelphia 	1	2	0	3	5.5o18	5.5o35
+212	64	H	Detroit 	1	2	1	4	-155	-180
+213	1	V	Carolina 	1	1	3	5	5o30	5o35
+213	2	H	Montreal 	0	3	0	3	-149	-155
+213	3	V	San Jose 	1	2	2	5	-109	-130
+213	4	H	Washington 	0	1	2	3	5.5u40	5.5u40
+213	5	V	Phoenix 	0	0	1	1	5.5u30	5.5u40
+213	6	H	Vancouver 	0	1	0	2	-174	-170
+214	51	V	St. Louis 	1	0	0	1	-178	-180
+214	52	H	Columbus 	1	0	1	2	5o21	5o25
+214	53	V	Ottawa 	1	1	2	4	5.5o23	5.5o20
+214	54	H	Tampa Bay 	0	0	0	0	-123	-125
+214	55	V	NY Rangers 	2	0	1	3	5o17	5o25
+214	56	H	Boston 	0	0	0	0	-129	-125
+214	57	V	New Jersey 	1	0	3	4	5o25	5o35
+214	58	H	Buffalo 	0	1	0	1	-119	-120
+214	59	V	Dallas 	0	0	1	1	5.5u05	5.5u15
+214	60	H	Detroit 	2	0	1	3	-195	-220
+214	61	V	Anaheim 	0	0	2	2	-105	-125
+214	62	H	Minnesota 	1	0	0	1	5.5u32	5.5u45
+214	63	V	Chicago 	1	0	1	2	5.5u05	5.5u25
+214	64	H	Nashville 	1	1	1	3	-140	-125
+214	65	V	NY Islanders 	0	1	2	3	5.5u42	5.5u40
+214	66	H	Winnipeg 	1	0	0	1	-123	-140
+214	67	V	Toronto 	1	0	0	1	5.5u22	5.5u35
+214	68	H	Calgary 	2	1	2	5	-125	-120
+215	1	V	Anaheim 	0	1	1	2	5.5o14	5.5o15
+215	2	H	Pittsburgh 	1	0	0	1	-180	-200
+215	3	V	Boston 	1	2	0	4	-150	-125
+215	4	H	Montreal 	0	1	2	3	5.5u27	5.5u30
+215	5	V	Ottawa 	1	3	2	6	5.5u22	5.5u25
+215	6	H	Florida 	1	0	1	2	-140	-130
+215	7	V	Toronto 	2	0	1	4	5.5o18	-110
+215	8	H	Edmonton 	1	1	1	3	-106	5.5o20
+215	9	V	Colorado 	0	1	0	1	5.5u11	5.5u20
+215	10	H	Vancouver 	1	0	2	3	-205	-210
+216	51	V	Chicago 	4	0	0	4	5.5u30	5.5u30
+216	52	H	NY Rangers 	0	1	1	2	-160	-160
+216	53	V	Buffalo 	2	0	0	2	5.5o09	5.5o15
+216	54	H	Philadelphia 	0	4	3	7	-164	-165
+216	55	V	San Jose 	1	3	1	5	-135	-150
+216	56	H	Tampa Bay 	2	1	2	6	5.5	5.5
+216	57	V	Winnipeg 	1	1	1	4	5o09	5o25
+216	58	H	Minnesota 	1	1	1	3	-115	-120
+216	59	V	NY Islanders 	1	0	0	1	5	5
+216	60	H	St. Louis 	2	3	0	5	-190	-200
+216	61	V	Calgary 	1	0	1	2	5o15	5o30
+216	62	H	Dallas 	1	1	0	3	-125	-120
+216	63	V	Phoenix 	0	1	0	1	5u31	5u50
+216	64	H	Los Angeles 	0	0	0	0	-130	-130
+217	1	V	Anaheim 	0	1	1	2	5.5u38	5.5u50
+217	2	H	New Jersey 	0	2	0	3	-132	-130
+217	3	V	San Jose 	0	0	2	2	-122	-145
+217	4	H	Carolina 	2	0	1	3	5.5u27	5.5u20
+217	5	V	Nashville 	0	1	0	1	5.5u22	5.5u30
+217	6	H	Detroit 	1	0	1	2	-160	-155
+217	7	V	Montreal 	2	1	0	4	5o35	5o45
+217	8	H	Buffalo 	2	0	1	3	-120	-115
+217	9	V	Washington 	0	0	2	2	5o34	-110
+217	10	H	Florida 	1	0	0	1	-134	5o50
+217	11	V	Boston 	0	1	1	2	-161	-160
+217	12	H	Winnipeg 	0	2	2	4	5.5u27	5.5u40
+217	13	V	Colorado 	1	2	0	3	5.5u06	5.5u20
+217	14	H	Edmonton 	0	1	0	1	-129	-125
+218	51	V	Pittsburgh 	1	2	3	6	5.5o33	-110
+218	52	H	Philadelphia 	2	1	1	4	-111	5.5o15
+218	53	V	Chicago 	2	2	2	6	-151	-165
+218	54	H	Columbus 	1	0	0	1	5.5u05	5.5o15
+218	55	V	Minnesota 	0	0	0	0	5u14	5u30
+218	56	H	St. Louis 	1	2	1	4	-225	-230
+218	57	V	Toronto 	0	1	1	2	5.5o13	5.5
+218	58	H	Vancouver 	2	3	1	6	-180	-190
+218	59	V	Washington 	0	1	0	1	5.5o18	5.5o15
+218	60	H	Tampa Bay 	1	1	0	2	-122	-115
+218	61	V	Carolina 	1	2	0	3	5.5u17	5.5u20
+218	62	H	NY Islanders 	1	2	1	4	-139	-135
+218	63	V	Dallas 	0	1	0	1	5o21	5o35
+218	64	H	Phoenix 	1	0	0	2	-154	-155
+218	65	V	Calgary 	0	0	1	1	5u45	5u50
+218	66	H	Los Angeles 	0	0	0	0	-145	-145
+219	1	V	San Jose 	0	1	1	2	5.5u17	5.5u15
+219	2	H	Detroit 	1	1	1	3	-144	-160
+219	3	V	Pittsburgh 	0	1	1	2	-130	-130
+219	4	H	Buffalo 	2	1	3	6	5.5u22	5.5u25
+219	5	V	Boston 	0	0	0	0	-170	-210
+219	6	H	Minnesota 	0	2	0	2	5o35	5o20
+219	7	V	St. Louis 	1	0	0	1	5.5u47	5.5u40
+219	8	H	Chicago 	0	0	3	3	-108	-125
+219	9	V	New Jersey 	1	1	1	3	5o15	-115
+219	10	H	Montreal 	0	0	1	1	-108	5o30
+219	11	V	Anaheim 	1	0	1	2	5o26	-115
+219	12	H	Florida 	0	0	0	0	-113	5o25
+219	13	V	Nashville 	2	1	0	3	-113	-135
+219	14	H	Dallas 	1	0	1	2	5o37	5o35
+219	15	V	Columbus 	0	1	1	2	5.5u37	5.5u40
+219	16	H	NY Rangers 	1	1	0	3	-250	-330
+219	17	V	Colorado 	0	1	0	1	5.5u42	5.5u50
+219	18	H	Winnipeg 	0	3	2	5	-129	-140
+219	19	V	Vancouver 	2	2	1	5	-154	-155
+219	20	H	Edmonton 	0	2	0	2	5.5u06	5.5o15
+220	51	V	Ottawa 	3	1	2	6	5.5u25	-110
+220	52	H	NY Islanders 	0	0	0	0	-115	5.5u20
+220	53	V	Washington 	0	0	0	0	-113	-135
+220	54	H	Carolina 	3	1	1	5	5.5u17	5.5u35
+221	1	V	New Jersey 	2	1	0	4	-104	-110
+221	2	H	Toronto 	1	1	1	3	5.5u27	5.5u20
+221	3	V	NY Rangers 	0	0	0	0	5o36	5o25
+221	4	H	Pittsburgh 	0	2	0	2	-107	-130
+221	5	V	NY Islanders 	0	0	1	1	5.5u27	5.5u35
+221	6	H	Buffalo 	1	1	0	2	-133	-180
+221	7	V	Philadelphia 	1	2	1	5	-118	-125
+221	8	H	Winnipeg 	1	2	1	4	5.5o13	5.5o20
+221	9	V	San Jose 	0	2	1	3	-163	-180
+221	10	H	Columbus 	4	1	1	6	5.5u22	5.5u25
+221	11	V	Anaheim 	0	2	0	2	-104	-125
+221	12	H	Tampa Bay 	2	1	0	3	5.5u11	5.5u15
+221	13	V	Dallas 	1	0	2	3	5o22	5o35
+221	14	H	Montreal 	0	0	0	0	-138	-145
+221	15	V	Vancouver 	0	1	0	1	-104	-115
+221	16	H	Nashville 	0	2	1	3	5.5u32	5.5u50
+221	17	V	Detroit 	1	0	0	1	5.5u10	5.5u15
+221	18	H	Chicago 	0	1	1	2	-113	-115
+221	19	V	Edmonton 	1	4	1	6	5.5u37	5.5u40
+221	20	H	Calgary 	1	0	0	1	-162	-170
+221	21	V	Los Angeles 	3	1	0	4	5u46	5u55
+221	22	H	Phoenix 	0	3	1	5	-128	-115
+222	51	V	Washington 	0	0	2	2	5.5u20	5.5u30
+222	52	H	Ottawa 	2	2	1	5	-155	-150
+222	53	V	Boston 	3	0	1	4	5o20	5o20
+222	54	H	St. Louis 	2	0	0	2	-130	-115
+222	55	V	Los Angeles 	0	0	1	1	-115	-110
+222	56	H	Colorado 	3	1	0	4	5u50	5u25
+223	1	V	Anaheim 	1	0	1	3	-120	-130
+223	2	H	Carolina 	1	1	0	2	5.5u27	5.5u35
+223	3	V	San Jose 	0	2	0	2	-125	-125
+223	4	H	Toronto 	0	0	1	1	5.5	5.5
+223	5	V	Vancouver 	0	1	2	4	5.5u20	5.5u30
+223	6	H	Detroit 	1	0	2	3	-140	-125
+223	7	V	Minnesota 	0	1	1	3	5	5u20
+223	8	H	Florida 	0	1	1	2	-155	-155
+223	9	V	St. Louis 	1	1	0	3	5u15	5u30
+223	10	H	Nashville 	0	2	0	2	-125	-130
+223	11	V	Tampa Bay 	0	0	3	3	5.5u15	5.5u20
+223	12	H	Winnipeg 	2	2	0	4	-150	-155
+223	13	V	Dallas 	0	0	3	3	5.5u17	5.5u20
+223	14	H	Chicago 	0	1	0	1	-185	-200
+223	15	V	Phoenix 	0	2	1	4	5	5u15
+223	16	H	Calgary 	2	0	1	3	-120	-115
+223	17	V	Philadelphia 	0	0	0	0	-145	-145
+223	18	H	Edmonton 	0	2	0	2	5.5o45	5.5o50
+224	51	V	NY Rangers 	1	2	0	3	-150	-160
+224	52	H	NY Islanders 	2	1	0	4	5o20	5o25
+224	53	V	Montreal 	0	0	1	1	5o25	5o35
+224	54	H	Washington 	1	2	1	4	-110	-135
+224	55	V	Colorado 	1	1	3	5	-110	-130
+224	56	H	Columbus 	0	0	0	0	5.5u30	5.5u30
+224	57	V	Vancouver 	1	1	0	2	-110	5.5u40
+224	58	H	New Jersey 	0	1	0	1	5.5u35	-115
+224	59	V	Boston 	0	0	1	1	-145	-145
+224	60	H	Buffalo 	0	1	0	2	5.5u30	5.5u35
+224	61	V	Minnesota 	0	0	1	1	5o20	5
+224	62	H	Dallas 	2	1	1	4	-160	-165
+225	1	V	Tampa Bay 	0	1	0	1	5.5o28	5.5o35
+225	2	H	Pittsburgh 	3	2	3	8	-225	-260
+225	3	V	St. Louis 	2	0	0	3	-122	-130
+225	4	H	Winnipeg 	0	2	0	2	5o20	5o30
+225	5	V	Phoenix 	2	0	1	3	-125	-110
+225	6	H	Edmonton 	0	0	1	1	5.5u32	5.5u35
+225	7	V	Colorado 	2	1	1	4	5.5u17	5.5u30
+225	8	H	Detroit 	0	0	3	3	-235	-250
+225	9	V	Florida 	0	0	2	3	5o25	5o35
+225	10	H	Carolina 	1	1	0	2	-123	-115
+225	11	V	Washington 	2	2	0	4	5.5u11	5.5u25
+225	12	H	Toronto 	0	0	2	2	-135	-165
+225	13	V	Buffalo 	1	0	1	2	5o15	5o20
+225	14	H	NY Rangers 	0	1	1	3	-190	-220
+225	15	V	Boston 	2	1	2	5	-119	-120
+225	16	H	Ottawa 	1	0	2	3	5.5u11	5.5u15
+225	17	V	San Jose 	1	1	0	2	5o35	5o40
+225	18	H	Nashville 	3	1	2	6	-130	-115
+225	19	V	Chicago 	0	0	0	0	5o15	5o15
+225	20	H	Los Angeles 	2	2	0	4	-109	-130
+225	21	V	Philadelphia 	0	2	2	5	-118	-130
+225	22	H	Calgary 	2	1	1	4	5.5u11	5.5u20
+226	51	V	Tampa Bay 	0	2	2	4	5.5u17	5.5u20
+226	52	H	New Jersey 	1	0	2	3	-216	-240
+226	53	V	Columbus 	0	1	1	2	5.5o08	5.5
+226	54	H	Pittsburgh 	0	1	3	4	-280	-300
+226	55	V	Vancouver 	0	2	0	2	-133	-165
+226	56	H	Dallas 	0	1	1	3	5o35	5o40
+226	57	V	Montreal 	2	0	0	2	5o15	5o30
+226	58	H	Florida 	1	2	1	4	-114	-130
+226	59	V	NY Islanders 	1	0	1	2	5.5u11	5.5u15
+226	60	H	Ottawa 	0	2	3	5	-153	-140
+226	61	V	San Jose 	2	0	1	3	-144	-145
+226	62	H	Minnesota 	1	1	2	4	5o20	5o30
+226	63	V	Chicago 	1	0	0	1	5.5u11	5.5u25
+226	64	H	Anaheim 	1	1	1	3	-115	-155
+227	1	V	New Jersey 	0	0	0	0	5	5u15
+227	2	H	NY Rangers 	1	0	1	2	-160	-180
+227	3	V	Los Angeles 	0	0	1	1	5u30	5u40
+227	4	H	Nashville 	1	1	0	2	-139	-145
+227	5	V	Edmonton 	0	1	4	5	5.5u17	5.5u15
+227	6	H	Winnipeg 	0	2	1	3	-153	-160
+227	7	V	St. Louis 	2	1	0	3	-129	-125
+227	8	H	Calgary 	1	0	0	1	5u20	5u25
+227	9	V	Anaheim 	0	1	0	1	5.5u27	5.5u25
+227	10	H	Colorado 	1	0	3	4	-122	-120
+228	51	V	Florida 	2	1	2	5	5.5u17	5.5u35
+228	52	H	Toronto 	0	1	2	3	-132	-135
+228	53	V	NY Islanders 	1	0	1	2	5.5u32	5.5u40
+228	54	H	Washington 	0	0	2	3	-158	-155
+228	55	V	Ottawa 	1	0	0	1	5.5u06	5.5
+228	56	H	Boston 	0	0	0	0	-190	-200
+228	57	V	Detroit 	1	0	4	5	-185	-180
+228	58	H	Columbus 	1	0	1	2	5.5u17	5.5u20
+228	59	V	Nashville 	1	1	1	3	-125	-120
+228	60	H	Carolina 	0	3	1	4	5o40	5o55
+228	61	V	Los Angeles 	3	1	0	4	-115	-120
+228	62	H	Minnesota 	0	0	0	0	5u25	5u45
+228	63	V	Montreal 	1	0	0	1	5.5u11	-110
+228	64	H	Tampa Bay 	1	1	0	2	-114	5.5u15
+228	65	V	Vancouver 	1	0	0	1	-115	-135
+228	66	H	Phoenix 	0	0	1	2	5o35	5o40
+228	67	V	Philadelphia 	0	0	0	0	5.5o18	5.5o30
+228	68	H	San Jose 	1	0	0	1	-130	-130
+229	1	V	Pittsburgh 	1	0	2	4	-127	-135
+229	2	H	Dallas 	1	1	1	3	5.5u17	5.5u30
+229	3	V	Toronto 	3	0	1	4	5.5o23	5.5o30
+229	4	H	Chicago 	2	2	1	5	-173	-170
+229	5	V	Buffalo 	1	1	0	2	5.5u37	5.5u50
+229	6	H	Anaheim 	0	0	0	0	-150	-150
+229	7	V	St. Louis 	1	2	2	5	-138	-135
+229	8	H	Edmonton 	0	2	0	2	5o20	5o35
+301	51	V	 Minnesota 	1	0	3	4	5u05	5
+301	52	H	Montreal 	2	1	1	5	-140	-140
+301	53	V	NY Islanders 	1	1	1	3	5.5o14	5.5o20
+301	54	H	Philadelphia 	2	2	2	6	-180	-180
+301	55	V	New Jersey 	0	3	0	3	5o30	5o45
+301	56	H	Boston 	2	0	1	4	-170	-165
+301	57	V	NY Rangers 	0	2	1	3	-145	-140
+301	58	H	Carolina 	0	1	1	2	5o14	5o30
+301	59	V	Florida 	0	0	0	0	5.5u39	5o40
+301	60	H	Winnipeg 	2	0	5	7	-125	-140
+301	61	V	Columbus 	1	1	0	2	5.5u19	5.5u25
+301	62	H	Colorado 	0	0	0	0	-190	-230
+301	63	V	Calgary 	3	0	1	4	5o05	5
+301	64	H	Phoenix 	0	2	0	2	-165	-165
+301	65	V	St. Louis 	0	0	0	0	5o14	5u15
+301	66	H	Vancouver 	0	0	2	2	-160	-165
+301	67	V	Buffalo 	1	0	0	1	5.5u32	5.5u35
+301	68	H	San Jose 	0	0	0	0	-180	-180
+302	1	V	Chicago 	0	2	0	2	5.5o15	5.5o20
+302	2	H	Ottawa 	1	0	0	1	-130	-135
+302	3	V	New Jersey 	3	2	0	5	5o35	5o40
+302	4	H	Washington 	0	0	0	0	-125	-135
+302	5	V	NY Rangers 	1	1	1	3	-145	-145
+302	6	H	Tampa Bay 	0	1	2	4	5.5u25	5.5u45
+302	7	V	Minnesota 	0	0	0	0	5.5u40	5.5u50
+302	8	H	Detroit 	2	3	1	6	-235	-270
+302	9	V	Dallas 	0	2	1	3	5.5u10	-110
+302	10	H	Edmonton 	0	0	1	1	-105	5.5u15
+302	11	V	Calgary 	1	0	1	2	5.5u40	5.5u25
+302	12	H	Anaheim 	1	1	1	3	-180	-180
+303	51	V	NY Islanders 	1	1	1	3	5.5u20	5.5u20
+303	52	H	Boston 	1	0	1	2	-220	-240
+303	53	V	Toronto 	0	1	2	3	5.5u25	-110
+303	54	H	Montreal 	1	0	0	1	-130	5.5u30
+303	55	V	Tampa Bay 	1	1	1	4	5.5u10	5.5
+303	56	H	Carolina 	0	3	0	3	-135	-165
+303	57	V	Nashville 	1	1	1	3	-115	-145
+303	58	H	Florida 	0	1	0	1	5o15	5o35
+303	59	V	Columbus 	1	1	3	5	5.5u20	5.5u35
+303	60	H	Phoenix 	0	2	0	2	-230	-240
+303	61	V	Pittsburgh 	2	2	1	5	-130	-130
+303	62	H	Colorado 	0	0	1	1	5.5u20	5.5u25
+303	63	V	Buffalo 	3	0	2	5	5o30	5o35
+303	64	H	Vancouver 	0	1	2	3	-195	-210
+303	65	V	St. Louis 	2	1	0	3	5	5u15
+303	66	H	San Jose 	1	0	0	1	-115	-120
+303	67	V	Anaheim 	1	1	0	2	5.5u35	5u25
+303	68	H	Los Angeles 	1	2	1	4	-140	-145
+304	1	V	Boston 	1	1	1	3	5o15	5o20
+304	2	H	NY Rangers 	2	0	2	4	-139	-140
+304	3	V	New Jersey 	0	0	0	0	-133	-150
+304	4	H	NY Islanders 	0	1	0	1	5o35	5o40
+304	5	V	Chicago 	1	1	0	2	5.5u06	5.5u20
+304	6	H	Detroit 	1	0	0	1	-164	-145
+304	7	V	Dallas 	0	2	0	3	5o15	-110
+304	8	H	Calgary 	0	1	1	2	-117	5o20
+304	9	V	Ottawa 	2	0	0	2	-114	-120
+304	10	H	Florida 	0	3	1	4	5.5u27	5.5u30
+304	11	V	Philadelphia 	0	1	0	1	-123	-120
+304	12	H	Washington 	0	0	0	0	5.5o23	5.5o15
+304	13	V	Colorado 	2	0	0	2	-109	-115
+304	14	H	Minnesota 	0	0	0	0	5o20	5o15
+305	51	V	Phoenix 	0	0	1	1	5.5u15	5.5u30
+305	52	H	Pittsburgh 	2	0	0	2	-160	-170
+305	53	V	Buffalo 	0	1	0	1	5o35	5o45
+305	54	H	Winnipeg 	1	0	2	3	-125	-125
+305	55	V	Edmonton 	0	1	1	2	5.5u15	5.5u20
+305	56	H	Anaheim 	1	0	3	4	-164	-175
+306	1	V	Phoenix 	1	1	0	2	-154	-135
+306	2	H	Columbus 	2	1	0	3	5.5u22	5.5u30
+306	3	V	Detroit 	1	0	1	2	5.5o33	5.5o20
+306	4	H	Philadelphia 	2	1	0	3	-142	-135
+306	5	V	Carolina 	0	2	1	4	5.5u22	5.5u30
+306	6	H	Washington 	1	1	1	3	-144	-145
+306	7	V	NY Rangers 	0	1	0	1	-108	-120
+306	8	H	New Jersey 	1	0	3	4	5u20	5u15
+306	9	V	Boston 	1	4	0	5	-150	-140
+306	10	H	Toronto 	1	2	1	4	5.5o13	5.5
+306	11	V	Ottawa 	3	1	3	7	5.5o23	-125
+306	12	H	Tampa Bay 	0	2	1	3	-114	5.5o20
+306	13	V	Chicago 	0	0	1	1	5o10	5o15
+306	14	H	St. Louis 	2	1	2	5	-144	-155
+306	15	V	Los Angeles 	2	1	2	5	5u25	5u40
+306	16	H	Nashville 	1	2	1	4	-139	-140
+306	17	V	Minnesota 	0	0	1	1	5u09	5u15
+306	18	H	Colorado 	1	4	2	7	-170	-180
+306	19	V	Montreal 	1	1	2	4	5	5u15
+306	20	H	Calgary 	2	2	1	5	-139	-150
+306	21	V	Dallas 	0	2	3	5	5o30	5o40
+306	22	H	Vancouver 	0	1	1	2	-178	-220
+306	23	V	Edmonton 	1	1	0	3	5.5u17	5.5u15
+306	24	H	San Jose 	1	1	0	2	-190	-240
+307	51	V	Carolina 	1	1	0	2	5.5u27	5.5u30
+307	52	H	Buffalo 	0	2	0	3	-163	-175
+307	53	V	Toronto 	0	2	0	2	5.5o32	5.5o25
+307	54	H	Pittsburgh 	0	1	2	3	-195	-210
+308	1	V	NY Islanders 	0	1	0	1	153	5o15
+308	2	H	New Jersey 	1	1	3	5	5o15	-165
+308	3	V	Tampa Bay 	0	2	0	2	5o30	5.5u15
+308	4	H	Washington 	1	0	1	3	-139	-165
+308	5	V	Florida 	0	0	0	0	135	5.5o15
+308	6	H	Philadelphia 	1	2	2	5	5.5u27	-155
+308	7	V	Buffalo 	1	0	0	1	5.5u42	5.5u35
+308	8	H	Boston 	0	1	2	3	-190	-220
+308	9	V	Los Angeles 	1	0	0	1	-133	-160
+308	10	H	Columbus 	2	1	0	3	5	5u15
+308	11	V	NY Rangers 	1	0	0	1	-125	-115
+308	12	H	Ottawa 	2	0	2	4	5o15	5o35
+308	13	V	Anaheim 	0	1	0	1	5	5
+308	14	H	St. Louis 	0	1	2	3	-176	-165
+308	15	V	Colorado 	1	0	1	2	5.5u37	5.5u45
+308	16	H	Nashville 	2	1	1	4	-154	-170
+308	17	V	San Jose 	0	1	2	3	-104	-120
+308	18	H	Dallas 	0	1	2	4	5o35	5o40
+308	19	V	Minnesota 	2	0	0	3	5	5
+308	20	H	Phoenix 	0	0	2	2	-200	-230
+308	21	V	Montreal 	1	2	2	5	5.5u17	5.5u35
+308	22	H	Edmonton 	1	1	1	3	-130	-145
+308	23	V	Winnipeg 	0	1	1	2	5.5u32	5.5u25
+308	24	H	Vancouver 	0	1	2	3	-190	-200
+309	51	V	Florida 	0	1	0	1	5.5u22	5.5u30
+309	52	H	Pittsburgh 	0	0	1	2	-204	-235
+309	53	V	Los Angeles 	2	0	1	3	5.5u47	5o20
+309	54	H	Detroit 	1	1	2	4	-147	-150
+309	55	V	NY Rangers 	1	0	2	3	5o20	5o20
+309	56	H	Chicago 	0	1	3	4	-114	-115
+309	57	V	Winnipeg 	2	0	1	3	5o25	5o40
+309	58	H	Calgary 	3	1	1	5	-127	-135
+310	1	V	Washington 	2	2	0	4	5.5u17	5.5u40
+310	2	H	Boston 	1	1	1	3	-190	-200
+310	3	V	Edmonton 	1	0	1	2	5.5u11	5.5u20
+310	4	H	Colorado 	0	2	0	3	-158	-160
+310	5	V	New Jersey 	0	0	2	2	-123	-135
+310	6	H	NY Islanders 	0	0	1	1	5o15	5o15
+310	7	V	Philadelphia 	0	0	0	1	-134	-115
+310	8	H	Toronto 	0	0	0	0	5.5o33	5.5o30
+310	9	V	Carolina 	2	0	2	4	5.5o33	5.5o20
+310	10	H	Tampa Bay 	2	0	0	2	-118	-120
+310	11	V	Buffalo 	0	2	1	4	5.5u37	5.5u40
+310	12	H	Ottawa 	1	1	1	3	-139	-150
+310	13	V	Columbus 	0	1	0	1	5o09	5o20
+310	14	H	St. Louis 	1	2	1	4	-225	-250
+310	15	V	Detroit 	1	0	1	2	5o35	5o35
+310	16	H	Nashville 	2	0	1	3	-130	-150
+310	17	V	San Jose 	0	0	0	0	5o20	-110
+310	18	H	Phoenix 	0	2	1	3	-108	5o25
+310	19	V	Anaheim 	0	0	0	0	5o30	5o35
+310	20	H	Dallas 	0	1	1	2	-133	-125
+310	21	V	Montreal 	0	1	3	4	5.5u27	5.5u40
+310	22	H	Vancouver 	0	1	0	1	-235	-250
+311	51	V	Carolina 	0	0	0	0	5.5u33	5.5u40
+311	52	H	Florida 	0	1	1	2	-148	-155
+311	53	V	Toronto 	0	0	0	0	5.5u06	5.5u15
+311	54	H	Washington 	1	0	1	2	-144	-145
+311	55	V	Calgary 	1	0	3	4	-129	-140
+311	56	H	Minnesota 	0	0	3	3	5o15	5o20
+311	57	V	St. Louis 	0	1	1	2	-173	-180
+311	58	H	Columbus 	0	1	0	1	5o09	5o30
+311	59	V	Los Angeles 	1	1	0	3	5o15	5
+311	60	H	Chicago 	0	1	1	2	-138	-125
+311	61	V	Philadelphia 	0	0	1	1	5.5u11	5.5u30
+311	62	H	New Jersey 	1	0	3	4	-120	-150
+311	63	V	NY Islanders 	1	2	0	3	5o20	5o20
+311	64	H	NY Rangers 	1	1	1	4	-200	-220
+311	65	V	Boston 	0	2	0	2	5.5u10	5.5u15
+311	66	H	Pittsburgh 	3	1	1	5	-150	-150
+312	1	V	Montreal 	1	0	1	2	5o25	5o35
+312	2	H	Buffalo 	0	1	1	3	-155	-160
+312	3	V	Anaheim 	0	1	1	2	5o30	5o30
+312	4	H	Colorado 	1	0	1	3	-120	-130
+312	5	V	San Jose 	1	1	1	3	-135	-140
+312	6	H	Edmonton 	1	1	0	2	5.5u20	5.5u20
+312	7	V	Nashville 	1	2	1	5	5o15	5o20
+312	8	H	Phoenix 	0	2	2	4	-110	-115
+313	51	V	Washington 	0	2	2	5	-118	-125
+313	52	H	NY Islanders 	2	2	0	4	5.5u27	5.5u35
+313	53	V	New Jersey 	0	0	0	0	5.5u27	5.5u45
+313	54	H	Philadelphia 	0	1	2	3	-128	-125
+313	55	V	Boston 	0	0	1	1	-159	-140
+313	56	H	Tampa Bay 	4	1	1	6	5.5o33	5.5o15
+313	57	V	Toronto 	0	1	1	2	5o35	5o40
+313	58	H	Florida 	1	1	3	5	-160	-135
+313	59	V	Carolina 	0	2	0	2	5o20	5o20
+313	60	H	NY Rangers 	1	2	1	4	-200	-180
+313	61	V	Dallas 	0	0	1	1	-160	-165
+313	62	H	Minnesota 	0	0	0	0	5o30	5o30
+313	63	V	St. Louis 	3	0	0	3	-114	-130
+313	64	H	Chicago 	1	1	1	4	5o15	5o20
+313	65	V	San Jose 	1	0	1	2	5o25	-115
+313	66	H	Calgary 	0	2	0	3	-123	5o30
+313	67	V	Detroit 	0	1	1	2	5o09	5o15
+313	68	H	Los Angeles 	2	1	2	5	-123	-130
+314	1	V	Colorado 	2	1	1	5	5o40	5o35
+314	2	H	Buffalo 	2	1	1	4	-150	-145
+314	3	V	Ottawa 	1	0	1	2	-130	-130
+314	4	H	Montreal 	1	0	1	3	5.5u30	5.5u30
+314	5	V	Dallas 	0	1	1	2	-110	5.5u30
+314	6	H	Winnipeg 	1	4	0	5	5.5u30	-130
+314	7	V	Phoenix 	2	2	1	5	5o40	5o35
+314	8	H	Vancouver 	2	1	1	4	-180	-180
+314	9	V	Columbus 	0	0	0	0	5.5o15	5.5u20
+314	10	H	Edmonton 	0	2	1	3	-160	-160
+314	11	V	Detroit 	0	0	0	0	5o35	5o40
+314	12	H	Anaheim 	0	3	1	4	-114	-115
+315	51	V	St. Louis 	0	0	0	0	-148	-155
+315	52	H	Carolina 	0	0	2	2	5o15	5o15
+315	53	V	Colorado 	0	0	0	0	5o30	5o25
+315	54	H	New Jersey 	0	0	0	1	-160	-170
+315	55	V	Pittsburgh 	1	2	2	5	5.5u30	-135
+315	56	H	NY Rangers 	1	1	0	2	-105	5.5u45
+315	57	V	Philadelphia 	2	1	0	3	-138	-140
+315	58	H	NY Islanders 	0	0	2	2	5.5u11	5.5u15
+315	59	V	Boston 	0	1	1	2	-123	-130
+315	60	H	Florida 	1	3	2	6	5o30	5o30
+315	61	V	Toronto 	1	2	0	3	5.5o28	5.5o25
+315	62	H	Tampa Bay 	0	0	1	1	-133	-130
+315	63	V	Phoenix 	0	1	0	1	5o15	5o30
+315	64	H	Calgary 	1	2	1	4	-128	-130
+315	65	V	Nashville 	1	0	0	1	5o35	5o50
+315	66	H	San Jose 	0	0	1	2	-118	-140
+316	1	V	Montreal 	1	0	0	1	5.5u25	5.5u30
+316	2	H	Ottawa 	0	0	1	2	-175	-170
+316	3	V	Washington 	1	0	1	2	5.5u15	5.5u30
+316	4	H	Winnipeg 	1	1	1	3	-120	-130
+316	5	V	Chicago 	2	0	2	4	5.5u15	5.5u20
+316	6	H	Dallas 	0	0	1	1	-130	-125
+316	7	V	Calgary 	0	1	0	1	-104	5.5u30
+316	8	H	Edmonton 	2	0	1	3	5.5u20	-130
+316	9	V	Los Angeles 	3	0	1	4	5u10	-110
+316	10	H	Anaheim 	0	1	1	2	-120	5u15
+317	51	V	Pittsburgh 	1	3	1	5	-135	-140
+317	52	H	New Jersey 	1	0	1	2	5.5u30	5.5u50
+317	53	V	Philadelphia 	0	1	1	2	5.5	5.5u15
+317	54	H	Boston 	2	0	0	3	-135	-135
+317	55	V	Carolina 	1	1	3	5	-110	-115
+317	56	H	Minnesota 	1	2	0	3	5o14	5o30
+317	57	V	NY Islanders 	0	2	0	3	5o24	-110
+317	58	H	Montreal 	1	0	1	2	-120	5o45
+317	59	V	Toronto 	0	1	2	3	5.5	5.5
+317	60	H	Ottawa 	0	0	1	1	-155	-155
+317	61	V	Colorado 	1	1	1	3	5o25	5o15
+317	62	H	NY Rangers 	1	0	0	1	-180	-170
+317	63	V	St. Louis 	2	1	0	3	-145	-165
+317	64	H	Tampa Bay 	0	0	1	1	5.5u25	5.5u45
+317	65	V	Buffalo 	1	1	0	2	5o15	5o20
+317	66	H	Florida 	2	0	0	3	-125	-130
+317	67	V	Columbus 	1	1	1	3	5.5u15	5.5u15
+317	68	H	Vancouver 	2	1	1	4	-265	-280
+317	69	V	Detroit 	1	0	1	2	5o35	5o35
+317	70	H	San Jose 	2	0	0	3	-135	-140
+317	71	V	Nashville 	0	1	1	2	5u10	5u30
+317	72	H	Los Angeles 	1	0	3	4	-120	-120
+318	1	V	Pittsburgh 	1	1	0	2	-130	-140
+318	2	H	Philadelphia 	0	0	2	3	5.5o20	5.5o25
+318	3	V	Washington 	0	2	0	2	5.5u25	5.5u25
+318	4	H	Chicago 	2	2	1	5	-155	-155
+318	5	V	Columbus 	1	0	0	2	5.5u30	5.5u20
+318	6	H	Calgary 	0	0	1	1	-210	-210
+318	7	V	Phoenix 	0	0	2	3	-120	-135
+318	8	H	Edmonton 	0	2	0	2	5.5u35	5.5u40
+318	9	V	Nashville 	0	0	3	3	5o35	5o25
+318	10	H	Anaheim 	1	0	0	1	-120	-120
+318	11	V	Carolina 	1	1	2	4	5.5u35	5.5u35
+318	12	H	Winnipeg 	1	2	0	3	-160	-200
+319	51	V	Toronto 	0	0	0	0	5.5u10	5.5u15
+319	52	H	Boston 	4	3	1	8	-190	-220
+319	53	V	New Jersey 	0	2	0	2	5	5u25
+319	54	H	NY Rangers 	1	2	1	4	-145	-140
+319	55	V	Buffalo 	2	4	1	7	-110	-120
+319	56	H	Tampa Bay 	0	2	1	3	5.5u15	5.5u20
+319	57	V	Washington 	3	1	1	5	5.5u20	5.5u50
+319	58	H	Detroit 	0	1	2	3	-165	-180
+319	59	V	Vancouver 	0	0	0	0	-190	-210
+319	60	H	Minnesota 	1	0	1	2	5o30	5o35
+319	61	V	Anaheim 	2	3	0	5	5o20	5o30
+319	62	H	San Jose 	2	1	0	3	-165	-230
+320	1	V	Chicago 	3	0	2	5	-160	-190
+320	2	H	Columbus 	0	0	1	1	5.5u10	5.5u15
+320	3	V	Florida 	1	1	0	2	5.5u15	5.5u20
+320	4	H	Philadelphia 	0	1	0	1	-160	-155
+320	5	V	Winnipeg 	2	2	0	4	5.5	5.5
+320	6	H	Pittsburgh 	2	4	2	8	-236	-250
+320	7	V	NY Islanders 	1	1	3	5	5.5u10	-110
+320	8	H	Toronto 	1	1	0	2	-130	5.5u20
+320	9	V	New Jersey 	0	1	0	1	5.5u25	5.5u40
+320	10	H	Ottawa 	0	0	0	0	-125	-130
+320	11	V	Edmonton 	2	3	1	6	5.5u25	5.5u30
+320	12	H	Nashville 	1	1	1	3	-205	-220
+320	13	V	Phoenix 	1	0	2	3	5o15	5o25
+320	14	H	Dallas 	1	2	0	4	-125	-130
+320	15	V	Calgary 	1	0	0	1	5o10	5o15
+320	16	H	Colorado 	1	0	0	2	-135	-145
+320	17	V	San Jose 	1	0	1	2	5u10	5u20
+320	18	H	Los Angeles 	1	1	3	5	-130	-150
+321	51	V	Florida 	0	1	0	1	5o20	5o40
+321	52	H	Carolina 	1	1	1	3	-115	-135
+321	53	V	Montreal 	0	0	0	0	5o20	5o20
+321	54	H	Buffalo 	1	1	1	3	-165	-170
+321	55	V	Detroit 	1	0	0	1	5o20	5o20
+321	56	H	NY Rangers 	1	0	0	2	-144	-145
+321	57	V	Vancouver 	1	0	0	1	-104	5.5u20
+321	58	H	Chicago 	0	1	0	2	5.5u17	-115
+321	59	V	St. Louis 	2	0	1	3	-128	-120
+321	60	H	Anaheim 	1	1	2	4	5u15	5u25
+322	1	V	Nashville 	0	1	0	1	5.5u15	5.5
+322	2	H	Pittsburgh 	2	2	1	5	-173	-175
+322	3	V	Washington 	1	0	0	1	5.5u19	5.5u20
+322	4	H	Philadelphia 	0	1	0	2	-153	-165
+322	5	V	Edmonton 	0	1	1	2	5.5o22	5.5o15
+322	6	H	Tampa Bay 	0	2	0	3	-118	-115
+322	7	V	Calgary 	1	1	0	2	-129	-120
+322	8	H	Minnesota 	0	1	1	3	5o09	5
+322	9	V	Vancouver 	1	0	1	2	-122	5o45
+322	10	H	Dallas 	0	0	1	1	5o40	-125
+322	11	V	Colorado 	0	0	2	2	5o09	5o15
+322	12	H	Phoenix 	2	1	0	3	-125	-130
+322	13	V	Boston 	0	0	1	1	5.5u32	-115
+322	14	H	San Jose 	1	0	1	2	-114	5.5u30
+322	15	V	St. Louis 	0	0	0	0	5u25	5u45
+322	16	H	Los Angeles 	0	0	0	1	-114	-140
+323	51	V	Toronto 	0	2	1	4	5.5u32	5.5u45
+323	52	H	New Jersey 	0	1	2	3	-174	-200
+323	53	V	Winnipeg 	0	2	1	4	5.5u27	5.5u30
+323	54	H	Washington 	1	2	0	3	-143	-125
+323	55	V	Buffalo 	0	2	2	4	5	5
+323	56	H	NY Rangers 	0	1	0	1	-160	-160
+323	57	V	Carolina 	0	1	0	1	-134	-150
+323	58	H	Columbus 	1	2	2	5	5.5u27	5.5u25
+323	59	V	Ottawa 	1	0	0	1	-129	-130
+323	60	H	Montreal 	4	0	1	5	5o35	5o40
+323	61	V	Edmonton 	0	1	0	2	5.5u37	5.5u45
+323	62	H	Florida 	0	1	0	1	-163	-180
+324	1	V	Calgary 	1	0	0	1	5o09	5o25
+324	2	H	Dallas 	2	0	2	4	-145	-140
+324	3	V	Minnesota 	1	0	0	1	5o09	5o25
+324	4	H	Buffalo 	0	1	2	3	-215	-230
+324	5	V	Montreal 	0	1	0	1	5.5u11	5.5
+324	6	H	Philadelphia 	1	2	1	4	-225	-260
+324	7	V	Carolina 	1	3	0	4	5.5u30	5.5u15
+324	8	H	Detroit 	0	3	2	5	-175	-190
+324	9	V	Winnipeg 	0	0	1	1	5.5u27	5.5u30
+324	10	H	Nashville 	0	2	1	3	-190	-200
+324	11	V	NY Rangers 	1	1	1	4	-154	-150
+324	12	H	Toronto 	1	1	1	3	5.5u37	5.5u45
+324	13	V	Pittsburgh 	2	1	1	4	-154	-180
+324	14	H	Ottawa 	1	4	3	8	5.5o08	5.5o15
+324	15	V	NY Islanders 	0	2	1	3	5.5u06	5.5
+324	16	H	Tampa Bay 	1	1	2	4	-106	-115
+324	17	V	Boston 	0	1	3	4	5o08	5u15
+324	18	H	Los Angeles 	0	1	1	2	-119	-125
+324	19	V	Vancouver 	0	2	0	3	-120	-110
+324	20	H	Colorado 	1	1	0	2	5o25	5o30
+324	21	V	Phoenix 	2	1	0	3	5o09	5o25
+324	22	H	San Jose 	2	1	0	4	-138	-160
+325	51	V	Edmonton 	0	5	1	6	-115	-115
+325	52	H	Columbus 	1	1	1	3	5.5u17	5.5u20
+325	53	V	Minnesota 	0	0	0	0	5o20	5o25
+325	54	H	Washington 	0	2	1	3	-190	-230
+325	55	V	NY Islanders 	0	1	1	3	5o20	5o25
+325	56	H	Florida 	1	0	1	2	-163	-165
+325	57	V	New Jersey 	1	0	1	2	5.5u11	5.5u30
+325	58	H	Pittsburgh 	2	1	2	5	-190	-180
+325	59	V	Nashville 	2	1	3	6	5.5u27	5.5u30
+325	60	H	Chicago 	0	0	1	1	-137	-135
+325	61	V	Boston 	0	2	1	3	-125	5o45
+325	62	H	Anaheim 	0	1	1	2	5o40	-115
+325	63	V	St. Louis 	0	1	3	4	-118	-130
+325	64	H	Phoenix 	0	0	0	0	5u15	5u25
+326	1	V	Tampa Bay 	2	0	3	5	5.5o25	5.5o25
+326	2	H	Philadelphia 	0	2	1	3	-220	-230
+326	3	V	Columbus 	0	0	2	2	5.5	5.5
+326	4	H	Detroit 	4	2	1	7	-250	-310
+326	5	V	Ottawa 	1	2	3	6	5.5u10	5.5u15
+326	6	H	Winnipeg 	0	3	1	4	-125	-115
+326	7	V	Dallas 	1	2	1	4	5.5u05	5
+326	8	H	Calgary 	1	4	0	5	-115	-115
+326	9	V	Los Angeles 	0	0	0	0	5	5u20
+326	10	H	Vancouver 	1	0	0	1	-145	-130
+326	11	V	Colorado 	0	1	0	1	5o35	5o35
+326	12	H	San Jose 	0	3	2	5	-160	-165
+327	51	V	Chicago 	0	0	1	1	5.5u30	5.5u45
+327	52	H	New Jersey 	1	0	0	2	-125	-135
+327	53	V	NY Islanders 	2	3	0	5	5.5	5.5o25
+327	54	H	Pittsburgh 	0	2	1	3	-270	-300
+327	55	V	Carolina 	2	1	0	3	-104	5.5u15
+327	56	H	Toronto 	0	0	0	0	5.5u10	-115
+327	57	V	Buffalo 	2	2	1	5	-104	-110
+327	58	H	Washington 	0	1	0	1	5.5u35	5o20
+327	59	V	Tampa Bay 	1	0	1	2	5.5o15	5.5o20
+327	60	H	Boston 	1	1	3	5	-240	-280
+327	61	V	Florida 	1	0	1	3	-115	-115
+327	62	H	Montreal 	1	1	0	2	5o10	5o15
+327	63	V	NY Rangers 	1	1	1	3	-180	-190
+327	64	H	Minnesota 	0	2	0	2	5u15	5u25
+327	65	V	Nashville 	0	0	0	0	5u15	5u30
+327	66	H	St. Louis 	0	1	2	3	-155	-145
+328	1	V	NY Rangers 	0	2	2	4	-125	-115
+328	2	H	Winnipeg 	0	2	0	2	5.5u37	5.5u45
+328	3	V	Detroit 	1	0	1	2	-195	-250
+328	4	H	Columbus 	2	2	0	4	5.5o18	5.5o20
+328	5	V	Los Angeles 	1	1	1	3	-105	-120
+328	6	H	Calgary 	0	0	0	0	5u35	5u45
+328	7	V	Dallas 	1	1	1	3	-125	-140
+328	8	H	Edmonton 	0	0	1	1	5.5u27	5.5u45
+328	9	V	Colorado 	0	0	0	0	5o26	5o40
+328	10	H	Vancouver 	1	0	0	1	-170	-155
+328	11	V	San Jose 	0	1	0	1	-120	-125
+328	12	H	Anaheim 	0	1	2	3	5o26	5o30
+329	51	V	Pittsburgh 	0	1	2	3	-190	-200
+329	52	H	NY Islanders 	1	2	2	5	5.5o23	5.5o25
+329	53	V	Philadelphia 	2	2	3	7	-145	-155
+329	54	H	Toronto 	1	0	0	1	5.5o13	5.5o25
+329	55	V	Tampa Bay 	1	2	1	4	5.5u11	5.5u30
+329	56	H	New Jersey 	0	4	2	6	-205	-190
+329	57	V	Washington 	0	0	2	3	5.5u27	5.5u40
+329	58	H	Boston 	0	0	2	2	-190	-180
+329	59	V	Florida 	0	1	1	2	-145	-130
+329	60	H	Minnesota 	0	0	2	3	5u20	5u15
+329	61	V	St. Louis 	1	0	2	3	-109	-115
+329	62	H	Chicago 	1	0	2	4	5o10	5
+329	63	V	San Jose 	0	0	0	0	5o15	5o20
+329	64	H	Phoenix 	0	1	1	2	-114	-125
+330	1	V	Winnipeg 	1	1	1	4	5.5u17	5.5u20
+330	2	H	Carolina 	2	1	0	3	-129	-145
+330	3	V	Florida 	0	0	1	1	-139	-135
+330	4	H	Columbus 	1	1	2	4	5.5u32	5.5u45
+330	5	V	Montreal 	0	0	1	1	5o25	5o20
+330	6	H	NY Rangers 	1	1	2	4	-230	-230
+330	7	V	Pittsburgh 	2	2	1	5	-125	-115
+330	8	H	Buffalo 	2	1	0	3	5.5u11	5.5
+330	9	V	Nashville 	0	2	2	4	5.5u17	5.5u35
+330	10	H	Detroit 	0	0	1	1	-128	-160
+330	11	V	Colorado 	2	1	1	4	5o14	5o25
+330	12	H	Calgary 	0	0	1	1	-123	-120
+330	13	V	Los Angeles 	2	1	1	4	-135	-155
+330	14	H	Edmonton 	1	0	0	1	5	5u25
+330	15	V	Dallas 	0	1	1	2	5o15	5o30
+330	16	H	Vancouver 	1	2	2	5	-154	-145
+331	51	V	Ottawa 	3	0	0	4	5.5o23	5.5o45
+331	52	H	Philadelphia 	0	3	0	3	-149	-150
+331	53	V	Boston 	1	1	4	6	-144	-140
+331	54	H	NY Islanders 	1	1	1	3	5.5u17	5.5u25
+331	55	V	New Jersey 	1	3	1	5	-115	-140
+331	56	H	Carolina 	0	0	0	0	5o15	5o50
+331	57	V	Montreal 	1	1	0	2	5o35	5o50
+331	58	H	Washington 	2	0	0	3	-195	-260
+331	59	V	Buffalo 	0	1	2	3	-155	-150
+331	60	H	Toronto 	1	2	1	4	5.5u22	5.5u25
+331	61	V	Winnipeg 	0	2	0	2	5.5o23	6
+331	62	H	Tampa Bay 	1	0	1	3	-118	-125
+331	63	V	Los Angeles 	2	1	0	3	-149	-145
+331	64	H	Minnesota 	2	0	1	4	5u20	5u40
+331	65	V	Columbus 	2	1	2	5	5o20	5o25
+331	66	H	St. Louis 	1	1	0	2	-335	-360
+331	67	V	Chicago 	1	3	1	5	5.5u17	5.5u30
+331	68	H	Nashville 	0	2	2	4	-134	-140
+331	69	V	Anaheim 	0	0	0	0	5o25	5o25
+331	70	H	Phoenix 	1	3	0	4	-150	-165
+331	71	V	Calgary 	0	1	1	2	5o20	5o30
+331	72	H	Vancouver 	1	0	1	3	-200	-200
+331	73	V	Dallas 	0	0	0	0	5o35	5o40
+331	74	H	San Jose 	2	1	0	3	-158	-170
+401	1	V	Boston 	0	2	0	2	5o25	5o30
+401	2	H	NY Rangers 	1	0	0	1	-139	-140
+401	3	V	Ottawa 	1	3	1	5	-128	-110
+401	4	H	NY Islanders 	1	0	0	1	5.5u06	5.5o15
+401	5	V	Florida 	1	0	0	1	5o35	5.5u35
+401	6	H	Detroit 	0	0	1	2	-173	-180
+401	7	V	Minnesota 	2	2	0	5	5o20	5o30
+401	8	H	Chicago 	1	2	1	4	-225	-230
+401	9	V	Philadelphia 	1	1	4	6	6u22	6o20
+401	10	H	Pittsburgh 	2	0	2	4	-173	-220
+401	11	V	Edmonton 	2	0	0	2	5.5u17	5.5u20
+401	12	H	Anaheim 	1	0	0	1	-144	-160
+402	51	V	Washington 	0	1	1	2	-125	-155
+402	52	H	Tampa Bay 	0	2	2	4	5.5o25	5.5o30
+402	53	V	Edmonton 	0	0	0	0	5	5u20
+402	54	H	Los Angeles 	0	0	2	2	-230	-300
+403	1	V	NY Rangers 	4	1	0	5	5o25	5o40
+403	2	H	Philadelphia 	0	2	1	3	-125	-115
+403	3	V	NY Islanders 	1	0	0	1	5.5u35	5.5u40
+403	4	H	New Jersey 	1	1	1	3	-195	-180
+403	5	V	Toronto 	3	0	2	5	5.5	5.5
+403	6	H	Buffalo 	0	2	3	6	-230	-220
+403	7	V	Pittsburgh 	2	2	1	5	-149	-115
+403	8	H	Boston 	1	1	1	3	6u10	6o15
+403	9	V	Winnipeg 	0	2	2	5	5o30	5o35
+403	10	H	Florida 	2	1	1	4	-150	-155
+403	11	V	Carolina 	0	2	0	2	5.5o15	5.5
+403	12	H	Ottawa 	0	0	1	1	-155	-145
+403	13	V	Minnesota 	0	1	0	1	5o30	5o25
+403	14	H	Nashville 	0	1	0	2	-230	-240
+403	15	V	San Jose 	1	2	2	5	-110	-115
+403	16	H	Dallas 	1	1	0	2	5	5o20
+403	17	V	Anaheim 	2	2	0	4	5o25	5o20
+403	18	H	Vancouver 	2	2	0	5	-205	-175
+403	19	V	Columbus 	0	0	0	0	5.5u20	5.5u30
+403	20	H	Phoenix 	0	2	0	2	-230	-235
+404	51	V	Tampa Bay 	1	0	1	2	5.5o18	-110
+404	52	H	Montreal 	1	2	2	5	-108	5.5o20
+404	53	V	Detroit 	0	0	2	3	5o09	5o15
+404	54	H	St. Louis 	0	0	2	2	-143	-145
+405	1	V	Winnipeg 	2	0	2	4	5.5o18	5.5o20
+405	2	H	NY Islanders 	2	1	2	5	-119	-125
+405	3	V	Tampa Bay 	1	0	1	2	6o13	6o30
+405	4	H	Toronto 	1	0	1	3	-118	-140
+405	5	V	Florida 	0	1	1	2	5o25	5o30
+405	6	H	Washington 	1	2	1	4	-139	-145
+405	7	V	Buffalo 	0	1	0	1	5.5o08	5.5o20
+405	8	H	Philadelphia 	0	0	2	2	-137	-130
+405	9	V	Montreal 	0	1	0	1	5.5u17	5.5u30
+405	10	H	Carolina 	0	1	0	2	-163	-170
+405	11	V	NY Rangers 	1	0	1	2	5.5u05	5.5o35
+405	12	H	Pittsburgh 	2	1	2	5	-168	-175
+405	13	V	New Jersey 	1	0	1	2	5o35	5o40
+405	14	H	Detroit 	0	1	0	1	-154	-170
+405	15	V	Boston 	1	1	1	3	5.5o13	5.5o20
+405	16	H	Ottawa 	0	1	0	1	-125	-130
+405	17	V	Dallas 	0	0	0	0	5o25	5o30
+405	18	H	Nashville 	0	0	2	2	-164	-150
+405	19	V	Chicago 	1	0	0	1	-160	-150
+405	20	H	Minnesota 	0	0	1	2	5o40	5o45
+405	21	V	Columbus 	2	2	1	5	5.5u38	5.5u40
+405	22	H	Colorado 	1	1	0	2	-180	-200
+405	23	V	Vancouver 	1	0	1	2	-145	-145
+405	24	H	Calgary 	0	0	3	3	5o35	5o40
+405	25	V	Anaheim 	0	2	0	3	5.5u16	5.5u30
+405	26	H	Edmonton 	0	1	1	2	-107	-120
+405	27	V	San Jose 	1	1	3	6	5u22	5u40
+405	28	H	Los Angeles 	1	2	2	5	-128	-125
+406	51	V	Phoenix 	1	2	1	4	5u15	5u30
+406	52	H	St. Louis 	1	0	0	1	-164	-175
+407	1	V	Buffalo 	0	1	2	3	5.5u20	5.5u30
+407	2	H	Boston 	0	1	2	4	-144	-190
+407	3	V	Ottawa 	1	1	0	2	5.5u25	5.5u30
+407	4	H	New Jersey 	1	1	2	4	-128	-140
+407	5	V	Washington 	3	1	0	4	5o25	5o25
+407	6	H	NY Rangers 	0	1	0	1	-174	-160
+407	7	V	Philadelphia 	1	1	0	2	6o23	6o25
+407	8	H	Pittsburgh 	1	3	0	4	-144	-170
+407	9	V	Anaheim 	0	1	1	2	5.5u25	5.5u40
+407	10	H	Calgary 	1	2	2	5	-134	-125
+407	11	V	Chicago 	1	1	0	3	5.5u16	5.5u30
+407	12	H	Detroit 	0	0	2	2	-163	-175
+407	13	V	NY Islanders 	0	2	1	3	5.5o08	5.5o20
+407	14	H	Columbus 	1	4	2	7	-118	-120
+407	15	V	Toronto 	0	0	1	1	5.5u10	5.5u15
+407	16	H	Montreal 	1	1	2	4	-119	-125
+407	17	V	Tampa Bay 	1	1	1	4	6o15	6o40
+407	18	H	Winnipeg 	0	1	2	3	-139	-145
+407	19	V	Carolina 	0	0	1	1	5o31	5o45
+407	20	H	Florida 	2	1	1	4	-174	-170
+407	21	V	St. Louis 	0	1	2	3	-130	-150
+407	22	H	Dallas 	0	0	2	2	5	5o20
+407	23	V	Phoenix 	2	1	1	4	-150	-145
+407	24	H	Minnesota 	0	1	0	1	5o09	5o20
+407	25	V	Nashville 	3	1	2	6	-125	-125
+407	26	H	Colorado 	1	0	0	1	5o30	5o40
+407	27	V	Edmonton 	0	0	0	0	5.5u20	5.5u35
+407	28	H	Vancouver 	0	1	2	3	-235	-255
+407	29	V	Los Angeles 	1	1	0	2	5u16	5u30
+407	30	H	San Jose 	0	0	2	3	-138	-145

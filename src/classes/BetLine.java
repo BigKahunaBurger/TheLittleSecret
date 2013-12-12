@@ -17,9 +17,9 @@ class BetLine {
             away = getAnotherC(home);
         } else {
             away = getDecC(moneyLine);
-            home = getAnotherC(home);
+            home = getAnotherC(away);
         }
-        Pattern p = Pattern.compile("([0-9]\\.?[0-9])([ou]?)([0-9]*)");
+        Pattern p = Pattern.compile("([0-9]\\.*[0-9]*)([ou]*)([0-9]*)");
         Matcher m = p.matcher(strTot);
         if (!m.find()) {
             System.out.println(strTot);
@@ -33,7 +33,7 @@ class BetLine {
                 under = getAnotherC(over);
             } else {
                 under = getDecC(-(100 + Integer.parseInt(m.group(3))));
-                over = getAnotherC(over);
+                over = getAnotherC(under);
             }
         }
     }
@@ -49,13 +49,28 @@ class BetLine {
     double getAnotherC(double c) {
         return c / (c * 1.05 - 1);
     }
-    
-    double getProfit(double tot){
-        if(tot >=  total){
-            return over;
-        }else{
-            return -1;
+
+    double getProfit(double predict, double result, double eps) {
+
+        if (Math.abs(predict - result) <= eps) {
+            predict = 1;
+        } else {
+            predict = -1;
         }
+        if (result == total) {
+            return 0;
+        }
+        if (result > total && predict > 0) {
+            return over - 1;
+        } else if (result < total && predict < 0) {
+            return under - 1;
+        }
+        return -1;
+
+    }
+
+    public String toString() {
+        return total + " : " + under + " " + over;
     }
 
 }
