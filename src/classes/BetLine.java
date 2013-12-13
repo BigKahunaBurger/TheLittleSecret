@@ -26,7 +26,7 @@ class BetLine {
             throw new Error();
         }
         total = Double.parseDouble(m.group(1));
-        over = under = 1.9;
+        over = under = 1.95;
         if (m.group(2).length() > 0) {
             if (m.group(2).equals("o")) {
                 over = getDecC(-(100 + Integer.parseInt(m.group(3))));
@@ -50,20 +50,21 @@ class BetLine {
         return c / (c * 1.05 - 1);
     }
 
-    double getProfit(double predict, double result, double eps) {
-
-        if (Math.abs(predict - result) <= eps) {
+    double getProfit(double predict, double result, double eps1, double eps2) {
+        if (Math.abs(predict - total) >= eps1) {
+            predict = -1;
+        } else if (Math.abs(predict - total) <= eps2) {
             predict = 1;
         } else {
-            predict = -1;
+            return 0;
         }
         if (result == total) {
             return 0;
         }
         if (result > total && predict > 0) {
             return over - 1;
-        } else if (result < total && predict < 0) {
-            return under - 1;
+        } else if (predict < 0 && result < total) {
+            return  under - 1 ;
         }
         return -1;
 

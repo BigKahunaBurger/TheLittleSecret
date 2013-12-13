@@ -1,6 +1,5 @@
 package classes;
 
-import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Scanner;
 
@@ -26,11 +25,16 @@ class Match {
         return str.charAt(0) == '-';
     }
 
-    Match(Scanner in) {
+    Match(Scanner in, String label) {
         int moneyLine = 0;
         TeamType team = TeamType.AWAY;
         String total = null;
-        int d = in.nextInt();
+        int d = 0;
+        if (label.equals("new")) {
+            d = in.nextInt();
+        } else {
+            d = Integer.parseInt(label);
+        }
         date = Calendar.getInstance();
         date.set(2000, d / 100, d % 100);
         in.nextInt();
@@ -63,7 +67,7 @@ class Match {
             total = data + "";
         }
         score = new Score(homeScore, awayScore);
-        
+
         betLine = new BetLine(team, moneyLine, total);
 
     }
